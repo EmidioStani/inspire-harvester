@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>a255a7fb-1240-4443-b759-62b76f721757</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="spa"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:positionName>
+                  <gco:CharacterString>Subdirección General de Planificación Hidrológica (SGPH). Dirección General del Agua (DGA)</gco:CharacterString>
+               </gmd:positionName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Plaza de San Juan de la Cruz, 10</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Madrid</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>Madrid</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>28071</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>España</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>bzn-sgph@miteco.es</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.miteco.gob.es/es/cartografia-y-sig/</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2020-05-21</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>Reglamento (CE) Nº 1205/2008 de Inspire + Perfil NEM v1.2</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>TG 2.0.1</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/4258">EPSG:4258 (ETRS89 coordenadas geográficas)</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Zonas vulnerables a contaminación por nitratos (Informe cuatrienio 2016-2019. Dir 91/676/CEE)</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>ZZVV_NITRATOS_2016-2019</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2020-05-21</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2020-10-29</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2020-10-29</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>ES_AM_NVZ_2016_2019</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>MITECO</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                     <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital"/>
+                     </gmd:presentationForm>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Zonas Vulnerables a contaminación por Nitratos procedentes de la actividad agraria, conforme a la Directiva 91/676/CEE, relativa a la protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias ("Directiva de Nitratos"). Son controladas por estaciones de toma de muestras subterráneas y superficiales, y la información se reporta a la Comisión Europea cada cuatro años.
+La presente versión de las zonas vulnerables se corresponde con la que se recoge en el informe de seguimiento de la Directiva 91/676/CEE correspondiente al cuatrienio 2016-2019.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:purpose>
+                  <gco:CharacterString>Control de la contaminación por nitratos procedentes de fuentes agrarias. Cumplimiento de las obligaciones de información derivadas de la Directiva de Nitratos.</gco:CharacterString>
+               </gmd:purpose>
+               <gmd:credit>
+                  <gco:CharacterString>Comunidades Autónomas</gco:CharacterString>
+               </gmd:credit>
+               <gmd:credit>
+                  <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+               </gmd:credit>
+               <gmd:credit>
+                  <gco:CharacterString>Confederaciones hidrográficas</gco:CharacterString>
+               </gmd:credit>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Subdirección General de Planificación Hidrológica (SGPH). Dirección General del Agua (DGA)</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Plaza de San Juan de la Cruz, 10</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Madrid</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>Madrid</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>28071</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>España</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>bzn-sgph@miteco.es</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>ES_AM_NVZ_2016_2019_vInspire_s.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString>thumbnail</gco:CharacterString>
+                     </gmd:fileDescription>
+                     <gmd:fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                     </gmd:fileType>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>ES_AM_NVZ_2016_2019_vInspire.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                     </gmd:fileDescription>
+                     <gmd:fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                     </gmd:fileType>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor>fertilización del suelo</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>fuente difusa</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>contaminación agrícola</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>contaminación difusa</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>contaminación orgánica</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>contaminación mineral</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>contaminantes del agua</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>contaminantes del suelo</gmx:Anchor>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">Nacional</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial Scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/am">Zonas sujetas a ordenación, a restricciones o reglamentaciones y unidades de notificación</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/am">Area management/restriction/regulation zones and reporting units</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/NitrateVulnerableZones-NutrientSensitiveAreas-dir-2000-60">Nitrate vulnerable zones - nutrient sensitive areas (Water Framework Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/NitratesVulnerableZones-dir-1991-676">Nitrates vulnerable zones (Nitrates Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceSpecificUsage>
+                  <gmd:MD_Usage>
+                     <gmd:specificUsage>
+                        <gco:CharacterString>Gestión de las zonas vulnerables a la contaminación por nitratos de fuentes agrarias. Envío de información a la Comisión Europea conforme a la Directiva 91/676/CEE.</gco:CharacterString>
+                     </gmd:specificUsage>
+                     <gmd:userContactInfo>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>bzn-sgph@miteco.es</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator"/>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:userContactInfo>
+                  </gmd:MD_Usage>
+               </gmd:resourceSpecificUsage>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</gmx:Anchor>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Nombrar a la fuente: Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/INSPIRE_Directive_Article13_1d">Limitación de acceso público basado en el artículo 13 (1d) de la directiva Inspire</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>25000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="spa"/>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>inlandWaters</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:description>
+                        <gco:CharacterString>Península Ibérica, Islas Baleares, Islas Canarias, Ceuta y Melilla</gco:CharacterString>
+                     </gmd:description>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>-19.00</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>4.57</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>27.00</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>44.04</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>SHP-ArcView ShapeFile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>Desconocido</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>Desconocido</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/zonas-vulnerables-2016_2019_tcm30-518001_tcm30-531120.kmz</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>GLG:KML-2.0-http-get-map</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>0</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Capa de Google Earth (KMZ) de Zonas Vulnerables según la Directiva de Nitratos. Versión informe cuatrienio 2016-2019</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wms.mapama.gob.es/sig/Agua/ZonasVulnerables/2016-2019/wms.aspx</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:WMS-1.1.1-http-get-map</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>AM.NitrateVulnerableZone</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Zonas Vulnerables según la Directiva de Nitratos. Versión informe cuatrienio 2016-2019</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wms.mapama.gob.es/sig/Agua/ZonasVulnerables/2016-2019/wms.aspx?Request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Zonas Vulnerables según la Directiva de Nitratos. Versión informe cuatrienio 2016-2019:</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.mapama.gob.es/ide/inspire/atom/downloadservice.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Enlace de descarga del servicio ATOM:</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.mapama.gob.es/ide/inspire/atom/CategAgua/downloadservice.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Enlace de descarga del servicio ATOM Categoría Agua:</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://sig.mapama.gob.es/geoportal</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Geoportal del Ministerio:</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/zonas-vulnerables-2016_2019_tcm30-518001.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>application/vnd.shp</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Península Ibérica, Islas Baleares, Islas Canarias, Ceuta y Melilla - EPSG:4258</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Descarga cartografía digital (shapefile):</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">Reglamento (UE) no 1089/2010 de la Comisión, de 23 de noviembre de 2010, por el que se aplica la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a la interoperabilidad de los conjuntos y los servicios de datos espaciales</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Consultar el reglamento mencionado</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>false</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2008/1205">REGLAMENTO (CE) Nº 1205/2008 DE LA COMISIÓN de 3 de diciembre de 2008 por el que se ejecuta la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a los metadatos</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2008-12-04</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Consultar el reglamento mencionado</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Integración de la información aportada por las Comunidades Autónomas, en respuesta a la Directiva 91/676/CEE ("Directiva de nitratos"). Adaptación al formato de datos establecido en las normas de reporte de la información de la Directiva de Nitratos, que se pueden consultar en http://dd.eionet.europa.eu/datasets/3008</gco:CharacterString>
+                     </gmd:statement>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Comunidades Autónomas</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

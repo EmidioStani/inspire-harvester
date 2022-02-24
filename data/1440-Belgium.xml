@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20070417/gmx/gmx.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>8cdb6005-7c52-40c8-be34-a365971592ed</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="MD_CharacterSetCode_utf8" codeSpace="ISOTC211/19115"/>
+         </gmd:characterSet>
+         <gmd:parentIdentifier gco:nilReason="missing">
+            <gco:CharacterString/>
+         </gmd:parentIdentifier>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Equipe Geodata</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Equipe Geodata</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:individualName>
+               <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Bruxelles Environnement / Leefmilieu Brussel</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Bruxelles Environnement / Leefmilieu Brussel</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>86C avenue du Port</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">86C avenue du Port</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Bruxelles</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>1000</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:electronicMailAddress xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>geodata@environnement.brussels</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">geodata@environnement.brussels</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime>2020-12-14T17:01:51</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO19115</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:locale>
+            <gmd:PT_Locale id="NL">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="dut"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale>
+            <gmd:PT_Locale id="EN">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale>
+            <gmd:PT_Locale id="FR">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/3035</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">http://www.opengis.net/def/crs/EPSG/0/3035</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:code>
+                     <gmd:version>
+                        <gco:CharacterString>7.9</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Cadastre du bruit routier 2016 - Ln</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Cadastre du bruit routier 2016 - Ln</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Kadaster van het wegverkeersgeluid 2016 - Ln</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Strategic road noise map 2016 - Ln</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2017-12-22</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2017-12-22</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2017-12-22</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>BRU_ENVI_8cdb6005-7c52-40c8-be34-a365971592ed</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>BE.BELB</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Région de Bruxelles-Capitale : Cadastre (cartes de contours) du bruit du trafic routier 2016 pour l'indicateur acoustique Ln (indicateur de bruit pour la période nocturne). Ces cartes sont réalisées avec un modèle acoustique conformément aux prescriptions de la directive européenne 2002/49/CE.</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Région de Bruxelles-Capitale : Cadastre (cartes de contours) du bruit du trafic routier 2016 pour l'indicateur acoustique Ln (indicateur de bruit pour la période nocturne). Ces cartes sont réalisées avec un modèle acoustique conformément aux prescriptions de la directive européenne 2002/49/CE.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#NL">Brussels Hoofdstedelijk Gewest : Kadaster (geluidscontourkaarten) van het wegverkeersgeluid 2016 voor de akoestische indicator Ln (nacht-geluidsbelastingsindicator). Deze kaarten worden opgesteld met een akoestische model conform aan Europese Richtlijn 2002/49/EG.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Strategic road noise map 2016 - Lden
+Brussels-Capital Region : Road traffic noise register 2016 (noise contours maps) for the Ln acoustic indicator (night-time noise indicator). These maps are produced with an acoustic model in accordance with the prescriptions of the European directive 2002/49/EC.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Marie POUPE</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Marie POUPE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:individualName>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Bruxelles Environnement / Leefmilieu Brussel</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Bruxelles Environnement / Leefmilieu Brussel</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone/>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>86C avenue du Port</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">86C avenue du Port</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Bruxelles</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>1000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Belgique</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>mpoupe@environnement.brussels</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">mpoupe@environnement.brussels</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Equipe Geodata</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Equipe Geodata</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:individualName>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Bruxelles Environnement / Leefmilieu Brussel</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Bruxelles Environnement / Leefmilieu Brussel</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone/>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>86C avenue du Port</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">86C avenue du Port</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Bruxelles</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>1000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Belgique</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>geodata@environnement.brussels</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">geodata@environnement.brussels</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>http://geobru-geonetwork.irisnet.be/geonetwork/srv/api/records/8cdb6005-7c52-40c8-be34-a365971592ed/attachments/cd_rt_ln_16_s.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>thumbnail</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">thumbnail</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL"/>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN"/>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:fileDescription>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>http://geobru-geonetwork.irisnet.be/geonetwork/srv/api/records/8cdb6005-7c52-40c8-be34-a365971592ed/attachments/cd_rt_ln_16.jpg</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">large_thumbnail</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL"/>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN"/>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:fileDescription>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Belgique</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Région de Bruxelles-Capitale</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Région de Bruxelles-Capitale</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Brussels Hoofdstedelijk Gewest</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Région de Bruxelles-Capitale</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>GeoBru Administrative Regions</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">GeoBru Administrative Regions</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2013-06-12</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>http://www.geo.irisnet.be/adminregions</gco:CharacterString>
+                           </gmd:edition>
+                           <gmd:editionDate>
+                              <gco:Date>2013-06-12</gco:Date>
+                           </gmd:editionDate>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>geonetwork.thesaurus.external.place.geobru-regions</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Reporting Inspire</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Reporting Inspire</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Reporting Inspire</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Reporting Inspire</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>GeoBru brussels keywords</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">GeoBru brussels keywords</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2013-06-12</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>http://www.geo.irisnet.be/adminregions</gco:CharacterString>
+                           </gmd:edition>
+                           <gmd:editionDate>
+                              <gco:Date>2013-06-12</gco:Date>
+                           </gmd:editionDate>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>geonetwork.thesaurus.external.theme.geobru-keywords</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/hh">Santé et sécurité des personnes</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Santé et sécurité des personnes</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Menselijke gezondheid en veiligheid</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Human health and safety</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">GEMET - INSPIRE themes, version 1.0</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>http://geonetwork-opensource.org/inspire-theme</gco:CharacterString>
+                           </gmd:edition>
+                           <gmd:editionDate>
+                              <gco:Date>2008-06-01</gco:Date>
+                           </gmd:editionDate>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>geonetwork.thesaurus.external.theme.inspire-theme</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>bruit routier</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">bruit routier</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">verkeerslawaai</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">traffic noise</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>environnement</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">environnement</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">milieu</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">environment</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>santé</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">santé</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">gezondheid</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">health</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>bruit ambiant</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">bruit ambiant</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">omgevingsgeluid</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">environmental noise</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>bruit</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">bruit</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">geluid</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">noise</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>modélisation</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">modélisation</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">modellering</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">modelling</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>cadastre</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">cadastre</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">eigendomsregister</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">land and property register</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>GEMET - Concepts, version 2.4</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">GEMET - Concepts, version 2.4</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2010-01-13</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>http://geonetwork-opensource.org/gemet</gco:CharacterString>
+                           </gmd:edition>
+                           <gmd:editionDate>
+                              <gco:Date>2010-01-13</gco:Date>
+                           </gmd:editionDate>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>geonetwork.thesaurus.external.theme.gemet</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Directive 2002/49/EC</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Directive 2002/49/EC</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Directive 2002/49/EC</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Directive 2002/49/EC</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Environmental noise exposure (Noise Directive)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Environmental noise exposure (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Environmental noise exposure (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Environmental noise exposure (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Agglomerations - roads noise exposure delineation (Noise Directive)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Agglomerations - roads noise exposure delineation (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Agglomerations - roads noise exposure delineation (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Agglomerations - roads noise exposure delineation (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Agglomerations - roads noise exposure delineation - night (Noise Directive)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Agglomerations - roads noise exposure delineation - night (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Agglomerations - roads noise exposure delineation - night (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Agglomerations - roads noise exposure delineation - night (Noise Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">INSPIRE priority data set</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset</gco:CharacterString>
+                           </gmd:edition>
+                           <gmd:editionDate>
+                              <gco:Date>2018-04-04</gco:Date>
+                           </gmd:editionDate>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>geonetwork.thesaurus.external.theme.PriorityDataset</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Régional</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Régional</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Regionaal</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Regional</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Spatial scope</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>geonetwork.thesaurus.external.theme.SpatialScope</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Pas de restriction d’accès public selon INSPIRE</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Pas de restriction d’accès public selon INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useLimitation xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Pas de restriction d’accès public selon INSPIRE</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Pas de restriction d’accès public selon INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Geen beperking op de algemene toegang volgens INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">no conditions apply</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:useLimitation>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license"/>
+                     </gmd:accessConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Les données peuvent être (ré)utilisées librement, sous réserve de mentionner la source. Les conditions d’accès et d’utilisation sont décrites dans la licence standardisée CC-By (Creative Commons-Attribution) consultable sur https://creativecommons.org/licenses/by/4.0/legalcode</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Les données peuvent être (ré)utilisées librement, sous réserve de mentionner la source. Les conditions d’accès et d’utilisation sont décrites dans la licence standardisée CC-By (Creative Commons-Attribution) consultable sur https://creativecommons.org/licenses/by/4.0/legalcode</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:distance>
+                        <gco:Distance uom="m">10</gco:Distance>
+                     </gmd:distance>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>4.241242610760647</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>4.479757833015491</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>50.76316244493342</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>50.913320904907515</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml:TimePeriod gml:id="IDcd3b1c4f-b5f7-439a-afc4-3317a4cd89be">
+                                 <gml:beginPosition>2016-01-01</gml:beginPosition>
+                                 <gml:endPosition>2016-12-31</gml:endPosition>
+                              </gml:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>GML</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">GML</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>3.2.1</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:unitsOfDistribution>
+                        <gco:CharacterString>MB</gco:CharacterString>
+                     </gmd:unitsOfDistribution>
+                     <gmd:transferSize>
+                        <gco:Real>0.5</gco:Real>
+                     </gmd:transferSize>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:unitsOfDistribution>
+                        <gco:CharacterString>B</gco:CharacterString>
+                     </gmd:unitsOfDistribution>
+                     <gmd:transferSize>
+                        <gco:Real>1</gco:Real>
+                     </gmd:transferSize>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wfs.environnement.brussels/belb_inspire?SERVICE=WFS&amp;VERSION=1.0.0&amp;REQUEST=GetFeature&amp;TYPENAME=bruenvi_noise_road_ln_16</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>INSPIRE-Download-Atom</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gmx:MimeFileType type="application/gml+xml">bruenvi_noise_road_ln_16</gmx:MimeFileType>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/OnLineDescriptionCode/accessPoint">http://www.opengis.net/def/crs/EPSG/0/3035</gmx:Anchor>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">http://www.opengis.net/def/crs/EPSG/0/3035</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wms.environnement.brussels/belb_inspire?</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:WMS</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>INSPIRE-View-WMS</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Bruenvi / Service de visualisation WMS - New version</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Bruenvi / Service de visualisation WMS - New version</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/OnLineDescriptionCode/accessPoint">http://www.opengis.net/def/crs/EPSG/0/3035</gmx:Anchor>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">http://www.opengis.net/def/crs/EPSG/0/3035</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult xsi:type="gmd:DQ_ConformanceResult_Type">
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>RÈGLEMENT (UE) N o 1089/2010 DE LA COMMISSION du 23 novembre 2010 portant modalités d'application de la directive 2007/2/CE du Parlement européen et du Conseil en ce qui concerne l'interopérabilité des séries et des services de données géographiques</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">RÈGLEMENT (UE) N o 1089/2010 DE LA COMMISSION du 23 novembre 2010 portant modalités d'application de la directive 2007/2/CE du Parlement européen et du Conseil en ce qui concerne l'interopérabilité des séries et des services de données géographiques</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Voir la spécification référencée</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Voir la spécification référencée</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>false</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Bruxelles Environnement / Leefmilieu Brussel</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Bruxelles Environnement / Leefmilieu Brussel</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+         <gmd:metadataMaintenance>
+            <gmd:MD_MaintenanceInformation>
+               <gmd:maintenanceAndUpdateFrequency>
+                  <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded"/>
+               </gmd:maintenanceAndUpdateFrequency>
+            </gmd:MD_MaintenanceInformation>
+         </gmd:metadataMaintenance>
+      </gmd:MD_Metadata>

@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20060504/gmd/gmd.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>232844d3-26c5-47e4-9dae-1386fc4647e9</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+         </gmd:language>
+         <gmd:characterSet xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Belgian Interregional Environment Agency (IRCEL - CELINE)</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Belgian Interregional Environment Agency (IRCEL - CELINE)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#NL">Intergewestelijke Cel voor het Leefmilieu (IRCEL)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Cellule Interrégionale de l'Environnement (CELINE)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Belgische Interregionale Umweltagentur (IRCEL - CELINE)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Gaucheretstraat 92</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Gaucheretstraat 92</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Gaucheretstraat 92</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Rue Gaucheret 92</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Rue Gaucheret 92</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Brussels</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>1030</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Belgium</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:country>
+                           <gmd:electronicMailAddress xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>info@irceline.be</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">info@irceline.be</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">info@irceline.be</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">info@irceline.be</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">info@irceline.be</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.irceline.be/</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>https://www.irceline.be/en</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">https://www.irceline.be/en</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">https://www.irceline.be/nl</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">https://www.irceline.be/fr</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">https://www.irceline.be/de</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gco:DateTime>2020-04-28T15:52:16</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gco:CharacterString>ISO19115</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:dataSetURI xmlns:gml="http://www.opengis.net/gml/3.2" gco:nilReason="missing">
+            <gco:CharacterString/>
+         </gmd:dataSetURI>
+         <gmd:locale xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:PT_Locale id="NL">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="dut"/>
+               </gmd:languageCode>
+               <gmd:country>
+                  <gmd:Country codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#Country" codeListValue="Belgium"/>
+               </gmd:country>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:PT_Locale id="FR">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:PT_Locale id="DE">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale>
+            <gmd:PT_Locale id="EN">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:referenceSystemInfo xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>https://www.opengis.net/def/crs/EPSG/0/4258</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">https://www.opengis.net/def/crs/EPSG/0/4258</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>IRCEL - CELINE</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Air quality assessment zones of Belgium</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Air quality assessment zones of Belgium</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Zones voor de beoordeling van de luchtkwaliteit van België</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">zone de gestion de la qualité de l’air en Belgique</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Luftqualitätsbewertungszonen in Belgien</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:DateTime>2015-12-23T09:30:00</gco:DateTime>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:DateTime>2015-12-22T09:30:00</gco:DateTime>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>https://geo.irceline.be/csw/232844d3-26c5-47e4-9dae-1386fc4647e9</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>The zones are used as reporting units of the air quality in Belgium. These zones are defined based on Article 3 of the 2004/107/EC Directive and Article 4 of the 2008/50/EC Directive. A zones shall mean a part of the territory of a Member State, as delimited by that Member State for the purposes of air quality assessment and management (source: 2008/50/EC).2008/50/EC Article 4: Establishment of zones and agglomerations: Member States shall establish zones and agglomerations throughout their territory. Air quality assessment and air quality management shall be carried out in all zones and agglomerations.</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">The zones are used as reporting units of the air quality in Belgium. These zones are defined based on Article 3 of the 2004/107/EC Directive and Article 4 of the 2008/50/EC Directive. A zones shall mean a part of the territory of a Member State, as delimited by that Member State for the purposes of air quality assessment and management (source: 2008/50/EC).2008/50/EC Article 4: Establishment of zones and agglomerations: Member States shall establish zones and agglomerations throughout their territory. Air quality assessment and air quality management shall be carried out in all zones and agglomerations.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#NL">De zones worden als rapporteringseenheden gebruikt van de luchtkwaliteit in België naar de EU toe. Deze zones zijn gedefinieerd op basis van het Artikel 3 van de Kaderrichtlijn 2004/107/EC en het Artikel 4 van de Kaderrichtlijn 2008/50/EC, waarin beschreven staat hoe de beoordeling en het beheer van de luchtkwaliteit in het volgend kalenderjaar uitgevoerd zal worden. Een zone is een door een lidstaat met het oog op de beoordeling en het beheer van de luchtkwaliteit afgebakend gedeelte van zijn grondgebied (bron: 2008/50/EC).
+2008/50/EC Artikel 4: Aanwijzing van zones en agglomeraties: De lidstaten wijzen voor hun hele grondgebied zones en agglomeraties aan. In alle zones en agglomeraties vinden luchtkwaliteitsbeoordeling en luchtkwaliteitsbeheer plaats.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Les zones sont utilisées comme unités de rapportage de la qualité de l’air en Belgique. Ces zones sont définies sur base de l’Article 3 de la Directive 20014/107/EC et de l’Article 4 de la Directive 2008/50/EC. Une zone doit comprendre une partie du territoire de l’Etat Membre, telle que délimitée par cet Etat Membre dans l’objectif de la gestion et l’évaluation de la qualité de l’air (source: 2008/50/EC). 
+Article 4 de la directive 2008/50/EC : Définition des zones et agglomérations : Les Etats Membres doivent définir des zones et agglomérations à travers leur territoire. L’évaluation et la gestion de la qualité de l’air doivent être effectuées pour chacune des zones et des agglomérations définies.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Belgian Interregional Environment Agency (IRCEL - CELINE)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Belgian Interregional Environment Agency (IRCEL - CELINE)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Intergewestelijke Cel voor het Leefmilieu (IRCEL)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Cellule Interrégionale de l'Environnement (CELINE)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Belgische Interregionale Umweltagentur (IRCEL - CELINE)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Gaucheretstraat 92</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Gaucheretstraat 92</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">Gaucheretstraat 92</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Rue Gaucheret 92</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Rue Gaucheret 92</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Brussels</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>1030</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Belgium</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>info@irceline.be</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">info@irceline.be</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">info@irceline.be</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">info@irceline.be</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">info@irceline.be</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://www.irceline.be/</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>https://www.irceline.be/en</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">https://www.irceline.be/en</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">https://www.irceline.be/nl</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">https://www.irceline.be/fr</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">https://www.irceline.be/de</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:description>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>https://www.irceline.be/air/csw/thumbnails/AQ_zones.jpg</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>thumbnail air quality assessment zones</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">thumbnail air quality assessment zones</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">thumbnail luchtkwaliteit beoordelingszones</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">vignette zone de gestion de la qualité de l’air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">thumbnail Luftqualitätsbewertungszonen</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:fileDescription>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Belgium</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>ThIST - Italian Thesaurus of Earth Sciences (Version: Linked Data 1.0)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">ThIST - Italian Thesaurus of Earth Sciences (Version: Linked Data 1.0)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">ThIST - Italian Thesaurus of Earth Sciences (Version: Linked Data 1.0)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">ThIST - Italian Thesaurus of Earth Sciences (Version: Linked Data 1.0)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">ThIST - Italian Thesaurus of Earth Sciences (Version: Linked Data 1.0)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:DateTime>2014-08-04T09:30:00</gco:DateTime>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>EU Directive 2008/50/EC</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">EU Directive 2008/50/EC</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">EU Kaderrichtlijn 2008/50/EC</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>air quality</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">air quality</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">luchtkwaliteit</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>air</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">lucht</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Luft</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>air quality</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">air quality</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">luchtkwaliteit</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">qualité de l'air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Luftgüte</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>air quality monitoring</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">air quality monitoring</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">toezicht op de kwaliteit van de lucht</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">contrôle de la qualité de l'air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Immissionsüberwachung</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>environmental policy</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">environmental policy</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">milieubeleid (overheid)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">politique de l'environnement</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Umweltpolitik</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>health protection</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">health protection</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">gezondheidsbescherming</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">protection de la santé</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Gesundheitsschutz</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>GEMET - Concept themes, version 4.01</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">GEMET - Concept themes, version 4.01</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">GEMET - Concept themes, version 4.01</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">GEMET - Concept themes, version 4.01</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">GEMET - Concept themes, version 4.01</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2012-07-20</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="https://publish.geo.be/geonetwork/srv/eng/thesaurus.download?ref=external.theme.gemet">geonetwork.thesaurus.external.theme.gemet</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Dataflow B</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Dataflow B</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Dataflow B</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Dataflow B</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Dataflow B</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>air quality policy</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">air quality policy</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">luchtkwaliteitsbeleid</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">politique de qualité de l'air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Luftqualitätspolitik</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>EARTh- Enviromental Applications Reference THesaurus (Version: Linked Data 1.5)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">EARTh- Enviromental Applications Reference THesaurus (Version: Linked Data 1.5)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">EARTh- Enviromental Applications Reference THesaurus (Version: Linked Data 1.5)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">EARTh- Enviromental Applications Reference THesaurus (Version: Linked Data 1.5)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">EARTh- Enviromental Applications Reference THesaurus (Version: Linked Data 1.5)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:DateTime>2014-06-04T09:30:00</gco:DateTime>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>EU environmental policy</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">EU environmental policy</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">EU-milieubeleid</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Politique environnementale de l'UE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">EU-Umweltpolitik</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>monitoring of pollution</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">monitoring of pollution</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">monitoring van vervuiling</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>EUROVOC (ver: 4.4)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">EUROVOC (ver: 4.4)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">EUROVOC (ver: 4.4)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">EUROVOC (ver: 4.4)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">EUROVOC (ver: 4.4)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:DateTime>2012-12-15T09:30:00</gco:DateTime>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword gco:nilReason="template" xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Air Quality Assessment Zones</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Air Quality Assessment Zones</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Zones voor de beoordeling van de luchtkwaliteit</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">zone de gestion de la qualité de l’air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Luftqualitätsbewertungszonen</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Reporting INSPIRE</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Management zones and agglomerations (Air Quality Directive)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Management zones and agglomerations (Air Quality Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Zones en agglomeraties (Richtlijn Luchtkwaliteit)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR"/>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE"/>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Model areas (Air Quality Directive)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Model areas (Air Quality Directive)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Modelgebied (Richtlijn Luchtkwaliteit)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR"/>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE"/>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">INSPIRE priority data set</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="https://geo.irceline.be/csw/srv/eng/thesaurus.download?ref=external.theme.PriorityDataset">geonetwork.thesaurus.external.theme.PriorityDataset</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Area management/restriction/regulation zones and reporting units</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Area management/restriction/regulation zones and reporting units</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Gebiedsbeheer, gebieden waar beperkingen gelden, gereguleerde gebieden en rapportage-eenheden</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Zones de gestion, de restriction ou de réglementation et unités de déclaration</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title gco:nilReason="missing" xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">GEMET - INSPIRE themes, version 1.0</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://localhost:8080/csw/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeutheme-theme">geonetwork.thesaurus.external.theme.httpinspireeceuropaeutheme-theme</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>air quality management zone</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">air quality management zone</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">luchtkwaliteitsbeheersgebied</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">zone de gestion de la qualité de l’air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Luftqualitäts-Kontrollgebiet</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title gco:nilReason="missing" xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Zone Type Code</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Zone Type Code</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-11-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://localhost:8080/csw/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeucodelistZoneTypeCode-ZoneTypeCode">geonetwork.thesaurus.external.theme.httpinspireeceuropaeucodelistZoneTypeCode-ZoneTypeCode</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Air Quality Directive</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Air Quality Directive</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>AQD</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">AQD</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>air</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">lucht</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">air</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Luft</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title gco:nilReason="missing" xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Environmental Domain</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Environmental Domain</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-11-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://localhost:8080/csw/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeucodelistEnvironmentalDomain-EnvironmentalDomain">geonetwork.thesaurus.external.theme.httpinspireeceuropaeucodelistEnvironmentalDomain-EnvironmentalDomain</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>32008L0050</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">32008L0050</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">32008L0050</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">32008L0050</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">32008L0050</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20060504/gmd/gmd.xsd">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>National</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">National</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Nationaal</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Nationales</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">National</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title gco:nilReason="missing" xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Spatial scope</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Spatial scope</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-10-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://localhost:8080/csw/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeumetadatacodelistSpatialScope-SpatialScope">geonetwork.thesaurus.external.theme.httpinspireeceuropaeumetadatacodelistSpatialScope-SpatialScope</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_Constraints>
+                     <gmd:useLimitation xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>https://creativecommons.org/licenses/by/4.0/</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">https://creativecommons.org/licenses/by/4.0/</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">https://creativecommons.org/licenses/by/4.0/deed.nl</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:useLimitation>
+                  </gmd:MD_Constraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>No</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">No</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">neen</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>no limitation</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">no limitation</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">geen beperking</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>1500000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>climatologyMeteorologyAtmosphere</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>2.55</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>6.41</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>49.50</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>51.51</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml:TimePeriod gml:id="d1442e602a1052958">
+                                 <gml:beginPosition>2014-01-01T09:30:00</gml:beginPosition>
+                                 <gml:endPosition indeterminatePosition="before">2014-12-31T09:30:00</gml:endPosition>
+                              </gml:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat xmlns:date="http://exslt.org/dates-and-times" xmlns:gml="http://www.opengis.net/gml/3.2">
+                  <gmd:MD_Format>
+                     <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Administrative units GML application schema</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Administrative units GML application schema</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>version 3.0; GML, version 3.2.1</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://geo.irceline.be/aqd/air_quality_assessment_zones/ows?service=wms&amp;version=1.3.0&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:WMS</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>air_quality_assessment_zones</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">air_quality_assessment_zones</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">air_quality_assessment_zones</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">air_quality_assessment_zones</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">air_quality_assessment_zones</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>The zones are used as reporting units of the air quality in Belgium. Air Quality Assessment Zones are pollutant specific and only applicable for a given year. The data service supports Common Query Language (CQL).</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">The zones are used as reporting units of the air quality in Belgium. Air Quality Assessment Zones are pollutant specific and only applicable for a given year. The data service supports Common Query Language (CQL).</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">De zones worden als rapporteringseenheden gebruikt van de luchtkwaliteit in België naar de EU toe. De zones voor de beoordeling van de luchtkwaliteit zijn polluent specifiek en alleen van toepassing voor een bepaald jaar. De gegevensdienst ondersteunt "Common Query Language (CQL)".</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Les zones sont utilisées comme unités déclarantes de la qualité de l'air en Belgique. Les zones d'évaluation de la qualité de l'air sont spécifiques aux polluants et ne s'appliquent que pour une année donnée. Le service de données prend en charge Common Query Language (CQL).</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Die Zonen werden in Belgien als Berichtseinheiten für die Luftqualität verwendet. Luftqualitätsbewertungszonen sind schadstoffspezifisch und gelten nur für ein bestimmtes Jahr. Der Datendienst unterstützt Common Query Language (CQL).</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xmlns:gml="http://www.opengis.net/gml/3.2" uuidref="undefined">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://geo.irceline.be/csw/srv/api/records/232844d3-26c5-47e4-9dae-1386fc4647e9/formatters/xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>View service Air Quality Data Belgium - WMS</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">View service Air Quality Data Belgium - WMS</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">View service luchtkwaliteitgegevens België - WMS</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">View service données sur la qualité de l'air Belgique - WMS</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">View service luftqualitätsdaten Belgien - WMS</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>View service Air Quality Data Belgium - WMS</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">View service Air Quality Data Belgium - WMS</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo xmlns:gml="http://www.opengis.net/gml/3.2">
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:nameOfMeasure xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>INSPIRE Conformity</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">INSPIRE Conformity</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">INSPIRE Conformiteit</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Conformité INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">INSPIRE Konformität</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:nameOfMeasure>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">Verordening (EU) n r. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Règlement (UE) N° 1089/2010 de la Commission du 23 novembre 2010 portant modalités d'application de la directive 2007/2/CE du Parlement européen et du Conseil en ce qui concerne l'interopérabilité des séries et des services de données géographiques</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Verordnung (EG) Nr. 1089/2010 der Kommission vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>The dataset described fills the technical requirements sustaining the interoperability of data sets and services, as stipulated in the Commission Regulation (EU) No 1089/2010 of 23 November 2010</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">The dataset described fills the technical requirements sustaining the interoperability of data sets and services, as stipulated in the Commission Regulation (EU) No 1089/2010 of 23 November 2010</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">De beschreven dataset beantwoordt aan de technische vereisten die de interoperabiliteit van verzamelingen gegevens et van diensten verzekeren, zoals bepaald in de Verordening (EU) Nr. 1089/2010 van de Commissie van 23 november 2010</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Le jeu de données décrit répond aux exigences techniques assurant l’interopérabilité des jeux de données et des services, telles qu’elles sont définies par le Règlement (UE) n° 1089/2010 de la Commission du 23 novembre 2010.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Der beschriebene Datensatz erfüllt die technischen Anforderungen, die die Interoperabilität der Datensätze und Dienste versichern, wie festgelegt in der Verordnung (EG) Nr. 1089/2010 der Kommission vom 23. November 2010</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>The dataset is created in the context of the 2008/50/EC Framework Directive. The Belgian territory is devided into zones according to the instructions listed in the 2008/50/EC Directive. Air Quality Assessment Zones are pollutant specific and only applicable for a given year. The data service supports Common Query Language (CQL).</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">The dataset is created in the context of the 2008/50/EC Framework Directive. The Belgian territory is devided into zones according to the instructions listed in the 2008/50/EC Directive. Air Quality Assessment Zones are pollutant specific and only applicable for a given year. The data service supports Common Query Language (CQL).</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">De gegevenslaag werd aangemaakt in het kader van de kaderrichtlijn lucht (2008/50/EC). Het Belgische grondgebied werd in zones opgedeeld volgens de instructies zoals vervat in kaderrichtlijn 2008/50/EC. De zones voor de beoordeling van de luchtkwaliteit zijn polluent specifiek en alleen van toepassing voor een bepaald jaar. De gegevensdienst ondersteunt "Common Query Language (CQL)".</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

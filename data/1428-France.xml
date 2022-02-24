@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">3cc909f3-e138-44ef-b8d2-beeaed886e3d</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:parentIdentifier>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">13b2acad-1016-4629-bb89-8a6208e1e530</gco:CharacterString>
+         </gmd:parentIdentifier>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Série de données</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">BRGM</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo xlink:type="simple">
+                  <gmd:CI_Contact>
+                     <gmd:address xlink:type="simple">
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">3 Avenue Claude Guillemin</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ORLEANS</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">45100</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">contact-brgm@brgm.fr</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2020-11-19T12:38:42</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115:2003/19139</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1.0</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier xlink:type="simple">
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">4326</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                     <gmd:version>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">7.4</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_DataIdentification>
+               <gmd:citation xlink:type="simple">
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Territoire à risque d’inondation (TRI) du SIG Directive inondation - Réunion - rapportage 2013</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date xlink:type="simple">
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2013-09-30</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier xlink:type="simple">
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://data.georisques.fr/id/dataset/3cc909f3-e138-44ef-b8d2-beeaed886e3d</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Série de données géographiques du territoire à risque important d’inondation (TRI)  produites pour le SIG Directive inondation agrégées et cartographiées aux fins de rapportage pour la directive européenne sur les inondations.La Directive européenne 2007/60/CE du 23 octobre 2007 relative à l'évaluation età la gestion des risques d'inondation (JOUE L 288, 06-11-2007, p.27) influence la stratégie de prévention des inondations en Europe. Elle impose la production de plan de gestion des risques d’inondations qui vise à réduire les conséquences négatives des inondations sur la santé humaine, l’environnement, le patrimoine culturel et l’activité économique.Les objectifs et exigences de réalisation sont donnés par la loi du 12 juillet 2010portant engagement national pour l’environnement (LENE) et le décret du 2 mars2011. Dans ce cadre, l'objectif premier de la cartographie des surfaces inondables et des risques d'inondation pour les TRI est de contribuer, en homogénéisant et en objectivant la connaissance de l'exposition des enjeux aux inondations, à l’élaboration des plans de gestion des risques d’inondation (PGRI).Cette série de données sert à produire les cartes de surfaces inondables et la carte de risques d’inondation qui représentent respectivement les aléas d’inondation et les enjeux exposés à une échelle appropriée. Leur objectif est d’apporter des éléments quantitatifs permettant d’évaluer plus finement la vulnérabilité d’un territoire pour les trois niveaux de probabilité d’inondation (fort, moyen, faible).</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Générale de la Prévention des Risques (MEEM/DGPR)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Tour Séquoïa</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LA DEFENSE CEDEX</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">92055</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">contact-brgm@brgm.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="owner"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:graphicOverview xlink:type="simple">
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">/geonetwork/srv/api/records/3cc909f3-e138-44ef-b8d2-beeaed886e3d/attachments/PerimTriReu.JPG</gco:CharacterString>
+                     </gmd:fileName>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Géorisques</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Rapportage</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Risque</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Directive inondation</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Surface inondable</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Territoire à risque d'inondation</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Gestion du risque d'inondation</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Cartographie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Inondation</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Données ouvertes</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">La Réunion</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national" xlink:type="simple">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope" xlink:type="simple">Champ géographique</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/theme/nz" xlink:type="simple">Zones à risque naturel</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier xlink:type="simple">
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/theme" xlink:type="simple">Registre de thème INSPIRE</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2007-60" xlink:type="simple">Directive 2007/60/EC</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/FloodedAreas-dir-2007-60" xlink:type="simple">Flooded areas (Floods Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/ManagementUnits-dir-2007-60" xlink:type="simple">Management units (Floods Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/FloodHazardAreasHighProbabilityScenario-dir-2007-60" xlink:type="simple">Flood hazard areas high probability scenario (Floods Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/FloodHazardAreasMediumProbabilityScenario-dir-2007-60" xlink:type="simple">Flood hazard areas medium probability scenario (Floods Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/FloodHazardAreasLowProbabilityScenario-dir-2007-60" xlink:type="simple">Flood hazard areas low probability scenario (Floods Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset" xlink:type="simple">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints xlink:type="simple">
+                  <gmd:MD_Constraints>
+                     <gmd:useLimitation>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Aucune condition ne s’applique</gco:CharacterString>
+                     </gmd:useLimitation>
+                     <gmd:useLimitation>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Données ouvertes</gco:CharacterString>
+                     </gmd:useLimitation>
+                  </gmd:MD_Constraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints xlink:type="simple">
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations" xlink:type="simple">No limitations on public access</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints xlink:type="simple">
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply" xlink:type="simple">No conditions apply to access and use</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale xlink:type="simple">
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator/>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:distance>
+                        <gco:Distance xmlns:gco="http://www.isotc211.org/2005/gco" uom="m">250.0</gco:Distance>
+                     </gmd:distance>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+               </gmd:language>
+               <gmd:characterSet>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>geoscientificInformation</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent xlink:type="simple">
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement xlink:type="simple">
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">55.2165259976951</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">55.8366292267104</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-21.3896307613732</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-20.8718271541163</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat xlink:type="simple">
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/media-types/application/xshapefile" xlink:type="simple">Esri Shapefile</gmx:Anchor>
+                     </gmd:name>
+                     <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.georisques.gouv.fr</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GéoRisques</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine uuidref="cced36f5-1288-44ef-8b99-f09fbade08d3" xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://mapsref.brgm.fr/wxs/georisques/di_reu_2013?service=WMS&amp;request=GetCapabilities&amp;version=1.3.0</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Service de visualisation de données pour les Territoire à risque d’inondation (TRI) du SIG Directive inondation - La Réunion - rapportage 2013</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Service de visualisation de données pour les Territoire à risque d’inondation (TRI) du SIG Directive inondation - La Réunion - rapportage 2013</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://files.georisques.fr/di/TRI_974_SIG_DI.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gmx:MimeFileType xmlns:gmx="http://www.isotc211.org/2005/gmx" type="application/octet-stream">Données Territoire à risque d'inondation (dpt. 974)</gmx:MimeFileType>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:DQ_DataQuality>
+               <gmd:scope xlink:type="simple">
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report xlink:type="simple">
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result xlink:type="simple">
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification xlink:href="http://inspire.ec.europa.eu/id/citation/ir/reg-1089-2010" xlink:type="simple">
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://data.europa.eu/eli/reg/2010/1089" xlink:type="simple">COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date xlink:type="simple">
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">cf. la spécification citée</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage xlink:type="simple">
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Cette série de données résulte du processus de cartographie des surfaces
+inondables et des risques d’inondation sur les TRI de France métropolitaine et DOM/TOM
+Elle comporte des données géographiques se rapportant à chaque scénario
+d’inondation :
+- les surfaces inondables,
+- les ouvrages de protection contre les inondations,
+- les zones de sur-aléa pouvant être provoquées par la rupture d’un
+ouvrage de protection,
+- les zones soustraites à l’inondation par la présence de l’ouvrage de
+protection,
+- les enjeux sociaux (nombre d’habitants, nombre d’emplois) mesurés pour
+chaque unité territoriale de rapportage (éventuellement le quartier,
+obligatoirement la commune et le TRI),
+- les enjeux relatifs à des biens et services requis par la directive
+Inondation.
+Les tables des données géographiques sont structurées selon le standard Covadis de la directive inondation. Des informations de généalogie détaillées sont fournies dans le rapport accompagnant les cartes et le SIG Directive inondation. Ces informations expliquent les choix faits sur les données et les méthodes de production.
+Les données ne sont pas utilisables  pour une échelle inférieure à 1:25000.</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

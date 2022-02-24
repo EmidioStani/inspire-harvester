@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd https://repository.gdi-de.org/schemas/geonetwork/2020-05-06/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>60c5d1ed-757b-4842-95f4-0b4edf9e18f6</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <LanguageCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <MD_CharacterSetCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <MD_ScopeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString>inlandWaters</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString>GeoSN</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>GDI-Servicezentrum</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Staatsbetrieb Geobasisinformation und Vermessung Sachsen (GeoSN)</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>+49 351 8283-8420</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile>
+                              <gco:CharacterString>+49 351 8283-6110</gco:CharacterString>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Olbrichtplatz 3</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Dresden</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>Freistaat Sachsen</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>01099</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>Deutschland</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>servicedesk@geosn.sachsen.de</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://geoportal.sachsen.de/</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2021-05-18</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO19115</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/4258</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString/>
+                     </gmd:codeSpace>
+                     <gmd:version>
+                        <gco:CharacterString/>
+                     </gmd:version>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>INSPIRE SN Gewässernetz</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>Gewässernetz</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2017-10-23</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>https://geoportal.sachsen.de/md/60c5d1ed-757b-4842-95f4-0b4edf9e18f6</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Der Datensatz umfasst Elemente des Gewässernetzes, insbesondere Fließgewässer über 12 Meter Breite sowie Bauwerke am Gewässer und hydrologische Punkte.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>GDI-Servicezentrum</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Staatsbetrieb Geobasisinformation und Vermessung Sachsen (GeoSN)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>+49 351 8283-8420</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString>+49 351 8283-6110</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Olbrichtplatz 3</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Dresden</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>Freistaat Sachsen</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>01099</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>Deutschland</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>servicedesk@geosn.sachsen.de</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://geoportal.sachsen.de/</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <MD_MaintenanceFrequencyCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="biannually"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>https://geomis.sachsen.de/geomis-editor/preview/gewaesser.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString>Gewässernetz</gco:CharacterString>
+                     </gmd:fileDescription>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Gewässernetz</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>inspireidentifiziert</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>opendata</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>SN</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Freistaat Sachsen</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Regional</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>Spatial scope</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Ausgewiesene Gewässer (Wasserrahmenrichtlinie)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Flüsse (Wasserrahmenrichtlinie)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Physische Gewässer (Physical Waters)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Netzwerk</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Oberflächengewässer (surface water)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Bauwerk am Gewässer (Man made Objects)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>interessanter hydrologischer Punkt (hydro Point Of Interest)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Fließgewässer (water course)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Überleitung (crossing)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Damm oder Wehr (Dam or Weir)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Böschung (Embankment)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Furt (Ford)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Schleuse (Lock)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Uferbefestigung (Shoreline Construction)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Siel (Sluice)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Wasserfall (Falls)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Stromschnellen (Rapids)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Uferlinie (Land Water Boundary)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Feuchtgebiet (Wetland)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Hydrographie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="discipline"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_SecurityConstraints>
+                     <gmd:classification>
+                        <MD_ClassificationCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified"/>
+                     </gmd:classification>
+                  </gmd:MD_SecurityConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useLimitation>
+                        <gco:CharacterString>Es gelten keine Bedingungen.</gco:CharacterString>
+                     </gmd:useLimitation>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <MD_RestrictionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <MD_RestrictionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Dieser Datensatz ist kostenfrei und kann gemäß den Nutzungsbestimmungen von Datenlizenz Deutschland - Namensnennung - Version 2.0 (https://www.govdata.de/dl-de/by-2-0) unter Angabe der Quelle: "Geodaten Sachsen" genutzt werden.</gco:CharacterString>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>{ "id": "dl-by-de/2.0", "name": "Datenlizenz Deutschland Namensnennung 2.0", "url": "https://www.govdata.de/dl-de/by-2-0", "quelle": "Quelle: Geodaten Sachsen" }</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <MD_SpatialRepresentationTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:language>
+                  <LanguageCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+               </gmd:language>
+               <gmd:characterSet>
+                  <MD_CharacterSetCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>inlandWaters</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <extent xmlns="http://www.isotc211.org/2005/gmd">
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>11.67</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>15.05</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>50.00</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>51.80</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </extent>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicDescription>
+                           <gmd:geographicIdentifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>140000000000</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:geographicIdentifier>
+                        </gmd:EX_GeographicDescription>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>gml</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>3.2</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:individualName>
+                              <gco:CharacterString>GDI-Servicezentrum</gco:CharacterString>
+                           </gmd:individualName>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Staatsbetrieb Geobasisinformation und Vermessung Sachsen (GeoSN)</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:phone>
+                                    <gmd:CI_Telephone>
+                                       <gmd:voice>
+                                          <gco:CharacterString>+49 351 8283-8400</gco:CharacterString>
+                                       </gmd:voice>
+                                       <gmd:facsimile>
+                                          <gco:CharacterString>+49 351 8283-6130</gco:CharacterString>
+                                       </gmd:facsimile>
+                                    </gmd:CI_Telephone>
+                                 </gmd:phone>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString>Olbrichtplatz 3</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString>Dresden</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString>Freistaat Sachsen</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>01099</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString>Deutschland</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>geodaten@geosn.sachsen.de</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>http://www.landesvermessung.sachsen.de/</gmd:URL>
+                                       </gmd:linkage>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://geodienste.sachsen.de/iwms_gsz_gewaessernetz/guest?REQUEST=GetCapabilities&amp;SERVICE=WMS</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:function>
+                              <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <MD_ScopeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                     <gmd:levelDescription>
+                        <gmd:MD_ScopeDescription>
+                           <gmd:other>
+                              <gco:CharacterString>unknown</gco:CharacterString>
+                           </gmd:other>
+                        </gmd:MD_ScopeDescription>
+                     </gmd:levelDescription>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>INSPIRE "Interoperabilität von Geodatensätzen und -diensten"</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>INSPIRE Data Specification on Hydrography - Guidelines</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-04-26</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="https://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>INSPIRE Annex-Thema "Gewässernetz"</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Die Daten stammen aus dem System ATKIS - Amtliches Topographisch-Kartographisches Informationssystem. ATKIS ist eine der drei Komponenten des AAA-Modells. Beschreibung der Quelldaten: https://geoportal.sachsen.de/portal/schema/INSPIRE/Herkunft_Quelldaten.pdf</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

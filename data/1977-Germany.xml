@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">03d2a212-c9fc-4236-a6dd-9fde4f5d1359</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <LanguageCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#LanguageCode" codeListValue="ger"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <MD_CharacterSetCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <MD_ScopeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">structure</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Marco Hohmann</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Umweltbundesamt</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:positionName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Geodatenmanagement</gco:CharacterString>
+               </gmd:positionName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+49 30 8903-0</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+49 30 8903-5613</gco:CharacterString>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Bismarckplatz 1</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Berlin</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">I 1.7 Dateninfrastrukturen, Satellitenfernerkundung, Umweltinformationssysteme</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">14193</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Deutschland</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">daten.management@uba.de</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://gis.uba.de</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2020-11-12</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">INSPIRE Metadata Implementing Rules: Technical Guidelines based on EN ISO 19115 and EN ISO 19119</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">v1.3</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:dataSetURI>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">urn:sde:::</gco:CharacterString>
+         </gmd:dataSetURI>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.opengis.net/def/crs/EPSG/0/4258</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco"/>
+                     </gmd:codeSpace>
+                     <gmd:version>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco"/>
+                     </gmd:version>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Pollutant Release and Transfer Register (PRTR) Stammdaten 2018 (Datensatz)</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">PRTR-Stammdaten 2018 (Datensatz)</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2020-05-21</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2020-05-21</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2020-05-22</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://registry.gdi-de.org/id/de.bund.uba.inspire.prtr/03d2a212-c9fc-4236-a6dd-9fde4f5d1359</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Das PRTR ist ein Schadstoffregister, das darüber informiert, wie viele Schadstoffe Industriebetriebe in die Umwelt entlassen und wie viele Abfälle sie außerhalb ihres Betriebes entsorgen. Die Daten werden jährlich aktualisiert und auf Thru.de veröffentlicht.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sabine Grimm</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Umweltbundesamt</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Fachbegleitung</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">0340 2103-0</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">0340 2103-2285</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Wörlitzer Platz 1</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Dessau-Roßlau</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">III 2.7 Anlagenbezogene Berichterstattung</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">06844</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Deutschland</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">mail@thru.de</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://www.umweltbundesamt.de</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <MD_MaintenanceFrequencyCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                     <gmd:maintenanceNote>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ggf. Korrekturen durch Betreiber</gco:CharacterString>
+                     </gmd:maintenanceNote>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://gis.uba.de:443/smartEditor/preview/UBA_PrKo_PRTR_Facilities_2015.png</gco:CharacterString>
+                     </gmd:fileName>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:resourceFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sde-featureDataset</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">10.7.1</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:resourceFormat>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Deutschland</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">2018</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Produktions- und Industrieanlagen</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Luft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Wasser</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Wirtschaft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Landwirtschaft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Abfall</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">gefährlicher Abfall</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="stratum"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00016418@Luftüberwachung</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00500763@Energieerzeugende-Industrie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00028737@Industrie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00008197@Energiewirtschaft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00006024@Chemische-Industrie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00049260@[Landwirtschaft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">-Forstwirtschaft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">-Viehzucht-und-Fischerei]</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00051534@Land--und-Viehwirtschaft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00000207@Abfallbeseitigungsunternehmen</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00008367@Entsorgungswirtschaft</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00000191@Abfallbeseitigung</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00041004@Abfall-[benutze-Unterbegriffe-oder-Klasse-AB]</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://sns.uba.de/_00606207@Müll/Abfall</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://213.144.2.99/umthes/_00658627@Öffentlich-zugängliche-Daten</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">(Thesaurus: SNS)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <MD_KeywordTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="discipline"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SNS</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2014-01-06</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">inspireidentifiziert</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Öffentlich zugängliche Daten</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Umweltbundesamt</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">UBA</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sites and facilities (European Pollutant Release and Transfer Register)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">National</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Spatial scope</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints/>
+               <gmd:resourceConstraints>
+                  <gmd:MD_SecurityConstraints>
+                     <gmd:classification>
+                        <MD_ClassificationCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified"/>
+                     </gmd:classification>
+                  </gmd:MD_SecurityConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <MD_RestrictionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">„Es gelten die Nutzungsbedingungen des deutschen Schadstoffemissionsregisters Thru.de https://www.thru.de/nutzungsbedingungen/“.</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <MD_RestrictionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">„Es gelten die Nutzungsbedingungen des deutschen Schadstoffemissionsregisters Thru.de https://www.thru.de/nutzungsbedingungen/“.</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <MD_RestrictionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="license"/>
+                     </gmd:useConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <MD_SpatialRepresentationTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:distance>
+                        <gco:Distance xmlns:gco="http://www.isotc211.org/2005/gco" uom="m">1000</gco:Distance>
+                     </gmd:distance>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer xmlns:gco="http://www.isotc211.org/2005/gco">1000000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <LanguageCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#LanguageCode" codeListValue="ger"/>
+               </gmd:language>
+               <gmd:characterSet>
+                  <MD_CharacterSetCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>structure</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">5.53</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">15.99</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">47.04</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">55.20</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml:TimePeriod xmlns:gml="http://www.opengis.net/gml" gml:id="w192aaa">
+                                 <gml:beginPosition>2018-01-01</gml:beginPosition>
+                                 <gml:endPosition>2018-12-31</gml:endPosition>
+                              </gml:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicDescription>
+                           <gmd:geographicIdentifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">DE</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:geographicIdentifier>
+                        </gmd:EX_GeographicDescription>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GML</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">3.2.1</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:individualName>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sabine Grimm</gco:CharacterString>
+                           </gmd:individualName>
+                           <gmd:organisationName>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Umweltbundesamt</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:positionName>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Fachbegleitung</gco:CharacterString>
+                           </gmd:positionName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:phone>
+                                    <gmd:CI_Telephone>
+                                       <gmd:voice>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">0340 2103-0</gco:CharacterString>
+                                       </gmd:voice>
+                                       <gmd:facsimile>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">0340 2103-2285</gco:CharacterString>
+                                       </gmd:facsimile>
+                                    </gmd:CI_Telephone>
+                                 </gmd:phone>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Wörlitzer Platz 1</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Dessau-Roßlau</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">III 2.7 Anlagenbezogene Berichterstattung</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">06844</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Deutschland</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">mail@thru.de</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>https://www.umweltbundesamt.de</gmd:URL>
+                                       </gmd:linkage>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://datahub.uba.de/server/rest/directories/arcgisforinspire/INSPIRE/prtr_MapServer/Daten/PRTR_ProductionFacility_2018_GML.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:function>
+                              <CI_OnLineFunctionCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <MD_ScopeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                     <gmd:levelDescription xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="inapplicable"/>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">INSPIRE Data Specification on Production and Industrial Facilities - Technical Guidelines</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2013-12-10</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">revision</CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Produktions- und Industrieanlagen</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <CI_DateTypeCode xmlns="http://www.isotc211.org/2005/gmd" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Bund/Länder-Vereinbarung</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

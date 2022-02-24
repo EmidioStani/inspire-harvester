@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>f3f53e6c-5448-4a8d-afc3-8f7aa8a0518a</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="por">por</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString>Conjunto de dados geográficos</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString>Câmara Municipal de Lagoa</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>+351 296 960 600</gco:CharacterString>
+                           </gmd:voice>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Largo D. João III</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Lagoa</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>9560-045</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>Portugal</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>liliane.barros@lagoa-acores.pt</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2021-06-25</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO 19115 Sistema de Metadados dos Açores</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/5015</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Sistema de Saneamento de Águas Residuais do Concelho de Lagoa - Região Autónoma dos Açores (RAA)</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2019-10-31</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2019-10-31</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>822da02d-88f7-49ad-89f5-b4cd3baa7295</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>PT_AZO_CMLAG_Saneamento</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>http://id.igeo.pt/cdg/502ceaf7-b2e2-4d93-8010-70904ea3adf1</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Levantamento georreferenciado de entidades associadas aos Sistemas de Saneamento de Águas Residuais do Concelho de Lagoa que é composto pela rede de saneamento das águas residuais – descarga, drenagem, elevação, transporte, tratamento e rejeição de águas residuais e de águas pluviais. Inclui entidades como: caixas de visita, câmaras cegas, câmaras de retenção, sarjetas e sumidouros, bacias de retenção, câmaras de ligação ao rama, pontos de descarga, estações elevatórias, fossas sépticas, ETAR´s, ramais e coletores.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Câmara Municipal de Lagoa</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>296 960 600</gco:CharacterString>
+                                 </gmd:voice>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Largo D. João III</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Lagoa</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>9560-045</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>Portugal</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>liliane.barros@lagoa-acores.pt</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/us" xlink:type="simple">Serviços de utilidade pública e do Estado</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes" xlink:type="simple">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Sistemas de Saneamento de Águas Residuais</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Saneamento</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Concelho de Lagoa</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Ilha de São Miguel</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Arquipélago dos Açores</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place">place</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>INSPIRECORE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Outra Cartografia</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>Options</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-01-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Local</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>Spatial scope</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Urban waste-water treatment plants (Urban Waste Water Treatment Directive)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_SecurityConstraints>
+                     <gmd:classification>
+                        <gmd:MD_ClassificationCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</gmd:MD_ClassificationCode>
+                     </gmd:classification>
+                  </gmd:MD_SecurityConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_Constraints>
+                     <gmd:useLimitation>
+                        <gco:CharacterString>Condições desconhecidas</gco:CharacterString>
+                     </gmd:useLimitation>
+                  </gmd:MD_Constraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/INSPIRE_Directive_Article13_1h" xlink:type="simple">Acesso público limitado de acordo com o Artigo 13(1)(h) da Diretiva INSPIRE</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Sempre que o utilizador publique e/ou divulgue, por meio analógico ou digital, informação geográfica propriedade da Câmara Municipal de Lagoa (CML), ainda que parcialmente adaptada, deverá atribuir os respetivos créditos com inclusão do texto “Informação geográfica disponibilizada pela Câmara Municipal de Lagoa, Açores”.</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>2000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="por">por</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:characterSet>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>utilitiesCommunication</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>-25.74</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>-25.600</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>37.65</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>37.82</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicDescription>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:geographicIdentifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>Local</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:geographicIdentifier>
+                        </gmd:EX_GeographicDescription>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>PostgreSQL_PostGIS</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>1.22.1</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString/>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>GeoPackage</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>não se aplica</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString/>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions/>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089" xlink:type="simple">REGULAMENTO (UE) N. o 1089/2010 DA COMISSÃO de 23 de Novembro de 2010 que estabelece as disposições de execução da Directiva 2007/2/CE do Parlamento Europeu e do Conselho relativamente à interoperabilidade dos conjuntos e serviços de dados geográficos</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Ver a especificação citada.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>O levantamento das entidades associadas aos Sistemas de Saneamento para o concelho foi realizado com recurso a um receptor GNSS, utilizando técnicas de posicionamento RTK assegurando uma precisão média na ordem de 20 cm. Para os temas ramais e coletores foram georreferenciados com recurso a informação de contexo - ortofotomapas à escala 1:5000 para toda a área do concelho. Os técnicos responsáveis pelo projeto da empresa Globaleda foram acompanhados pelos colaboradores do Município, que apresentavam melhor conhecimemento físico de toda a rede. Foi criada uma base de dados para o projeto e armazenada em formato PostgreSQL / PostGIS.</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

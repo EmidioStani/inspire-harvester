@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>4485371d-1fe3-43d9-a96e-497d3ee09d5e</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="spa"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>Lucía Martínez García-Denche</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:positionName>
+                  <gco:CharacterString>Jefa de Área de Asuntos Comunitarios. Subdirección General para la Protección del Mar (SGPM). Dirección General de la Costa y el Mar (DGCM)</gco:CharacterString>
+               </gmd:positionName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Plaza de San Juan de la Cruz, s/n</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Madrid</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>Madrid</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>28071</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>España</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>Bzn-estrategiasmarinas@miteco.es</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://www.mapama.gob.es/es/costas/temas/proteccion-medio-marino/estrategias-marinas/</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2019-04-08</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>Reglamento (CE) Nº 1205/2008 de Inspire + Perfil NEM v1.2</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>TG 2.0.1</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/4258">EPSG:4258 (ETRS89 coordenadas geográficas)</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Áreas marinas de evaluación de la eutrofización</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>ES Marine reporting units for eutrophication</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2018-11-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2019-04-08</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2019-04-08</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>ESMITECODGSCMMRU20190408</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>MITECO</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                     <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:positionName>
+                              <gco:CharacterString>Subdirección General para la Protección del Mar (SGPM). Dirección General de la Costa y el Mar (DGCM)</gco:CharacterString>
+                           </gmd:positionName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString>Plaza de San Juan de la Cruz, s/n</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>28071</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString>España</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>buzon-proteccionmar@miteco.es</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>https://www.miteco.gob.es/es/</gmd:URL>
+                                       </gmd:linkage>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian"/>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:citedResponsibleParty>
+                     <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital"/>
+                     </gmd:presentationForm>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Este conjunto de datos contiene la delimitación de las diferentes masas de agua marinas para el seguimiento y evaluación de la eutrofización. Esta información se ha usado para la evaluación del Descriptor 5 -Eutrofización de la Parte IV "Descriptores del Buen Estado Ambiental" del segundo ciclo de las Estrategias Marinas. Las áreas marinas de evaluación se localizan dentro de las Demarcaciones Marinas definidas en el marco de las Estrategias Marinas de España. Ambas zonificaciones conforman el conjunto de datos espaciales de unidades marinas (Marine reporting units - MRU) utilizadas para la notificación a la Comisión Europea de acuerdo a la Directiva 2008/56/CE del Parlamento Europeo y del Consejo, por la que se establece un marco de acción comunitaria para la política del medio marino (Directiva Marco sobre la Estrategia Marina, o Marine Strategy Framework Directive - MSFD). La información ha sido recogida, procesada y analizada por la Unidad de Eutrofización del Instituto Español de Oceanografía (IEO) en el Centro Oceanográfico de Málaga, dirigida por el Dr. Jesús Mercado Carmona. En base a los resultados obtenidos por este equipo de investigación, la Unidad de Sistemas de Información Geográfica del IEO ha sido la encargada del cartografiado. El proceso ha sido coordinado por el Ministerio para la Transición Ecológica y el Reto Demográfico.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:purpose>
+                  <gco:CharacterString>Este conjunto de datos geográficos constituye la base cartográfica sobre la que se estructura la información recabada para la actualización de la evaluación inicial del descritptor 5-eutrofización, en el segundo ciclo de aplicación de la Directiva Marco de la Estrategia Marina (2018-2024) en España. Está destinado al uso por parte de las instituciones públicas encargadas de la toma de decisiones sobre la gestión del medio marino, pero puede ser de utilidad también para un amplio rango de usuarios (universidades, investigadores, asociaciones ecologistas, empresas, fundaciones, etc.).</gco:CharacterString>
+               </gmd:purpose>
+               <gmd:credit>
+                  <gco:CharacterString>Centro Oceanográfico de Málaga, Instituto Español de Oceanografía (IEO). Dirección General de la Costa y el Mar (DGCM) - MITECO.</gco:CharacterString>
+               </gmd:credit>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Lucía Martínez García-Denche</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico. Dirección General de la Costa y el Mar (DGCM). Subdirección General para la Protección del Mar (SGPM).</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Jefa de Área de Asuntos Comunitarios. Subdirección General para la Protección del Mar.</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Plaza de San Juan de la Cruz, s/n</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Madrid</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>Madrid</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>28071</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>España</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>Bzn-estrategiasmarinas@miteco.es</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>ESMITECODGSCMMRU20190408_vInspire_s.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString>thumbnail</gco:CharacterString>
+                     </gmd:fileDescription>
+                     <gmd:fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                     </gmd:fileType>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>ESMITECODGSCMMRU20190408_vInspire.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                     </gmd:fileDescription>
+                     <gmd:fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                     </gmd:fileType>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">Nacional</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Ámbito espacial</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/am">Zonas sujetas a ordenación, a restricciones o reglamentaciones y unidades de notificación</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/am">Area management/restriction/regulation zones and reporting units</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/sr">Regiones marinas</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/sr">Sea regions</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor>España</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor>EuropeanTerritorialUnits</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-10-21</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor>HIDROSFERA (agua dulce, agua marina, aguas)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor>Super groups GEMET - Super groups, version 2.4</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2010-01-13</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor>mares</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>protección de agua marina</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>protección de la naturaleza</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor>Concepts GEMET - Concepts, version 3.1</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2012-07-20</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MarineSubRegions-dir-2008-56">Marine sub-regions (Marine Strategy Framework Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MarineRegionsAndUnits-dir-2008-56">Marine regions and units (Marine Strategy Framework Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MarineAssessmentUnits-dir-2008-56">Marine assessment units (Marine Strategy Framework Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor>Rasgos geográficos oceanográficos</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>Environment</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>Eutrofización</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>Directiva Marco sobre la Estrategia Marina (DMEM)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>Marine Strategy Framework Directive (MSFD)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>Demarcación Marina</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor>ES Marine subdivisions</gmx:Anchor>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceSpecificUsage>
+                  <gmd:MD_Usage>
+                     <gmd:specificUsage>
+                        <gco:CharacterString>Servicio disponible en el Geoportal del Ministerio.</gco:CharacterString>
+                     </gmd:specificUsage>
+                     <gmd:userContactInfo>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>buzon-proteccionmar@miteco.es</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="originator"/>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:userContactInfo>
+                  </gmd:MD_Usage>
+               </gmd:resourceSpecificUsage>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</gmx:Anchor>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Nombrar a la fuente: Instituto Español de Oceanografía y Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Debe citarse la bibliografía asociada</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/INSPIRE_Directive_Article13_1e">Limitación de acceso público basado en el artículo 13 (1e) de la directiva Inspire</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_SecurityConstraints>
+                     <gmd:classification>
+                        <gmd:MD_ClassificationCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified"/>
+                     </gmd:classification>
+                  </gmd:MD_SecurityConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>50000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="spa"/>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:description>
+                        <gco:CharacterString>Marine reporting units</gco:CharacterString>
+                     </gmd:description>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>-21.91</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>6.30</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>24.59</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>46.87</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml:TimePeriod gml:id="ESMITECODGSCMMRU20190408">
+                                 <gml:beginPosition>2018-10-01</gml:beginPosition>
+                                 <gml:endPosition>2024-10-01</gml:endPosition>
+                              </gml:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>SHP-ArcView ShapeFile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>Arcgis 10.5</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>Desconocido</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:individualName>
+                              <gco:CharacterString>Lucía Martínez García-Denche</gco:CharacterString>
+                           </gmd:individualName>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Ministerio para la Trasición Ecológica. Dirección General de la Costa y el Mar (DGCM). Subdirección General para la Protección del Mar (SGPM).</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:positionName>
+                              <gco:CharacterString>Jefa de Área de Asuntos Comunitarios. Subdirección General para la Protección del Mar.</gco:CharacterString>
+                           </gmd:positionName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString>Plaza de San Juan de la Cruz, s/n</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>28071</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString>España</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>Bzn-estrategiasmarinas@miteco.es</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor"/>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wms.mapama.gob.es/sig/Costas/EstrategiasMarinas/AAMM_Eutrof/wms.aspx</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:WMS-1.1.1-http-get-map</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>AM.MarineRegion</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Áreas marinas de evaluación de la eutrofización</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wms.mapama.gob.es/sig/Costas/EstrategiasMarinas/AAMM_Eutrof/wms.aspx?Request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Descripción del Servicio Áreas marinas de evaluación de la eutrofización:</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.mapama.gob.es/ide/inspire/atom/downloadservice.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Enlace de descarga del servicio ATOM:</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.mapama.gob.es/ide/inspire/atom/CategCostas/downloadservice.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Enlace de descarga del servicio ATOM Categoría Costas y Medio Marino:</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://sig.mapama.gob.es/geoportal</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Geoportal del Ministerio:</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/aamm_tcm30-499713.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>application/vnd.shp</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Marine reporting units - EPSG:4258</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Descarga cartografía digital (shapefile):</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                     <gmd:extent>
+                        <gmd:EX_Extent>
+                           <gmd:description>
+                              <gco:CharacterString>Marine reporting units</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:EX_Extent>
+                     </gmd:extent>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">Reglamento (UE) n o 1089/2010 de la Comisión de 23 de noviembre de 2010 por el que se aplica la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a la interoperabilidad de los conjuntos y los servicios de datos espaciales</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Consultar el reglamento mencionado</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>false</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2008/1205">REGLAMENTO (CE) Nº 1205/2008 DE LA COMISIÓN de 3 de diciembre de 2008 por el que se ejecuta la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a los metadatos</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2008-12-04</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Consultar el reglamento mencionado</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report/>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Este conjunto de datos contiene la delimitación de las diferentes masas de agua marinas para el seguimiento y evaluación de la eutrofización.. Esta información se ha usado para la evaluación del Descriptor 5 -Eutrofización de la Parte IV "Descriptores del Buen Estado Ambiental" del segundo ciclo de las Estrategias Marinas. La información ha sido recogida, procesada y analizada por la Unidad de Eutrofización del Instituto Español de Oceanografía (IEO) en el Centro Oceanográfico de Málaga, dirigida por el Dr. Jesús Mercado Carmona. En base a los resultados obtenidos por este equipo de investigación, la Unidad de Sistemas de Información Geográfica del IEO fue la encargada del cartografiado. La información ha sido recogida, procesada y analizada por la Unidad de Eutrofización del Instituto Español de Oceanografía (IEO) en el Centro Oceanográfico de Málaga, dirigida por el Dr. Jesús Mercado Carmona. En base a los resultados obtenidos por este equipo de investigación, la Unidad de Sistemas de Información Geográfica del IEO fue la encargada del cartografiado.</gco:CharacterString>
+                     </gmd:statement>
+                     <gmd:processStep>
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString>1- Recopilación de la información disponible. 2- Estudio y análisis de la información relevante. 3- Modificación de la misma cuando ha sido necesario para adaptarla al objetivo previsto. 4- Integración en la capa de las MRUs. 5- Grabación de la información alfanumérica asociada. 6- Publicación</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:dateTime>
+                              <gco:DateTime>2018-11-01T00:00:00</gco:DateTime>
+                           </gmd:dateTime>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Datos provenientes de muestreos directos y de medios indirectos (Teledetección) de las propiedades fisicoquímicas y biológicas de las aguas marinas españolas.</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

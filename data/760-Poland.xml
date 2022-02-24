@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20070417/gmx/gmx.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20070417/srv/1.0/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>315f39ca-af8b-4397-af25-e71dc3b22104</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="pol">Polish</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Główny Inspektorat Ochrony Środowiska</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-eng">Chief Inspectorate of Environmental Protection</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-pol">Główny Inspektorat Ochrony Środowiska</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>+48515236721</gco:CharacterString>
+                           </gmd:voice>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>ul. Bitwy Warszawskiej 1920 r. 3</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Warszawa</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>02-362</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>Polska</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>inspire@gios.gov.pl</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://www.gios.gov.pl</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gco:Date>2021-03-26</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gco:CharacterString>ISO 19115</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gco:CharacterString>2003/cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:locale xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:PT_Locale id="locale-eng">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:PT_Locale id="locale-pol">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="pol"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:referenceSystemInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/4258</gco:CharacterString>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_DataIdentification id="monit-COMBINE">
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Państwowy Monitoring Środowiska - ﻿﻿﻿Monitoring środowiska morskiego Bałtyku</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-eng">The State Environmental Monitoring - Monitoring of the Baltic Sea</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-pol">Państwowy Monitoring Środowiska - ﻿﻿﻿Monitoring środowiska morskiego Bałtyku</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2005-01-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2020-04-10</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>http://inspire.gios.gov.pl/dataset/PL.ZIPOS.6319/monit-COMBINE</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>﻿Zbiór danych przestrzennych dotyczy monitoringu środowiska morskiego Bałtyku, który prowadzony jest w ramach podsystemu monitoringu jakości wód Państwowego Monitoringu Środowiska koordynowanego przez Głównego Inspektora Ochrony Środowiska. Celem wykonywania badań jest stworzenie podstaw do podejmowania działań na rzecz poprawy stanu ekosystemu Morza Bałtyckiego oraz jego ochrony przed zanieczyszczeniem. Obowiązek badania i oceny jakości środowiska morskiego Bałtyku wynika z zobowiązań sprawozdawczych Polski określonych w Konwencji "O ochronie środowiska morskiego obszaru Morza Bałtyckiego". Zgodnie z definicją ramowej dyrektywy ws. strategii morskiej, wody morskie dla których państwa członkowskie opracowują strategie morskie (w tym ocenę jego stanu i okresowy przegląd a w razie potrzeby aktualizację oraz programy monitorowania i okresowy przegląd a w razie potrzeby aktualizację) obejmują „wody, dno morskie i skałę macierzystą znajdujące się po stronie morza od linii podstawowej, od której mierzony jest zasięg morza terytorialnego aż do najdalej położonego obszaru wód terytorialnych i rozciągające się aż do najdalej położonego obszaru (zasięg granicy wyłącznej strefy ekonomicznej), na którym państwo członkowskie ma lub wykonuje prawa jurysdykcyjne”. Jednocześnie ocena jakości wód Bałtyku - odbiornika zanieczyszczeń odprowadzanych z obszaru jego zlewni, jest wykorzystywana dla potrzeb zarządzania i oceny skuteczności ochrony zasobów wodnych. Badania stanu środowiska morskiego polskiej strefy Bałtyku prowadzone na poziomie kraju stanowią polski wkład w międzynarodowy "Zintegrowany Program Monitoringu Morza Bałtyckiego COMBINE". Obejmują one monitoring strefy głębokowodnej (stacje badawcze w rejonie Głębi Gotlandzkiej, Bornholmskiej i Gdańskiej) oraz uzupełniający program badań strefy przybrzeżnej, zatok i zalewów (Zatoka Gdańska i Pomorska, Zalew Wiślany i Szczeciński w punktach nieobjętych monitoringiem w ramach zadania badania i ocena wód przejściowych i przybrzeżnych) wobec programu realizowanego w ramach podsystemu monitoring jakości wód powierzchniowych. W ramach programu wykonywane są badania warunków fizyko-chemicznych, tj.: temperatura, zasolenie, stężenie tlenu, widoczność krążka Secchiego, zawartość biogenów, metali ciężkich i trwałych związków organicznych. Prowadzone są także obserwacje parametrów biologicznych środowiska morskiego, tj. fitoplankton, zooplankton, fitobentos, zoobentos, ichtiofauna oraz poziomu substancji szkodliwych w wodzie i organizmach morskich, zawartości radionuklidów w wodzie i osadach, odpadów w toni wodnej i na plaży oraz hałasu podwodnego pochodzenia antropogenicznego. Na podstawie uzyskiwanych danych dokonywane są roczne oceny stanu środowiska Bałtyku.</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-eng">The spatial dataset concerns the monitoring of the Baltic marine environment, which is carried out as part of the water quality monitoring subsystem of the State Environmental Monitoring coordinated by the Chief Inspector of Environmental Protection. The purpose of the research is to create the basis for undertaking actions to improve the condition of the Baltic Sea ecosystem and its protection against pollution. The obligation to monitor and assess the quality of the Baltic marine environment results from Poland's reporting obligations set out in the Convention on the Protection of the Marine Environment of the Baltic Sea Area. According to the definition of the Marine Strategy Framework Directive, marine waters for which Member States develop marine strategies (including its assessment, monitoring programs and its periodic review, and if necessary updating) include “waters, the seabed and parent rock situated on the seaward side of the baseline from which the extent of the territorial sea is measured up to and including the furthest reaches of the territorial waters (the extent of the exclusive economic zone boundary) on which the Member State has or executes jurisdictional rights”. Simultaneously, the assessment of the quality of Baltic Sea waters as the reservoir receiving pollutants discharged from its sub-basin district is used to manage and evaluate the effectiveness of the measures to protect water resources. Research on the state of the marine environment of the Polish Baltic zone conducted at the country level is a Polish contribution to the international „Coordinated Baltic Sea Monitoring Programme – COMBINE”. It's include deep-sea zone (measurement stations in the area of the Gotland Basin, the Bornholm Deep and the Gdansk Deep) and the programme consisting in the monitoring of the coastal zone, bays and lagoons (the Gdansk Bay, the Pomerania Bay, Vistula and Szczecin Lagoons at the sites excluded from monitoring within the framework of the task monitoring and assessment of transitional and coastal waters) and supplementing the programme implemented under the subsystem monitoring of surface water quality. As part of the program, physical and chemical conditions are measured, i.e. temperature, salinity, oxygen concentration, visibility of the Secchi disc, the contents of nutrients, heavy metals and persistent organic pollutants. Observations are also carried out on biological elements of the marine environment, i.e.: phytoplankton, zooplankton, macrophytobenthos, macrozoobenthos ichthyofauna and the level of harmfull substances in water and marine organisms, radionuclide contents in water and sediments, litter in the marine environment and on the beach, and underwater noise of anthropogenic origin. Based on the obtained data, annual assessments of the Baltic's environment are issued.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-pol">﻿Zbiór danych przestrzennych dotyczy monitoringu środowiska morskiego Bałtyku, który prowadzony jest w ramach podsystemu monitoringu jakości wód Państwowego Monitoringu Środowiska koordynowanego przez Głównego Inspektora Ochrony Środowiska. Celem wykonywania badań jest stworzenie podstaw do podejmowania działań na rzecz poprawy stanu ekosystemu Morza Bałtyckiego oraz jego ochrony przed zanieczyszczeniem. Obowiązek badania i oceny jakości środowiska morskiego Bałtyku wynika z zobowiązań sprawozdawczych Polski określonych w Konwencji "O ochronie środowiska morskiego obszaru Morza Bałtyckiego". Zgodnie z definicją ramowej dyrektywy ws. strategii morskiej, wody morskie dla których państwa członkowskie opracowują strategie morskie (w tym ocenę jego stanu i okresowy przegląd a w razie potrzeby aktualizację oraz programy monitorowania i okresowy przegląd a w razie potrzeby aktualizację) obejmują „wody, dno morskie i skałę macierzystą znajdujące się po stronie morza od linii podstawowej, od której mierzony jest zasięg morza terytorialnego aż do najdalej położonego obszaru wód terytorialnych i rozciągające się aż do najdalej położonego obszaru (zasięg granicy wyłącznej strefy ekonomicznej), na którym państwo członkowskie ma lub wykonuje prawa jurysdykcyjne”. Jednocześnie ocena jakości wód Bałtyku - odbiornika zanieczyszczeń odprowadzanych z obszaru jego zlewni, jest wykorzystywana dla potrzeb zarządzania i oceny skuteczności ochrony zasobów wodnych. Badania stanu środowiska morskiego polskiej strefy Bałtyku prowadzone na poziomie kraju stanowią polski wkład w międzynarodowy "Zintegrowany Program Monitoringu Morza Bałtyckiego COMBINE". Obejmują one monitoring strefy głębokowodnej (stacje badawcze w rejonie Głębi Gotlandzkiej, Bornholmskiej i Gdańskiej) oraz uzupełniający program badań strefy przybrzeżnej, zatok i zalewów (Zatoka Gdańska i Pomorska, Zalew Wiślany i Szczeciński w punktach nieobjętych monitoringiem w ramach zadania badania i ocena wód przejściowych i przybrzeżnych) wobec programu realizowanego w ramach podsystemu monitoring jakości wód powierzchniowych. W ramach programu wykonywane są badania warunków fizyko-chemicznych, tj.: temperatura, zasolenie, stężenie tlenu, widoczność krążka Secchiego, zawartość biogenów, metali ciężkich i trwałych związków organicznych. Prowadzone są także obserwacje parametrów biologicznych środowiska morskiego, tj. fitoplankton, zooplankton, fitobentos, zoobentos, ichtiofauna oraz poziomu substancji szkodliwych w wodzie i organizmach morskich, zawartości radionuklidów w wodzie i osadach, odpadów w toni wodnej i na plaży oraz hałasu podwodnego pochodzenia antropogenicznego. Na podstawie uzyskiwanych danych dokonywane są roczne oceny stanu środowiska Bałtyku.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Główny Inspektorat Ochrony Środowiska</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-eng">Chief Inspectorate of Environmental Protection</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-pol">Główny Inspektorat Ochrony Środowiska</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>+48515236721</gco:CharacterString>
+                                 </gmd:voice>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>ul. Bitwy Warszawskiej 1920 r. 3</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Warszawa</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>02-362</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>Polska</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>inspire@gios.gov.pl</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.gios.gov.pl</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="annually"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                     <gmd:updateScope>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:updateScope>
+                     <gmd:maintenanceNote>
+                        <gco:CharacterString>Zbiór danych aktualizowany raz do roku</gco:CharacterString>
+                     </gmd:maintenanceNote>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/ef">Urządzenia do monitorowania środowiska</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/of">Warunki oceanograficzno-geograficzne</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme#">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://c-csw-01:8081/geonetwork/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeutheme-theme">geonetwork.thesaurus.external.theme.httpinspireeceuropaeutheme-theme</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MonitoringStations-dir-2008-56">Monitoring stations (Marine Strategy Framework Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority dataset, v2.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Państwowy Monitoring Środowiska</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>The State Environmental Monitoring</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>urządzenie do monitorowania środowiska</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>environmental monitoring facility</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>jednolite części wód</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>water bodies</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring środowiska morskiego Bałtyku</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring of the Baltic marine environment</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Bałtyk</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Baltic</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Morze Bałtyckie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>The Baltic Sea</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>ocena stanu</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>state assessment</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>obserwacja</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>observation</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Ramowa Dyrektywa Wodna</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Water Framework Directive</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>środowisko morskie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>marine environment</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>strefa głębokowodna</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>deep water area</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>punkt pomiarowy</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>measurement station</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>profil</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>vertical profile</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>transekt</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>transect</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring wód</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>water monitoring</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://vocab.gios.gov.pl/def/keywords">Rejestr słów kluczowych GIOŚ, v1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-10-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Brak ograniczeń w publicznym dostępie</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply">Brak warunków dostępu i użytkowania</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="pol">Polish</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>structure</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>13.90</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>23.90</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>49.23</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>54.70</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>Environmental monitoring facilities GML Application Schema</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>4.0</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>D2.8.II/III.7 Data Specification on Environmental Monitoring Facilities – Technical Guidelines</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>Atmospheric Conditions and Meteorological Geographical Features GML Application Schema</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>4.0</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>D2.8.III.13-14 Data Specification on Atmospheric Conditions and Meteorological Geographical Features – Technical Guidelines, version 3.0</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.gios.gov.pl/pl/stan-srodowiska/monitoring-wod/8-pms/102-baltyk</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://inspire.gios.gov.pl/wss/monit-COMBINE/wfs?REQUEST=GetCapabilities&amp;SERVICE=wfs</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "﻿Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (WFS)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for harmonized spatial dataset “The State Environmental Monitoring - Monitoring of the Baltic Sea” (WFS)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "﻿Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (WFS)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (WFS). Usługa wykorzystuje interfejs WFS OGC w wersji 2.0.0. Usługa implementuje bezpośredni dostęp do obiektów</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for harmonized spatial dataset "The State Environmental Monitoring - Monitoring of the Baltic Sea" (WFS). The service uses the WFS OGC interface version 2.0.0. The service implements direct access to objects</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (WFS). Usługa wykorzystuje interfejs WFS OGC w wersji 2.0.0. Usługa implementuje bezpośredni dostęp do obiektów</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://inspire.gios.gov.pl/atom_web/atom/monit_COMBINE</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (ATOM)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for predefined harmonized spatial dataset "The State Environmental Monitoring - Monitoring of the Baltic Sea” (ATOM)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (ATOM)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (ATOM). Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for predefined harmonized spatial dataset "The State Environmental Monitoring - Monitoring of the Baltic Sea" (ATOM). The service uses the interface Atom version 1.0 and OpenSearch version 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku" (ATOM). Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://inspire.gios.gov.pl/atom-client/atom?q=https://inspire.gios.gov.pl/atom_web/atom/monit_COMBINE</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Klient usługi ATOM dla zharmonizowanego zbioru danych przestrzennych INSPIRE "﻿﻿Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku"</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">ATOM client service for the INSPIRE harmonized spatial dataset “The State Environmental Monitoring - Monitoring of the Baltic Sea”</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Klient usługi ATOM dla zharmonizowanego zbioru danych przestrzennych INSPIRE "﻿﻿Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku"</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Klient usługi ATOM umożliwia pobieranie zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku". Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">ATOM client service enabling download INSPIRE harmonized spatial dataset "The State Environmental Monitoring - Monitoring of the Baltic Sea". The service uses the interface Atom version 1.0 and OpenSearch version 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Klient usługi ATOM umożliwia pobieranie zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - ﻿Monitoring środowiska morskiego Bałtyku". Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">Rozporządzenie Komisji (UE) Nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/DegreeOfConformity/conformant">Zbiór danych jest zgodny z wymaganiami INSPIRE dotyczącymi interoperacyjności zbiorów i usług danych przestrzennych.</gmx:Anchor>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>Data Specification on Environmental Monitoring Facilities – Technical Guidelines, version 3.0</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2013-12-10</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/DegreeOfConformity/conformant">Zbiór danych jest zgodny z zestawem testów abstrakcyjnych zdefiniowanych w aneksie A dokumentu D2.8.II/III.7 Data Specification on Environmental Monitoring Facilities – Technical Guidelines</gmx:Anchor>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>Data Specification on Oceanographic geographical features – Technical Guidelines, version 3.0</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2013-12-10</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/DegreeOfConformity/conformant">Zbiór danych jest zgodny z zestawem testów abstrakcyjnych zdefiniowanych w aneksie A dokumentu D2.8.III.15 Data Specification on Oceanographic geographical features – Technical Guidelines</gmx:Anchor>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Dane źródłowe pochodzą z bazy plikowej GIOŚ, będącej kopią danych dotyczących monitoringu środowiska morskiego Bałtyku (baza źródłowa funkcjonuje w Instytucie Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy). Dane zostały przekształcone zgodnie z modelami INSPIRE w zakresie tematów Urządzenia do monitorowania środowiska (EF) oraz Warunki oceanograficzno-geograficzne (OF) w wersjach schematów 4.0. Wytyczne techniczne dla tematów EF i OF dostępne są w specyfikacjach D2.8.II/III.7 INSPIRE Data Specification on Environmental Monitoring Facilities - Technical Guidelines oraz D2.8.III.15 INSPIRE Data Specification on Oceanographic geographical features - Technical Guidelines.</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-eng">Source data comes from the CIEP file database, which is a copy of data on Baltic Sea monitoring  (the source database operates at Institute of Meteorology and Water Management - National Research Institute (IMGW-PIB)). The data were transformed in accordance with INSPIRE models in subjects of Environmental Monitoring Facilities (EF) and Oceanographic geographical features (OF) in versions of schemas 4.0. Technical guidelines for EF and OF subjects are available in the specification D2.8.II / III.7 INSPIRE Data Specification on Environmental Monitoring Facilities - Technical Guidelines and D2.8.III.15 INSPIRE Data Specification on Oceanographic geographical features - Technical Guidelines.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-pol">Dane źródłowe pochodzą z bazy plikowej GIOŚ, będącej kopią danych dotyczących monitoringu środowiska morskiego Bałtyku (baza źródłowa funkcjonuje w Instytucie Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy). Dane zostały przekształcone zgodnie z modelami INSPIRE w zakresie tematów Urządzenia do monitorowania środowiska (EF) oraz Warunki oceanograficzno-geograficzne (OF) w wersjach schematów 4.0. Wytyczne techniczne dla tematów EF i OF dostępne są w specyfikacjach D2.8.II/III.7 INSPIRE Data Specification on Environmental Monitoring Facilities - Technical Guidelines oraz D2.8.III.15 INSPIRE Data Specification on Oceanographic geographical features - Technical Guidelines.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

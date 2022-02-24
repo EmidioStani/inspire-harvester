@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:base="http://www.disy.de/preludio2/base" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gfm="http://www.isotc211.org/2005/gfm" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20070417/gmx/gmx.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20070417/srv/1.0/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>e07c5690-007a-11e0-be74-0000779eba3a</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger">ger</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString>Schutzgebiete des Naturschutzes</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>Datenstelle</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Bayerisches Landesamt für Umwelt</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>+49-821-9071-0</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile>
+                              <gco:CharacterString>+49-821-9071-5556</gco:CharacterString>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Bürgermeister-Ulrich-Straße 160</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Augsburg</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>DE-BY</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>86179</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>DE</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>datenstelle@lfu.bayern.de</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.lfu.bayern.de/umweltdaten/datenbezug/index.htm</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                     <gmd:contactInstructions>
+                        <gco:CharacterString>Bitte verwenden Sie das Kontaktformular der Datenstelle des Bayerischen Landesamts für Umwelt.</gco:CharacterString>
+                     </gmd:contactInstructions>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime>2021-10-26T10:43:25+01:00</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem uuid="69f840ff-f3d3-435b-a9a1-273ad8c41354">
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.opengis.net/def/crs/EPSG/0/25832">EPSG:25832</gmx:Anchor>
+                     </gmd:code>
+                     <gmd:version>
+                        <gco:CharacterString>7.9</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification uuid="14fe5caf-a420-4219-9a5f-a5efc65c4775">
+               <gmd:citation>
+                  <gmd:CI_Citation uuid="833f3834-fcfa-43c9-aae0-bf3d6636ac1d">
+                     <gmd:title>
+                        <gco:CharacterString>Vogelschutzgebiete</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>SPA</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date uuid="5f719636-ba18-4741-8f91-7da42f666eb5">
+                           <gmd:date>
+                              <gco:Date>2016-04-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier uuid="1e9cfd2f-154b-4284-8177-f2c84813c476">
+                           <gmd:code>
+                              <gco:CharacterString>https://registry.gdi-de.org/id/de.by/DEBY_FA899DB2-F1E4-40E3-AB83-110174A45769</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Die Gebiete der Vogelschutzrichtlinie dienen der langfristigen Erhaltung der wildlebenden Vogelarten Europas und ihrer Lebensräume. Die Abgrenzungen der bayerischen Vogelschutzgebiete wurde durch die "Verordnung über die Festlegung von Europäischen Vogelschutzgebieten sowie deren Gebietsbegrenzungen und Erhaltungszielen" (kurz: VoGEV) am 12.7.2006, geändert durch Verordnung vom 22.07.2014, rechtsverbindlich festgelegt. Mit der „Bayerische Verordnung über die Natura 2000_Gebiete“ vom 19.02.2016, wurden die Vogelschutzgebiete und FFH-Gebiete mit einer gemeinsamen Verordnung rechtsverbindlich festgelegt. Die Bayerische Gesamtmeldung der Vogelschutzgebiete wird im Maßstab 1:5.000 angeboten.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:purpose>
+                  <gco:CharacterString>Umweltinformationsgesetz</gco:CharacterString>
+               </gmd:purpose>
+               <gmd:status>
+                  <gmd:MD_ProgressCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ProgressCode" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
+               </gmd:status>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Datenstelle</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Bayerisches Landesamt für Umwelt</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>+49-821-9071-0</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString>+49-821-9071-5556</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Bürgermeister-Ulrich-Straße 160</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Augsburg</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>DE-BY</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>86179</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>DE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>datenstelle@lfu.bayern.de</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://www.lfu.bayern.de/umweltdaten/datenbezug/index.htm</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                           <gmd:contactInstructions>
+                              <gco:CharacterString>Bitte verwenden Sie das Kontaktformular der Datenstelle des Bayerischen Landesamts für Umwelt.</gco:CharacterString>
+                           </gmd:contactInstructions>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation uuid="c4b273c1-156f-4040-8c22-707c52b958a8">
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic uuid="39f8c9f2-89ce-4e1a-8fab-c7a34ba9f338">
+                     <gmd:fileName>
+                        <gco:CharacterString>https://www.lfu.bayern.de/gdi/md/natur/spa.png</gco:CharacterString>
+                     </gmd:fileName>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="a943cae8-c460-4f8b-a080-95d5c6bbd440">
+                     <gmd:keyword>
+                        <gco:CharacterString>Schutzgebiete</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="2aed6ee3-75d1-4eef-9962-ee9d7e04d0a6">
+                           <gmd:title>
+                              <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="4641474d-8446-4159-88d9-f8af04b0f389">
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Regional</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>Spatial scope</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="de50d37f-d05f-4653-96c1-a0ee85cb136e">
+                     <gmd:keyword>
+                        <gco:CharacterString>Schutzgebiet</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>EU-Richtline</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Vogelschutzgebiet</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Umweltschutz</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Naturschutz</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>natürliche Lebensräume</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>nachhaltige Nutzung</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Vogelschutz</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>NATURA 2000</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Vogelarten</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>EU-Vogelschutzgebiet</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="4eecb481-4320-4449-aa10-d7e92b981153">
+                     <gmd:keyword>
+                        <gco:CharacterString>opendata</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>gdiby</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>inspireidentifiziert</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="b55abf52-932c-4bcd-b0c2-6e91951af04e">
+                     <gmd:keyword>
+                        <gco:CharacterString>Vogelschutzgebiete (Vogelschutzrichtlinie)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="a12a3380-2de8-49a9-a788-511a8f611aef">
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="424ac4fe-3606-47f0-a9a2-4e2e3b7b410f">
+                                 <gmd:date>
+                                    <gco:Date>2016-04-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_Constraints>
+                     <gmd:useLimitation>
+                        <gco:CharacterString>Rechtsverbindliche Schutzgebietsgrenzen sind bei der jeweils zuständigen Naturschutzbehörde einzusehen. Die hier angegebenen Flächenangaben sind digital berechnet und können von der jeweiligen Verordnungsfläche abweichen.</gco:CharacterString>
+                     </gmd:useLimitation>
+                  </gmd:MD_Constraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Der Datensatz/Dienst steht unter der Lizenz: Creative Commons Namensnennung 4.0 International (CC BY 4.0). Die Namensnennung des Bayerischen Landesamtes für Umwelt als Rechteinhaber hat in folgender Weise zu erfolgen: "Datenquelle: Bayerisches Landesamt für Umwelt, www.lfu.bayern.de". Die Nutzung von Daten über Dienste ist geldleistungsfrei. Bei Bezug von Daten über die Datenstelle des LfU (nur Daten, die nicht über Dienste verfügbar sind) wird eine Bereitstellungsgebühr erhoben, die sich an der Umweltgebührenordnung orientiert.</gco:CharacterString>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>{ "id": "cc-by", "name": "Creative Commons Namensnennung (CC BY)", "quelle": "Datenquelle: Bayerisches Landesamt für Umwelt, www.lfu.bayern.de", "url": "http://creativecommons.org/licenses/by/3.0/deed.de" }</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_SecurityConstraints uuid="c2dce089-9b2a-4f34-949a-a6d1c8ed96e0">
+                     <gmd:classification>
+                        <gmd:MD_ClassificationCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</gmd:MD_ClassificationCode>
+                     </gmd:classification>
+                  </gmd:MD_SecurityConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction uuid="367ccc32-5e74-42ba-9d17-db4583855dfb">
+                           <gmd:denominator>
+                              <gco:Integer>5000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger">ger</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:characterSet>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent uuid="3e43579b-f930-4cc1-8830-0661d6e4760e">
+                     <gmd:description>
+                        <gco:CharacterString>Die Daten sind flächendeckend für Bayern verfügbar.</gco:CharacterString>
+                     </gmd:description>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox uuid="0e839192-33c7-45d7-9e09-d50aabd58e2f">
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>8.8929</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>13.9753</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>47.1719</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>50.5819</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution uuid="3e1e8904-d02f-4281-9e87-a00b21da1ac8">
+               <gmd:distributionFormat>
+                  <gmd:MD_Format uuid="e0e0622f-022e-4180-bcf5-9a2820fd9c26">
+                     <gmd:name>
+                        <gco:CharacterString>Shapefile (*.shp)</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>keine Angabe</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format uuid="d007d9e0-5bce-4f71-b37c-6d7d638fba17">
+                     <gmd:name>
+                        <gco:CharacterString>Oracle Spatial Tabelle</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>11.x</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributor>
+                  <gmd:MD_Distributor uuid="edb9277c-bfe1-435e-ac44-100958ac9b2b">
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:individualName>
+                              <gco:CharacterString>Datenstelle</gco:CharacterString>
+                           </gmd:individualName>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Bayerisches Landesamt für Umwelt</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:phone>
+                                    <gmd:CI_Telephone>
+                                       <gmd:voice>
+                                          <gco:CharacterString>+49-821-9071-0</gco:CharacterString>
+                                       </gmd:voice>
+                                       <gmd:facsimile>
+                                          <gco:CharacterString>+49-821-9071-5556</gco:CharacterString>
+                                       </gmd:facsimile>
+                                    </gmd:CI_Telephone>
+                                 </gmd:phone>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString>Bürgermeister-Ulrich-Straße 160</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString>Augsburg</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString>DE-BY</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>86179</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString>DE</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>datenstelle@lfu.bayern.de</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>https://www.lfu.bayern.de/umweltdaten/datenbezug/index.htm</gmd:URL>
+                                       </gmd:linkage>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                                 <gmd:contactInstructions>
+                                    <gco:CharacterString>Bitte verwenden Sie das Kontaktformular der Datenstelle des Bayerischen Landesamts für Umwelt.</gco:CharacterString>
+                                 </gmd:contactInstructions>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                     <gmd:distributionOrderProcess>
+                        <gmd:MD_StandardOrderProcess uuid="8aefd588-4cc1-428f-8752-05507fde7b4f">
+                           <gmd:fees>
+                              <gco:CharacterString>geldleistungsfrei</gco:CharacterString>
+                           </gmd:fees>
+                        </gmd:MD_StandardOrderProcess>
+                     </gmd:distributionOrderProcess>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions uuid="e5bf410b-015d-4a5d-94fd-3839d193f783">
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource uuid="061d33b5-fcb5-4e3e-a886-d9bda57c51a2">
+                           <gmd:linkage>
+                              <gmd:URL>https://www.lfu.bayern.de/natur/schutzgebiete/schutzgebietsabgrenzungen/index.htm</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>Download</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Download der Schutzgebietsabgrenzungen</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Übersichtsseite mit Links zum Download der Daten</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource uuid="d070ded2-04c5-41bc-92e6-31dbf840997d">
+                           <gmd:linkage>
+                              <gmd:URL>https://www.lfu.bayern.de/natur/natura_2000/index.htm</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>Information</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Informationsseite</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource uuid="173fe114-f5ce-48c5-80e3-b23e2b791b7c">
+                           <gmd:linkage>
+                              <gmd:URL>https://www.lfu.bayern.de/umweltdaten/geodatendienste/index.htm</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>Information</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Daten in Darstellungs- und Downloaddiensten</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Die Daten können über einen Darstellungsdienst (WMS) und/oder Downloaddienst (WFS oder Predefined Atom) aufgerufen werden.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource uuid="03f54394-8eaf-40d9-beab-2f0314905bb4">
+                           <gmd:linkage>
+                              <gmd:URL>https://www.umweltatlas.bayern.de</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>Information</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Daten im UmweltAtlas Bayern</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Die Daten können im UmweltAtlas Bayern aufgerufen werden.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality uuid="4b9d634d-5090-44b8-b23a-b995b3d79993">
+               <gmd:scope>
+                  <gmd:DQ_Scope uuid="114880c5-5964-4a22-b266-79c2ffe48736">
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency uuid="adab9893-8040-4485-b859-b6a906fe3efa">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult uuid="e78bf297-924c-4576-8ebd-b1b94f33cafd">
+                           <gmd:specification>
+                              <gmd:CI_Citation uuid="c05d0280-a000-4d1d-9869-8ad9f778b688">
+                                 <gmd:title>
+                                    <gco:CharacterString>INSPIRE Data Specification on Protected Sites - Guidelines</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date uuid="3cf0e4b0-967c-4f41-b1ca-ccfef344d774">
+                                       <gmd:date>
+                                          <gco:Date>2014-04-17</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Das Datenmodell entspricht nicht den Vorgaben von INSPIRE</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>false</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency uuid="fdc25f8a-145f-4ed5-9a9e-375275ce1aa2">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult uuid="b140d3a2-fc30-43d1-9be7-ce5e369db5bc">
+                           <gmd:specification>
+                              <gmd:CI_Citation uuid="a1b8f1b3-01ac-4d0f-83cc-6b5b3deaa60b">
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://data.europa.eu/eli/reg/2010/1089">VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date uuid="0263c77e-c0e3-4b13-b452-0c21701b6903">
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Datenmodelltransformation noch nicht durchgeführt.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>false</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage uuid="76cdd0b3-dcdf-47df-be09-92c5c76ce5e8">
+                     <gmd:statement>
+                        <gco:CharacterString>Digitale Erfassung von Flächen nach der Vogelschutzrichtlinie im Bundesland Bayern.</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

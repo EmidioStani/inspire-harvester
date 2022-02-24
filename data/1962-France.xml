@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">de6f681c-27c3-4beb-b028-098c4690f58a</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Série de données</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">CEREMA</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo xlink:type="simple">
+                  <gmd:CI_Contact>
+                     <gmd:address xlink:type="simple">
+                        <gmd:CI_Address>
+                           <gmd:country>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">rapportage.bruit@cerema.fr</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2020-11-26T17:53:18</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115:2003/19139</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1.0</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier xlink:type="simple">
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">4326</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                     <gmd:version>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">7.4</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_DataIdentification>
+               <gmd:citation xlink:type="simple">
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Niveau de bruit Lden des grands axes routiers en France - Rapportage 2017</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date xlink:type="simple">
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2018-12-20</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier xlink:type="simple">
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">https://data.georisques.fr/id/dataset/de6f681c-27c3-4beb-b028-098c4690f58a</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Ce jeu de données localise les secteurs exposés à des niveaux sonores issus du bruit des grands axes routiers selon l’indice Lden pour l’année 2017 en France.
+
+L’indice Lden est un des deux indicateurs préconisés par la directive européenne 2002/49/CE, relative à l'évaluation et à la gestion du bruit dans l'environnement, afin de mesurer le niveau sonore décrivant le bruit dans l'environnement. Au sens de la Directive, ce dernier est émis par les moyens de transports, le trafic routier, ferroviaire ou aérien ou provient de sites d'activité industrielle. 
+
+L’indice Lden signifie « Level Day - Evening – Night ». Il s’agit donc d’un indicateur du niveau de bruit global pendant 24 h (jour, soir et nuit) utilisé pour qualifier la gêne liée à l'exposition au bruit. Il est calculé à partir des indicateurs « Lday », « Levening », « Lnight », niveaux sonores moyennés sur les périodes 7h-19h, 19h-23h et 23h-7h. 
+
+Il est exprimé en décibel A (dB(A)), qui est l’unité retenue pour représenter les sensibilités de l’oreille humaine. 
+
+Dans le calcul de Lden, les indicateurs « Levening » et « Lnight » sont pondérés pour tenir compte du fait, qu’à niveau égal, nous sommes plus sensibles au bruit au cours de ces périodes : - +5 dBA à la période de la soirée, ce qui signifie qu’un véhicule circulant en soirée est considéré comme équivalent presque trois véhicules circulant le jour ; - +10 dBA à la période de nuit, ce qui signifie qu’un véhicule circulant en soirée est considéré comme équivalent presque dix véhicules circulant le jour. L’indicateur est moyenné sur une année civile.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Générale de la Prévention des Risques (MEEM/DGPR)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Tour Séquoïa</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LA DEFENSE CEDEX</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">92055</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">rapportage.bruit@cerema.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="owner"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:graphicOverview xlink:type="simple">
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">/geonetwork/srv/api/records/8cd0d3d8-a6ff-4e96-8c1c-8bdc495ebd85/attachments/CartoBruit.jpg</gco:CharacterString>
+                     </gmd:fileName>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Géorisques</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Rapportage</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Bruit</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Directive bruit</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Transport</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Bruit routier</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Données ouvertes</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France métropolitaine</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national" xlink:type="simple">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope" xlink:type="simple">Champ géographique</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/theme/am" xlink:type="simple">Zones de gestion, de restriction ou de réglementation et unités de déclaration</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier xlink:type="simple">
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/theme" xlink:type="simple">Registre de thème INSPIRE</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2002-49" xlink:type="simple">Directive 2002/49/EC</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/EnvironmentalNoiseExposure-dir-2002-49" xlink:type="simple">Environmental noise exposure (Noise Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MajorRoadsNoiseExposureDelineation-dir-2002-49" xlink:type="simple">Major roads noise exposure delineation (Noise Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MajorRoadsNoiseExposureDelineationDEN-dir-2002-49" xlink:type="simple">Major roads noise exposure delineation day-evening-night (Noise Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset" xlink:type="simple">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints xlink:type="simple">
+                  <gmd:MD_Constraints>
+                     <gmd:useLimitation>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Aucune condition ne s’applique</gco:CharacterString>
+                     </gmd:useLimitation>
+                     <gmd:useLimitation>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Données ouvertes</gco:CharacterString>
+                     </gmd:useLimitation>
+                  </gmd:MD_Constraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints xlink:type="simple">
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations" xlink:type="simple">No limitations on public access</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints xlink:type="simple">
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply" xlink:type="simple">No conditions apply to access and use</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale xlink:type="simple">
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator/>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:distance>
+                        <gco:Distance xmlns:gco="http://www.isotc211.org/2005/gco" uom="m">50.0</gco:Distance>
+                     </gmd:distance>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+               </gmd:language>
+               <gmd:characterSet>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent xlink:type="simple">
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement xlink:type="simple">
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-5.13899647</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">9.55961487</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">41.338779</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">51.08900123</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat xlink:type="simple">
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/media-types/application/xshapefile" xlink:type="simple">Esri Shapefile</gmx:Anchor>
+                     </gmd:name>
+                     <gmd:version xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown"/>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://cdr.eionet.europa.eu/fr/eu/noise/colt5vp4w/2017/envxbflkg/envelope_zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:DQ_DataQuality>
+               <gmd:scope xlink:type="simple">
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report xlink:type="simple">
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result xlink:type="simple">
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification xlink:href="http://inspire.ec.europa.eu/id/citation/ir/reg-1089-2010" xlink:type="simple">
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://data.europa.eu/eli/reg/2010/1089" xlink:type="simple">COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date xlink:type="simple">
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">cf. la spécification citée</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean xmlns:gco="http://www.isotc211.org/2005/gco">true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage xlink:type="simple">
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">La manière de produire ces données est décrite dans le standard de la COVADIS sur le bruit disponible ici :
+            http://www.geoinformations.developpement-durable.gouv.fr/geostandard-bruit-dans-l-environnement-a3604.html</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

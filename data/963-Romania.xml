@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20060504/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20060504/gmx/gmx.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>{E5F2A942-F9B8-4D2F-B8C6-62F79FDE8422}</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="rum">rum</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString>Administrația Națională "Apele Române"</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>inspire@rowater.ro</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>viorel.chendes@hidro.ro</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2016-01-20</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>INSPIRE Metadata Implementing Rules</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>Technical Guidelines based on EN ISO 19115 and EN ISO 19119 (Version 1.2)</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/3844</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Zone inundabile</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2014-04-09</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2014-10-27</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>NZ.ZoneInundabile</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>RO.ANAR</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Zonele inundabile din România reprezintă extinderea (suprafața) zonelor potențial inundabile din albiile majore ale râurilor, raportate în cadrul Directivei Parlamentului și a Consiliului European privind evaluarea și managementul riscului la inundații (2007/60/EC), cunoscută sub denumirea de Directiva Inundații. Acestea semnifică acoperirea temporară cu apă a unui teren care nu este acoperit în mod obișnuit cu apă. Accoperirea este considerată ipotetică (teoretică), deoarece reprezintă anumite scenarii și sunt determinate pe baza unor debite calculate statistic cu anumite probabilități de depășire: 0,1% (probabilitate mică de depășire), 1% (probabilitate medie de depășire) si 10% (probabilitate mare depășire).
+În acest set de date sunt incluse 371 areale cu risc potențial semnificativ la inundații (APSFR - Areas of Potentially Significant Flood Risk) care acoperă o lungime a rețelei hidrografice de 17400 km, din care 16326 km în lungul râurilor interioare (circa 20% din lungimea rețelei hidrografice cadastrate). Dintre cele 371 zone, pentru 276 au fost determinate toate cele 3 scenarii.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Administrația Națională "Apele Române"</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>inspire@rowater.ro</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Institutul Național de Hidrologie și Gospodărire a Apelor</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>relatii@hidro.ro</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Institutul Național de Hidrologie și Gospodărire a Apelor</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>viorel.chendes@hidro.ro</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Administrația Națională "Apele Române"</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>dispecer@rowater.ro</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Zone de risc natural</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>inundare</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>management al riscului</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>management al apelor de suprafață</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>hidrologie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>hidraulică</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>râu</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>hidrografie</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>GEMET - Concepts, version 2.4</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2010-01-13</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Flooded areas (Floods Directive)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>National</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>Spatial scope</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">Other Restrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Setului de date ”Zone inundabile”, componentă a hărților de hazard, este de interes general. Scopul acestuia este de informare și conștientizare a populației, suport decizional, suport pentru întocmirea planurilor de management la inundații, etc. Harta însă nu oferă gradul de precizie necesar proiectării unor construcții, mai ales a celor de tip industrial, drumuri, stații de tratare/epurare etc.; pentru activități de promovare a investițiilor, proiectare, etc. sunt necesare studii aprofundate la nivel local. 
+De asemenea, menționăm că prezentul set de date include doar zonele inundabile pentru anumite zone/sectoare (zone cu risc potențial semnificativ la inundații, în accepțiunea Directivei 2007/60/CE), și neacoperirea unei zone din țara noastră nu conduce la concluzia că zona respectivaă nu poate fi expusă riscului la inundații.
+Este autorizată reproducerea în scopuri necomerciale cu condiția citării complete a sursei.
+Este interzisă reproducerea, distribuirea sau publicarea în scopuri comerciale, sub orice formă, a conținutului setului de date ”Zone inundabile” de către orice persoană, fără acordul scris al Administrației Naționale "Apele Române".
+Rapoartele, articolele, lucrările științifice sau non-științifice în orice formă, inclusiv tabele, hărți sau orice altă formă de prezentare în format tipărit sau electronic, bazate în totalitate sau în parte pe setul de date ”Zone inundabile”, trebuie să fie obligatoriu însoțite de următorul text:
+”Datele aparțin Administrației Naționale "Apele Române" – http://www.rowater.ro/default.aspx.”
+Administrația Naționale "Apele Române" nu își poate asuma orice pierderi cauzate de omisiuni sau erori ale utilizării setului de date ”Zone inundabile” și nu furnizează asistență și suport pentru utilizarea acestuia.
+Materialele livrate se vor folosi numai pentru lucrările pentru  care au fost solicitate. Manipularea acestor date se va face în cadrul instituției de un număr restrâns de persoane, evitându-se copierea nejustificată a acestora. 
+Solicitarea se va adresa: A.N. "Apele Române", Tel.: 021. 311.01.46, 021.315.13.01; Fax: 021.312.21.74, 021.312.37.38, Str. Edgar Quinet nr. 6, sector 1, cod 010018, București, România, http://www.rowater.ro/</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/INSPIRE_Directive_Article13_1e">public access limited according to Article 13(1)(e) of the INSPIRE Directive</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>25000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="rum">rum</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:characterSet>
+                  <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>geoscientificInformation</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>20.457</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>29.713</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>43.619</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>48.266</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>2.0</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>ESRI File Geodatabase</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>10.2</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://gis2.rowater.ro:8989/flood/</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information" codeSpace="ISOTC211/19115">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>Regulamentul (UE) nr. 1089/2010 al Comisiei din 23 noiembrie 2010 de punere în aplicare a Directivei 2007/2/CE a Parlamentului European și a Consiliului în ceea ce privește interoperabilitatea seturilor și serviciilor de date spațiale</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Conform</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>România, în calitate de Stat Membru, are obigația de a implementa Directiva 2007/60/CE privind evaluarea și managementul riscului la inundații, etapele de raportare fiind: 1) Evaluarea preliminară a riscului la inundații; 2) Elaborarea hărților de hazard și risc la inundații; 3) Realizarea planurilor de management al riscului la inundații.
+În perioada 2010-2012 a fost implementată prima etapă a Directivei Inundații, ce presupune parcurgerea a două sub-etape: selectarea inundațiilor istorice semnificative (inclusiv localizarea spațială a acestora) și identificarea arealelor cu risc potențial semnificativ la inundații (APSFR – Areas with Potential Significant Flood Risk).
+Desemnarea evenimentelor istorice semnificative s-a realizat pe baza unor criterii elaborate de către I.N.H.G.A. și care iau în considerare atât magnitudinea fenomenului (probabilitatea de depășire a debitelor maxime și extinderea fenomenului), cât și a consecințelor și pagubelor produse. Pe baza acestei analize, la care s-a adăugat analiza altor tipuri de date disponibile în format GIS, au fost identificate 399 sectoare de râu cu risc potențial semnificativ la inundații (APSFR) pe întreg teritoriul României. Dintre acestea, 23 sunt situate de-a lungul Dunării. Ulterior, în etapa de realizare a hărților de hazard, ca urmare a modelării integrale a fluviului, acestea au fost unite într-o singură zonă. Alte 3 zone litorale nu au fost modelate hidraulic iar două zone au fost comasate / eliminate, rezultând în final un număr de 371 zone pentru care a fost detrminată extinderea zonelor inundabile.
+Cea de a doua etapă a Directivei 2007/60/EC, desfășurată în perioada 2013-2014, a inclus și realizarea setului de date privind extinderea zonelor inundabile pentru sectoarele APSFR. Conform cerințelor Directivei Inundații, au fost modelate 3 scenarii diferite: inundații cu probabilitate mică de depășire sau în cazuri extreme, o dată la 1000 de ani (în cazul ABA Olt, de o dată la 500 de ani); inundații cu probabilitate medie (o dată la 100 de ani) și inundații cu probabilitate mare (o dată la 10 ani). În vederea pregătirii acestei etape, grupul de lucru format la nivel național din specialiști ai A.N.A.R. - sediul central și I.N.H.G.A., a realizat o serie de activități în vederea pregătirii raportării în cadrul Directivei Inundații: verificarea și corectarea datelor existente; verificarea, corectarea și completarea limitelor zonelor inundabile pentru fiecare sector APSFR; simplificarea, generalizarea și rotunjirea datelor vector în vederea reducerii mărimii fișierelor și a îmbunătățirii aspectului cartografic, fără însă a reduce foarte mult precizia acestora; structurarea și codificarea în conformitate cu cerințele WISE și cu sistemul de codificare stabilite în prima etapă de implementare a Directivei Inundații; dezvoltarea de proceduri și metodologii simplificate pentru generarea zonelor inundabile acolo unde acestea nu au fost modelate hidraulic anterior.
+În cea mai mare proporție (76% din lungimea totală a sectoarelor APSFR), zonele inundabile au fost generate prin utilizarea rezultatelor obținute în cadrul Programului Național Planul de Prevenire, Protecție și Diminuare a Efectelor Inundațiilor (P.P.P.D.E.I.) – derulat în cadrul a 10 Administrații Bazinale de Apă (A.B.A.) și în cadrul Proiectului „Lucrări de apărare împotriva inundațiilor în BH Prut- Bârlad’’ - derulat în cadrul A.B.A. Prut-Bârlad. Zona inundabilă a Dunării reprezintă 6% din lungimea sectoarelor APSFR și a fost determinată, de asemenea, prin modelare hidraulică avansată în cadrul proiectului Danube Flood Risk.
+Programul P.P.P.D.E.I. a fost aprobat sub presiunea inundațiilor deosebite din anul 2005 prin H.G. nr. 1309/2005, inițiat de către Ministerul Mediului și Pădurilor. Metodele folosite în cadrul acestui program sunt metode avansate, bazate pe studii complexe topogeodezice, hidrologice și hidraulice desfășurate în perioada 2007 – 2013, ale căror rezultate obținute sunt de înaltă rezoluție. Acestea au fost realizate de diferite consorții naționale și internaționale. Pentru cele mai importante areale, considerate prioritare, au fost obținute Modele Digitale ale Terenului prin scanare LIDAR (Light Intensity Detection and Ranging) sau FLI-MAP (Fast Linear Imaging-Map), completate cu măsurători topobatimetrice în albiile minore (profile transversale). Modelele terenului detaliate realizate în cadrul P.P.P.D.E.I. au o precizie pe verticală de ±20 - ±50 cm și rezoluție (dimensiunea celulei) de 1-5 m.
+Modelarea hidrologică s-a realizat la nivel de bazin hidrografic cu ajutorul aplicațiilor de specialitate. Datele hidrologice de bază au constat în debite maxime în regim actual de scurgere corespunzătoare diferitelor probabilități de depășire, rezultând hidrografele de debit aferente. Modelarea hidraulică a constat în simularea scurgerii pe cursurile de apă analizate. Au fost utilizate modele unidimensionale (1D) și, local, bidimensionale (2D), recunoscute pe plan internațional precum MIKE 11/21 (Danish Hydraulic Institute), Sobek (Delft Hydraulic), HEC, etc.
+În conformitate cu P.P.P.D.E.I., hărțile de hazard la inundații pentru fiecare A.B.A., au fost realizate in baza unor licitații la care au participat diferite consorții, firmele responsabile pentru elaborarea acestora fiind prezentate la adresa http://www.rowater.ro/HHHRI/HHHRI.aspx.
+Zona inundabilă a Dunării a fost obținută în cadrul proiectului Danube Flood Risk, având la bază și date privind MDT-ul cu rezoluție de 5 m obținut în cadrul proiectului "Redimensionarea ecologică și economică pe sectorul românesc al Luncii Dunării", contract nr. 3683/M.M.D.D./2006, realizat de către Institutul Național de Cercetare-Dezvoltare Delta Dunării - Tulcea.
+Pentru zonele APSFR neincluse în P.P.P.D.E.I. sau în alte programe/proiecte, au fost dezvoltate metode simplificate de generare a extinderii zonei inundabile, cu precizie mai redusă a rezultatelor, motiv pentru care s-au aplicat doar pentru scenariul mediu (1%). Au fost dezvoltate și utilizate 3 tipuri de metode: a) modelare cu sisteme fuzzy pentru care a fost utilizată aplicația open source GRASS GIS; b) calcul hidraulic simplificat – ecuația Chezy, pentru care a fost dezvoltat un instrument (extensie ArcGIS) de către U.T.C.B. și ESRI România, sub îndrumarea specialiștilor din I.N.H.G.A. și A.N.A.R.; c) procedură GIS de reconstituire a nivelurilor produse la anumite inundații recente (2005, 2008, 2010), cu debite cu probabilitatea de depășire de cca. 1%. Acestea au fost aplicate pentru circa 16% din lungimea sectoarelor APSFR.</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

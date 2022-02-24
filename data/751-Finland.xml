@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd https://inspire.ec.europa.eu/draft-schemas/inspire-md-schemas-temp/apiso-inspire/apiso-inspire.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>{D8975CE2-CD68-4A0A-A628-D061BFAD9F2B}</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fin">fin</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString>Suomen ympäristökeskus</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>gistuki@syke.fi</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2021-09-02</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO 19115</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/3067">EPSG:3067</gmx:Anchor>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/3035">EPSG:3035</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Tulvavaaravyöhykkeet, perusskenaariot / Flood hazard zones, basic scenarios</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2020-11-17</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2013-04-10</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor xlink:href="http://paikkatiedot.fi/so/1002016/nzr/HazardCoverage">http://paikkatiedot.fi/so/1002016/nzr/HazardCoverage</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Tulvakartat muodostavat perustan tehokkaalle tulvariskien hallinnalle. Karttapohjainen tieto tulvavaarasta, -haavoittuvuudesta ja -riskistä on välttämätöntä tulvariskien hallintatoimissa. Tulvavaarakartoilla lisätään viranomaisten ja kansalaisten tietoisuutta tulvavaara-alueista. Tulvakarttoja voidaan käyttää apuna mm. tulvariskien hallintasuunnitelmien laatimisessa, alueiden käytön suunnittelussa, pelastustoiminnassa ja tiedottamisessa. Niiden avulla voidaan esimerkiksi suunnitella toiminta tulvatilanteessa, kuten teiden sulkemiset ja evakuoinnit.
+
+Määritetty tulva-alue koostuu tulvavaaravyöhykkeistä, jotka kuvaavat tietyn vedenkorkeuden aiheuttamaa tulvan peittämää aluetta ja vaaran astetta tietyllä todennäköisyydellä (toistuvuusaika). Tulvan toistuvuusaika tarkoittaa sen ajanjakson pituutta, joka keskimäärin kuluu, ennen kuin tietyn suuruinen tai sitä suurempi tulva esiintyy uudelleen. Esim. todennäköisyys kerran 100 vuodessa toistuvan tulvan (1/100a) esiintymiselle jonakin valittuna vuonna on 1 %.
+
+Eri puolilta maata on valmistunut tulvakartoitus tähän mennessä yli sadalta joki- ja järvialueelta. Meritulvakartoitus on laadittu koko rannikkoalueelta.
+
+Määritetty tulva-alue on saatavilla paikkatietokantana toistuvuuksilta 1/2a, 1/5a, 1/10a,1/20a, 1/50a, 1/100a, 1/250a ja 1/1000a. Kullakin toistuvuudella on oma syvyysvyöhyke-karttatasonsa. Niissä on kuvattu yleensä tulvan peittävyyden lisäksi myös vaaran asteena käytetty vesisyvyys vyöhykkeittäin (0-0.5 m, 0.5-1 m, 1-2 m, 2-3 m, yli 3 m ja vesistö). Tämän lisäksi on saatavilla karttatasot tulvakartoitettujen alueiden rajoista sekä infoviivoista (poikkiviivoista). Infoviivoihin on tallennettu attribuuttina eri toistuvuuksien vedenkorkeuslukemat tulvakartoitetuilta alueilta.
+
+Määritetyn tulva-alueen käytössä on huomioitava lähtötietojen luotettavuus ja tarkkuus. Tulvakartat perustuvat laatimisajankohtana saatavilla olleeseen parhaaseen mahdolliseen tietoon niin topografian kuin tulvahaavoittuvuuden osalta. Toistuvuusaika perustuu tulvakartan laatimisajankohtaan. Vanhempien karttojen osalta se ei välttämättä enää vastaa nykyistä tulvan toistumisaikaa. Tulvavaaravyöhykkeet kuvaavat, mitkä alueet ovat tulvavaarassa erisuuruisilla tulvilla. Ne eivät suoraan kerro, mitkä rakennukset kastuvat, koska kartoituksessa käytetty maanpinnan korkeustieto poikkeaa todellisesta alimmasta vahinkoja aiheuttavasta korkeudesta kuten sokkelikorkeudesta. Toisaalta esim. kellarit voivat kastua, vaikka tulva ei leviäisikään rakennukselle saakka.
+
+Tämä aineisto sisältää vesistötulvat (joesta tai järvestä nousevat tulvat) avovesitilanteessa (jäitä ei huomioitu, käytetty avovesitilanteen virtaaman toistuvuuksia) sekä meritulvat. Muita tulvakarttoja, muun muassa jää- ja hyydepadoista aiheutuvien tulvien tulvakarttoja sekä tulvakartat, joissa on huomioitu samanaikaiset vesistö- ja meritulvat, löytyy joiltain alueilta (ks. aineisto Tulvavaaravyöhykkeet, erikoisskenaariot). Myös ilmastonmuutoksen vaikutus on otettu paikoin huomioon.
+
+Aineisto kuuluu SYKEn avoimiin aineistoihin (CC BY 4.0). Aineistosta on julkaistu INSPIRE-tietotuote. Lisäksi aineiston pohjalta on julkaistu Tulevaisuuden tulvat INSPIRE-tietotuote.
+
+Aineiston kuvaus:
+https://geoportal.ymparisto.fi/meta/julkinen/dokumentit/MaaritetytTulvatVesisto.pdf
+https://geoportal.ymparisto.fi/meta/julkinen/dokumentit/MaaritetytTulvatMeri.pdf
+
+Lisätietoja:
+https://www.ymparisto.fi/tulvakartat
+http://www.ymparisto.fi/fi-FI/Vesi/Tulviin_varautuminen/Tulvariskien_hallinta/Tulvariskien_hallinnan_suunnittelu/Tulvakartoitus
+
+***
+
+Brief in English
+
+Flood mapping forms a basis for efficient flood risk management. The flood maps can be used to support flood risk management planning, land use planning, reporting and as well as for rescue operations.
+
+The dataset includes information on areas covered by a lake or river flood (fluvial) and as well as sea (coastal) flood with a specific water height at the estimated risk level. The risk level is reflecting a likelihood of a flood on the area. Flood frequency time represents the time period that commonly elapses between floods of at least the specified size. For example, the frequency rate of a flood occurring once in a century (1/100a) is 1% per a year.
+
+Defined flood hazard areas for sea floods are available with frequency rates of 1/2a, 1/5a, 1/10a, 1/20a, 1/50a, 1/100a, 1/250a and 1/1000a. Each frequency rate is represented with a separate map layer. Flood area maps include an estimation of flood coverage, but also water depth zones reflecting the hazard level (0-0.5 m, 0.5-1 m, 1-2 m, 2-3 m, over 3 m and a waterbody). Also map layers representing outlines of flood mapped areas and infolines are included. The infolines have attribute data on water level of flood with different frequency rates.
+
+In the mapping of flooded areas, attention must be paid to the reliability and accuracy of the source information. Coarse scale flood hazard maps are not accurate enough for building specific inspection.
+
+The Finnish titles of the datasets are Tulvavaaravyöhykkeet, vesistötulva (fluvial floods) and Tulvavaaravyöhykkeet, meritulva (sea floods).
+
+Feature attribute description and UML-model:
+https://geoportal.ymparisto.fi/meta/julkinen/dokumentit/flood_hazard_river_lake.pdf
+https://geoportal.ymparisto.fi/meta/julkinen/dokumentit/Flood_hazard_sea.pdf
+
+Additional information and the flood map service:
+https://www.environment.fi/floodmaps</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Suomen ympäristökeskus</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>gistuki@syke.fi</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="owner">owner</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>https://geoportal.ymparisto.fi/meta/julkinen/kuvat/MaaritetytTulvatVesisto.gif</gco:CharacterString>
+                     </gmd:fileName>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/nz">Natural risk zones</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/8229">surface water</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet/en/concept/15102">flood</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet/en/concept/3298">flooding</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet/en/concept/15171">coastal flooding</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet/en/concept/3301">flood risk management</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet/en/concept/15173">flood hazard</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet">GEMET - Concepts, version 4.1.3</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-01-28</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2007-60">Directive 2007/60/EC</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://www.paikkatietohakemisto.fi/geonetwork/srv/eng/thesaurus.download?ref=external.theme.priority_datasets_kielistetty">geonetwork.thesaurus.external.theme.priority_datasets_kielistetty</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Paikkatietoaineisto</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>SYKE resource classification</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2020-04-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>INSPIRE-tietotuote</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Creative Commons Nimeä 4.0 Kansainvälinen http://www.syke.fi/fi-FI/Avoin_tieto/Kayttolupa_ja_vastuut
+
+Lähde: SYKE ja ELY-keskukset</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">no limitations</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>20000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>50000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>100000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fin">fin</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>19.4932</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>31.7778</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>59.8933</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>70.1296</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml:TimePeriod gml:id="Temporal">
+                                 <gml:beginPosition indeterminatePosition="unknown"/>
+                                 <gml:endPosition indeterminatePosition="unknown"/>
+                              </gml:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>ESRI shapefile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>3.x</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>GeoTiff</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>1</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>D2.8.III.12 Data Specification on Natural Risk Zones – Technical Guidelines</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>OGC WMS</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>1.3.0</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_kohteet_infov.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak01.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak04.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak1.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak2.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak5.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak10.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak20.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_meri_todnak50.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_kohteet_infov.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak01.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak04.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak1.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak2.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak5.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak10.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak20.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/tulvavaara_vesisto_todnak50.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.ymparisto.fi/tulvakartat</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>Tulvakarttapalvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://paikkatieto.ymparisto.fi/arcgis/services/INSPIRE/SYKE_Luonnonriskialueet/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>Luonnonriskialueet INSPIRE WMS -katselupalvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://paikkatieto.ymparisto.fi/arcgis/rest/services/Tulva/Tulvariskiaineistot_perusskenaariot_toistuvuuksittain/MapServer</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>Tulvariskiaineistot perusskenaariot toistuvuuksittain (Tulvakarttapalvelun käyttämä rajapinta)</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://geoserver.ymparisto.fi/geoserver/ows?service=WCS&amp;version=2.0.1&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn INSPIRE WCS-palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">KOMISSION ASETUS (EU) N:o 1089/2010, annettu 23 päivänä marraskuuta 2010, Euroopan parlamentin ja neuvoston direktiivin 2007/2/EY täytäntöönpanosta paikkatietoaineistojen ja -palvelujen yhteentoimivuuden osalta</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Tietotuotemäärittelyt Inspire-direktiivin mukaisten paikkatietotuotteiden osalta.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Tulva-alueen määritys tehdään määritettyjä vedenkorkeuksia ja maanpinnan topografian kuvaavaa korkeusmallia (DEM) käyttäen tulvamallinnuksen avulla: vesisyvyys = vedenpinta – maanpinta. Tulvamallinnuksen haasteena on harvinaisten, suurten tulvien vedenkorkeuksien määrittäminen. Niiden arvioimiseen sisältyy monia epävarmuustekijöitä. Korkeusmallin tarkkuus vaikuttaa oleellisesti tulvakartoituksen tarkkuuteen. Tarkkuus on ilmoitettu ominaisuustiedoissa.
+
+Suomessa on laadittu aikaisemmin yleispiirteisiä tulvavaarakarttoja, jotka perustuvat lähinnä kuntien kantakarttoihin ja Maanmittauslaitoksen (MML) maastotietokannan korkeuskäyriin. Kantakarttojen tarkkuus vaihtelee, aineisto on myös usein epähomogeenista. Tiestö, penkereet ja merkittävät tulvariskikohteet on pyritty kuitenkin kuvaamaan korkeusmallissa tarkasti, tarvittaessa on tehty myös maastomittauksia. Yleispiirteisillä tulvavaarakartoilla ei voida tehdä rakennuskohtaista tarkastelua, taustakarttana käytetään esim. seutukarttaa.
+
+Yksityiskohtaisten tulvavaarakarttojen lähtötietona on aina tarkka korkeusmalli (korkeustarkkuus parempi kuin 30 cm), taustakarttana voidaankin käyttää myös peruskarttaa. Yksityiskohtaisten tulvavaarakarttojen osuus on kasvanut Maanmittauslaitoksen valtakunnallisen laserkeilauksella tuotettavan KM2-korkeusmallin valmistumisen myötä. Tarkempi määritetty tulva-alue korvaa aina epätarkemman määritetyn tulva-alueen.
+
+ELY-keskukset tarkistivat vuoden 2019 aikana maa- ja metsätalousministeriön joulukuussa 2018 nimeämille vesistö- ja meritulvien merkittäville tulvariskialueille laaditut tulvakartat. ELY-keskus huolehtii tarpeen mukaan myös muusta suunnittelusta vesistötulvariskien estämiseksi ja vähentämiseksi muilla tulvariskialueilla. Näin ollen tulvavaarakartoitusta, sekä vanhojen kartoituksien päivittämistä että uusien laatimistakin, tehdään jatkuvasti eri puolilla Suomea. Kunnat saattavat lisäksi laatia tarpeen mukaan tulvavaarakarttoja myös rakennus- ja kaavoituspainealueilta. Merkittäviltä tulvariskialueilta on laadittu yksityiskohtaiset tulvavaarakartat.
+
+***
+
+The estimated flood coverage area is delineated by using flood modeling based on information on water levels and ground surface levels (digital elevation model, DEM). Water depth = water level – ground surface level. The defining water level for unusual, large floods is a challenge for flood modeling, since there are several factors increasing uncertainties. The accuracy of the DEM is strongly reflected in the accuracy of flood mapping. The accuracy of the map is described in the feature attributes.
+
+Earlier, flood hazard mapping was done at the coarse scale in Finland. Mapping was based mainly on base maps provided by municipalities and elevation information derived from the Topographic database produced by the NLS (National Land Survey of Finland). It should be noted that accuracy and scale of towns’ and cities’ base maps vary, and the source material is generally inhomogeneous. However, the accuracy of road network, embankment and significant flood risk locations has been improved for the DEM, in some cases also with additional measurements at locations. It should be noted that coarse scale flood hazard maps are not accurate enough for building specific analyses.
+
+However, more and more detailed scale flood hazard maps with more accuracy are produced nowadays, thanks to the new national KM2 elevation model produced by NLS. The DEM with height accuracy of higher than 30 cm is used as a bases material and also a base map can be used as a background map. More accurate flood maps always replace generic ones.
+
+ELY-centres produced or reviewed flood maps by 2019 for the areas of potential significant flood risk (fluvial and coastal floods) that were named by Ministry of Agriculture and Foresty in 2018. ELY-centres are responsible also for fluvial flood risk management planning for other relevant risk areas as necessary. The municipalities may compile flood hazard maps also for building areas and local plan areas as necessary. Detailed flood hazard maps are drawn for the areas of significant flood risk.</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20070417/gmx/gmx.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20070417/srv/1.0/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>e97df467-b9d1-4eee-9262-033bcecdad81</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="pol">Polish</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Główny Inspektorat Ochrony Środowiska</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-eng">Chief Inspectorate of Environmental Protection</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-pol">Główny Inspektorat Ochrony Środowiska</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>+48515236721</gco:CharacterString>
+                           </gmd:voice>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>ul. Bitwy Warszawskiej 1920 r. 3</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Warszawa</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>02-362</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>Polska</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>inspire@gios.gov.pl</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://www.gios.gov.pl</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gco:Date>2021-03-26</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gco:CharacterString>ISO 19115</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gco:CharacterString>2003/cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:locale xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:PT_Locale id="locale-eng">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:PT_Locale id="locale-pol">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="pol"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterEncoding>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:referenceSystemInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/4258</gco:CharacterString>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_DataIdentification id="monit-species-habitats">
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Państwowy Monitoring Środowiska - ﻿﻿﻿Monitoring gatunków i siedlisk przyrodniczych</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-eng">The State Environmental Monitoring - Monitoring of species and natural habitats</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-pol">Państwowy Monitoring Środowiska - ﻿﻿﻿Monitoring gatunków i siedlisk przyrodniczych</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2006-01-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2019-10-31</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>http://inspire.gios.gov.pl/dataset/PL.ZIPOS.6318/monit-species-habitats</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>﻿Zbiór danych przestrzennych dotyczy monitoringu gatunków i siedlisk przyrodniczych, który prowadzony jest w ramach podsystemu monitoringu przyrody Państwowego Monitoringu Środowiska koordynowanego przez Głównego Inspektora Ochrony Środowiska. Głównym celem prowadzonego monitoringu przyrodniczego jest określenie stanu ochrony gatunków i siedlisk przyrodniczych na terenie wyróżnionych w kraju regionów biogeograficznych. Dla Polski wyróżnia się region kontynentalny, region alpejski oraz morski obszar bałtycki. Celem monitoringu jest również dostarczenie danych umożliwiających opracowanie raportów przekazywanych co 6 lat Komisji Europejskiej (KE), o stanie ochrony siedlisk przyrodniczych i gatunków o znaczeniu europejskim. W raportach tych ocenia się dla gatunków zasięg, populację, siedlisko gatunku oraz perspektywy ochrony. Natomiast dla siedlisk przyrodniczych ocenia się zasięg, powierzchnię, strukturę i funkcje siedliska, jak również perspektywy ochrony. Założeniem monitoringu siedlisk przyrodniczych i gatunków jest gromadzenie informacji pozwalającej na określenie ich aktualnego stanu ochrony w kontekście zmian zachodzących na skutek różnego rodzaju antropogenicznych i naturalnych oddziaływań i prognozowanych zagrożeń, a także dotychczasowych sposobów ochrony. W przypadku siedlisk przyrodniczych chodzi tu o stan i zmiany zachodzące w zasięgu ich występowania, zajmowanej powierzchni oraz strukturze i funkcji, a w przypadku gatunków - o stan i zmiany zachodzące w ich zasięgach, wielkości i strukturze populacji oraz powierzchni i jakości siedlisk, z którymi są związane. Badania są prowadzone na powierzchniach próbnych (tzw. stanowiskach monitoringowych) na terenie całego kraju ze szczególnym uwzględnieniem specjalnych obszarów ochrony siedlisk Natura 2000.</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-eng">The spatial dataset concerns the monitoring of species and natural habitats, which is carried out as part of the nature monitoring subsystem of the State Environmental Monitoring coordinated by the Chief Inspector of Environmental Protection. The main purpose of nature monitoring is to determine the conservation status of species and natural habitats in the biogeographic regions distinguished in the country. The continental region, the Alpine region and the Baltic Sea area stand out for Poland. The purpose of monitoring is also to provide data enabling the development of reports submitted every six years to the European Commission (EC) on the conservation status of natural habitats and species of European significance. These reports assess species coverage, population, species habitat, and conservation prospects. However, for natural habitats, the range, area, structure and functions of the habitat, as well as protection perspectives, are assessed. The assumption of monitoring natural habitats and species is to collect information that allows to determine their current conservation status in the context of changes occurring as a result of various anthropogenic and natural impacts and forecast threats, as well as existing protection methods. In the case of natural habitats it is about the state and changes occurring in the range of their occurrence, the area occupied and the structure and function, and in the case of species - the condition and changes occurring in their ranges, the size and structure of the population and the area and quality of the habitats with which they are associated. The research is carried out on sample plots (so-called monitoring stands) throughout the country, with particular regard to special Natura 2000 habitat protection areas.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#locale-pol">﻿Zbiór danych przestrzennych dotyczy monitoringu gatunków i siedlisk przyrodniczych, który prowadzony jest w ramach podsystemu monitoringu przyrody Państwowego Monitoringu Środowiska koordynowanego przez Głównego Inspektora Ochrony Środowiska. Głównym celem prowadzonego monitoringu przyrodniczego jest określenie stanu ochrony gatunków i siedlisk przyrodniczych na terenie wyróżnionych w kraju regionów biogeograficznych. Dla Polski wyróżnia się region kontynentalny, region alpejski oraz morski obszar bałtycki. Celem monitoringu jest również dostarczenie danych umożliwiających opracowanie raportów przekazywanych co 6 lat Komisji Europejskiej (KE), o stanie ochrony siedlisk przyrodniczych i gatunków o znaczeniu europejskim. W raportach tych ocenia się dla gatunków zasięg, populację, siedlisko gatunku oraz perspektywy ochrony. Natomiast dla siedlisk przyrodniczych ocenia się zasięg, powierzchnię, strukturę i funkcje siedliska, jak również perspektywy ochrony. Założeniem monitoringu siedlisk przyrodniczych i gatunków jest gromadzenie informacji pozwalającej na określenie ich aktualnego stanu ochrony w kontekście zmian zachodzących na skutek różnego rodzaju antropogenicznych i naturalnych oddziaływań i prognozowanych zagrożeń, a także dotychczasowych sposobów ochrony. W przypadku siedlisk przyrodniczych chodzi tu o stan i zmiany zachodzące w zasięgu ich występowania, zajmowanej powierzchni oraz strukturze i funkcji, a w przypadku gatunków - o stan i zmiany zachodzące w ich zasięgach, wielkości i strukturze populacji oraz powierzchni i jakości siedlisk, z którymi są związane. Badania są prowadzone na powierzchniach próbnych (tzw. stanowiskach monitoringowych) na terenie całego kraju ze szczególnym uwzględnieniem specjalnych obszarów ochrony siedlisk Natura 2000.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Główny Inspektorat Ochrony Środowiska</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-eng">Chief Inspectorate of Environmental Protection</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-pol">Główny Inspektorat Ochrony Środowiska</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>+48515236721</gco:CharacterString>
+                                 </gmd:voice>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>ul. Bitwy Warszawskiej 1920 r. 3</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Warszawa</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>02-362</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>Polska</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>inspire@gios.gov.pl</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.gios.gov.pl</gmd:URL>
+                                 </gmd:linkage>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="annually"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                     <gmd:updateScope>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:updateScope>
+                     <gmd:maintenanceNote>
+                        <gco:CharacterString>Zbiór danych aktualizowany raz do roku</gco:CharacterString>
+                     </gmd:maintenanceNote>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/ef">Urządzenia do monitorowania środowiska</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme#">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://c-csw-01:8081/geonetwork/srv/eng/thesaurus.download?ref=external.theme.httpinspireeceuropaeutheme-theme">geonetwork.thesaurus.external.theme.httpinspireeceuropaeutheme-theme</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/HabitatTypesDistribution-dir-1992-43">Habitat types distribution (Habitats Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/HabitatTypesRange-dir-1992-43">Habitat types range (Habitats Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/SpeciesDistribution-dir-1992-43">Species distribution (Habitats Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/SpeciesTypesDistributionSensitive-dir-1992-43">Species distribution sensitive (Habitats Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/SpeciesRange-dir-1992-43">Species range (Habitats Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority dataset, v2.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Państwowy Monitoring Środowiska</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>The State Environmental Monitoring</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>urządzenie do monitorowania środowiska</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>environmental monitoring facility</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>stan ochrony</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>protection status</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring gatunków i siedlisk przyrodniczych</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring of species and natural habitats</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>siedlisko przyrodnicze</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>natural habitat</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>metodyka monitoringu</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring methodology</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring siedlisk i gatunków</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>monitoring of habitats and species</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>obserwacja</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>observation</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>siedlisko</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>habitat</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>stanowisko badawcze</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>research site</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>typ siedliska przyrodniczego</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>type of natural habitat</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>sieć stanowisk monitoringowych</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>network of monitoring stations</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>populacja</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>population</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://vocab.gios.gov.pl/def/keywords">Rejestr słów kluczowych GIOŚ, v1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-10-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/INSPIRE_Directive_Article13_1h">Publiczny dostęp do zbiorów jest ograniczony ze względu na ochronę środowiska, do którego odnoszą się informacje, takie jak miejsca występowania rzadkich gatunków</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply">Brak warunków dostępu i użytkowania</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="pol">Polish</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>structure</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>13.90</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>23.90</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>49.23</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>54.70</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>Environmental monitoring facilities GML Application Schema</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>4.0</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>D2.8.II/III.7 Data Specification on Environmental Monitoring Facilities – Technical Guidelines</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://siedliska.gios.gov.pl/pl/</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://inspire.gios.gov.pl/wss/monit-species-habitats/wfs?REQUEST=GetCapabilities&amp;SERVICE=wfs</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (WFS)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for harmonized spatial dataset “The State Environmental Monitoring - Monitoring of species and natural habitats” (WFS)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (WFS)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (WFS). Usługa wykorzystuje interfejs WFS OGC w wersji 2.0.0. Usługa implementuje bezpośredni dostęp do obiektów</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for harmonized spatial dataset "The State Environmental Monitoring - Monitoring of species and natural habitats" (WFS). The service uses the WFS OGC interface version 2.0.0. The service implements direct access to objects</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (WFS). Usługa wykorzystuje interfejs WFS OGC w wersji 2.0.0. Usługa implementuje bezpośredni dostęp do obiektów</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://inspire.gios.gov.pl/atom_web/atom/monit_species_habitats</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (ATOM)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for predefined harmonized spatial dataset "The State Environmental Monitoring - Monitoring of species and natural habitats” (ATOM)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (ATOM)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (ATOM). Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">INSPIRE download service for predefined harmonized spatial dataset "The State Environmental Monitoring - Monitoring of species and natural habitats" (ATOM). The service uses the interface Atom version 1.0 and OpenSearch version 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Usługa pobierania predefiniowanego zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych" (ATOM). Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://inspire.gios.gov.pl/atom-client/atom?q=https://inspire.gios.gov.pl/atom_web/atom/monit_species_habitats</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Klient usługi ATOM dla zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych"</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">ATOM client service for the INSPIRE harmonized spatial dataset "The State Environmental Monitoring - Monitoring of species and natural habitats”</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Klient usługi ATOM dla zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych"</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:name>
+                           <gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Klient usługi ATOM umożliwia pobieranie zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych". Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-eng">ATOM client service enabling download INSPIRE harmonized spatial dataset "The State Environmental Monitoring - Monitoring of species and natural habitats". The service uses the interface Atom version 1.0 and OpenSearch version 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#locale-pol">Klient usługi ATOM umożliwia pobieranie zharmonizowanego zbioru danych przestrzennych INSPIRE "Państwowy Monitoring Środowiska - Monitoring gatunków i siedlisk przyrodniczych". Usługa wykorzystuje interfejs Atom w wersji 1.0 i OpenSearch w wersji 1.1.</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo xmlns:xs="http://www.w3.org/2001/XMLSchema">
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">Rozporządzenie Komisji (UE) Nr 1089/2010 z dnia 23 listopada 2010 r. w sprawie wykonania dyrektywy 2007/2/WE Parlamentu Europejskiego i Rady w zakresie interoperacyjności zbiorów i usług danych przestrzennych</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/DegreeOfConformity/conformant">Zbiór danych jest zgodny z wymaganiami INSPIRE dotyczącymi interoperacyjności zbiorów i usług danych przestrzennych.</gmx:Anchor>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>Data Specification on Environmental Monitoring Facilities – Technical Guidelines, version 3.0</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2013-12-10</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/DegreeOfConformity/conformant">Zbiór danych jest zgodny z zestawem testów abstrakcyjnych zdefiniowanych w aneksie A dokumentu D2.8.II/III.7 Data Specification on Environmental Monitoring Facilities – Technical Guidelines</gmx:Anchor>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Dane źródłowe pochodzą z bazy danych SI MGSP prowadzonej przez GIOŚ, gromadzącej dane z monitoringu gatunków i siedlisk przyrodniczych. Dane zostały przekształcone zgodnie z modelem INSPIRE w zakresie tematu Urządzenia do monitorowania środowiska (EF) w wersji schematu 4.0. Wytyczne techniczne dla tematu EF dostępne są w specyfikacji D2.8.II/III.7 INSPIRE Data Specification on Environmental Monitoring Facilities - Technical Guidelines.</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-eng">Source data comes from the SI MGSP database, collecting data from species and natural habitats monitoring, maintained by CIEP. The data were transformed in accordance with INSPIRE model in subject of Environmental Monitoring Facilities (EF) in version of schema 4.0. Technical guidelines for EF subject are available in the specification D2.8.II / III.7 INSPIRE Data Specification on Environmental Monitoring Facilities - Technical Guidelines.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#locale-pol">Dane źródłowe pochodzą z bazy danych SI MGSP prowadzonej przez GIOŚ, gromadzącej dane z monitoringu gatunków i siedlisk przyrodniczych. Dane zostały przekształcone zgodnie z modelem INSPIRE w zakresie tematu Urządzenia do monitorowania środowiska (EF) w wersji schematu 4.0. Wytyczne techniczne dla tematu EF dostępne są w specyfikacji D2.8.II/III.7 INSPIRE Data Specification on Environmental Monitoring Facilities - Technical Guidelines.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:base="http://www.disy.de/preludio2/base" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gfm="http://www.isotc211.org/2005/gfm" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="941c357c-e2c0-455b-b82e-c2a40593c469" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>941c357c-e2c0-455b-b82e-c2a40593c469</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger">ger</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="https://standards.iso.org/iso/19139/resources/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty uuid="8a8a8a8a17bf950b0117bf969fd40001">
+               <gmd:individualName>
+                  <gco:CharacterString>UIS-Geodatenmanagement RIPS-Metadatenorganisation</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Landesanstalt für Umwelt Baden-Württemberg
+Abteilung 5 - Kompetenzzentrum Umweltinformatik</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact uuid="8a8a8a8a17bf950b0117bf98039a0002">
+                     <gmd:phone>
+                        <gmd:CI_Telephone uuid="8a8a8a8a17bf950b0117bf98039a0003">
+                           <gmd:voice>
+                              <gco:CharacterString>-</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile>
+                              <gco:CharacterString>+49 (721) 5600 - 1515</gco:CharacterString>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address uuid="8a8a8a8a17bf950b0117bf98039a0004">
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Postfach 10 01 63</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Karlsruhe</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>Baden-Württemberg</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>76231</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>Germany</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>rips-metadaten@lubw.bwl.de</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource uuid="8a8a8a8a17bf950b0117bf98039a0005">
+                           <gmd:linkage>
+                              <gmd:URL>http://www.lubw.baden-wuerttemberg.de/servlet/is/16154/</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime>2021-07-05T13:44:39+01:00</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO 19115:2003 (GDI-BW)</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>2.0</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:dataSetURI>
+            <gco:CharacterString>https://rips-gdi.lubw.baden-wuerttemberg.de/arcgis/services/GDI/INSPIRE_Schutzgebiete/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS</gco:CharacterString>
+         </gmd:dataSetURI>
+         <gmd:spatialRepresentationInfo>
+            <gmd:MD_VectorSpatialRepresentation uuid="bd248d08-521d-4d84-9cb4-27f327a8e6e9">
+               <gmd:topologyLevel>
+                  <gmd:MD_TopologyLevelCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="fullPlanarGraph">fullPlanarGraph</gmd:MD_TopologyLevelCode>
+               </gmd:topologyLevel>
+               <gmd:geometricObjects>
+                  <gmd:MD_GeometricObjects uuid="6cbaa42a-c969-42b6-aea4-180fcab8300b">
+                     <gmd:geometricObjectType>
+                        <gmd:MD_GeometricObjectTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="surface">surface</gmd:MD_GeometricObjectTypeCode>
+                     </gmd:geometricObjectType>
+                     <gmd:geometricObjectCount>
+                        <gco:Integer>9000</gco:Integer>
+                     </gmd:geometricObjectCount>
+                  </gmd:MD_GeometricObjects>
+               </gmd:geometricObjects>
+            </gmd:MD_VectorSpatialRepresentation>
+         </gmd:spatialRepresentationInfo>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem uuid="b640009b-c141-4a40-bed3-daffdeee0c8e">
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier uuid="4c74a2a9-b00a-4583-b712-9c4e6c111967">
+                     <gmd:code>
+                        <gco:CharacterString>EPSG:4258 (ETRS89)</gco:CharacterString>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification uuid="cd5548ec-0726-4a9a-b865-55e4cad7accf">
+               <gmd:citation>
+                  <gmd:CI_Citation uuid="81e988d3-07f2-4640-bf37-a6466535ec19">
+                     <gmd:title>
+                        <gco:CharacterString>INSPIRE Schutzgebiete im UIS Baden-Württemberg</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>INSPIRE_PS_Schutzgebiete_UIS-DEBW</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date uuid="b1fe0b24-0a8c-476a-9eb1-9c83bfa03176">
+                           <gmd:date>
+                              <gco:Date>2021-05-05</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier uuid="6394c3f5-1802-47c1-af81-c4fb04bc3ba5">
+                           <gmd:code>
+                              <gco:CharacterString>https://registry.gdi-de.org/id/de.bw.lubw.mdk/941c357c-e2c0-455b-b82e-c2a40593c469</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Gebiete, in denen ein besonderer Schutz von Natur und Landschaft aus wissenschaftlichen, naturgeschichtlichen, landeskundlichen oder kulturellen Gründen oder zur Erhaltung von Lebensgemeinschaften oder Biotopen bestimmter wildlebender Tier- und Pflanzenarten notwendig ist und die unter das INPIRE Thema Schutzgebiete (Protected Sites) fallen.
+
+Die folgenden Originaldatensätze aus dem UIS Baden-Württemberg sind enthalten:
+- Biosphärengebiet (https://registry.gdi-de.org/id/de.bw.lubw.mdk/c8bba771-0985-4f46-9ce4-44d6d9a7ff2c)
+- Biosphärengebiet Zone (https://registry.gdi-de.org/id/de.bw.lubw.mdk/72a81eee-95ea-408e-88b4-5be977ee4689)
+- Landschaftsschutzgebiet (https://registry.gdi-de.org/id/de.bw.lubw.mdk/e60e94f0-d7b5-4289-aea2-aed7280068c3)
+- Nationalpark (https://registry.gdi-de.org/id/de.bw.lubw.mdk/f596d907-1316-470d-a81e-418fb8b0f24d)
+- Naturdenkmal flächenhaft (https://registry.gdi-de.org/id/de.bw.lubw.mdk/9a1e76ff-5481-435a-8841-67b03e98dca8)
+- Naturpark (https://registry.gdi-de.org/id/de.bw.lubw.mdk/dd68d3fd-9972-4fef-a3ca-7732e34cb244)
+- Naturschutzgebiet (https://registry.gdi-de.org/id/de.bw.lubw.mdk/1a6a350d-97b6-4c73-8558-704d9fe8a29e)
+- FFH-Gebiet  (https://registry.gdi-de.org/id/de.bw.lubw.mdk/2e5c0d70-f6d7-4c90-83a9-12fafed44b0e)
+- Vogelschutzgebiet (https://registry.gdi-de.org/id/de.bw.lubw.mdk/73f3dfdc-6c6e-4edc-b6fe-1d557ab10001)
+
+Bei drei Landschaftsschutzgebieten wurden die Geometrien um wenige Millimeter verkleinert, um Selbstberührungen zu vermeiden, die im Rahmen der INSPIRE-Validierung nicht gültig sind.
+Es handelt sich um die folgenden LSG:
+- Großer Heuberg
+- Glemswald
+- LSG "Mittleres Körschtal" vom 01.08.1996</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:purpose>
+                  <gco:CharacterString>-</gco:CharacterString>
+               </gmd:purpose>
+               <gmd:status>
+                  <gmd:MD_ProgressCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ProgressCode" codeListValue="onGoing">onGoing</gmd:MD_ProgressCode>
+               </gmd:status>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty uuid="8a8a8a8a17bf950b0117bf969fd40001">
+                     <gmd:individualName>
+                        <gco:CharacterString>UIS-Geodatenmanagement RIPS-Metadatenorganisation</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Landesanstalt für Umwelt Baden-Württemberg
+Abteilung 5 - Kompetenzzentrum Umweltinformatik</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact uuid="8a8a8a8a17bf950b0117bf98039a0002">
+                           <gmd:phone>
+                              <gmd:CI_Telephone uuid="8a8a8a8a17bf950b0117bf98039a0003">
+                                 <gmd:voice>
+                                    <gco:CharacterString>-</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString>+49 (721) 5600 - 1515</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address uuid="8a8a8a8a17bf950b0117bf98039a0004">
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Postfach 10 01 63</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Karlsruhe</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>Baden-Württemberg</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>76231</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>Germany</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>rips-metadaten@lubw.bwl.de</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource uuid="8a8a8a8a17bf950b0117bf98039a0005">
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.lubw.baden-wuerttemberg.de/servlet/is/16154/</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:function>
+                                    <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                                 </gmd:function>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation uuid="4539084f-edf7-4aab-81ac-a8afdddc1286">
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="monthly">monthly</gmd:MD_MaintenanceFrequencyCode>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:resourceFormat>
+                  <gmd:MD_Format uuid="b2f9c116-b813-4b82-8cc8-aeeb51a22beb">
+                     <gmd:name>
+                        <gco:CharacterString>ESRI Shape, Oracle Locator</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>-</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:resourceFormat>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="c71911d1-a32d-4a81-839a-835b4a207388">
+                     <gmd:keyword>
+                        <gco:CharacterString>inspireidentifiziert</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="dd93294f-43b8-4f8a-a170-b913d9133c22">
+                           <gmd:title>
+                              <gco:CharacterString>Klassifizierung GDI-BW</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="0114102a-eaf7-4bf2-9f97-1ae60b570f75">
+                                 <gmd:date>
+                                    <gco:Date>2013-11-13</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="2dafd9df-8492-48a4-95f1-a2d661c9a3a8">
+                     <gmd:keyword>
+                        <gco:CharacterString>Schutzgebiete</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="0a4434da-cd01-4171-a599-b0ce0d89a92d">
+                           <gmd:title>
+                              <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="4b548196-ce3b-42e7-a7fd-cc9ba9d7fa25">
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="d0766bd6-ccb8-40f7-8cde-10f10c7206ba">
+                     <gmd:keyword>
+                        <gco:CharacterString>Regional</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="06801bc3-9dc1-47d1-ae23-78e1d7d6cd4b">
+                           <gmd:title>
+                              <gco:CharacterString>Spatial scope</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="7319c0c3-4f5e-49c8-9aff-b0a008b35fa5">
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="0593d649-b20a-4daa-bdd6-e859a7704c55">
+                     <gmd:keyword>
+                        <gco:CharacterString>Vogelschutzgebiete (Vogelschutzrichtlinie)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="53b56cab-ef0b-45cd-b463-e973b7ba3da8">
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="b1590e2f-04de-47e7-855b-afb5b5fac0ba">
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="e5a13b1b-371f-435a-972b-211ac7c68237">
+                     <gmd:keyword>
+                        <gco:CharacterString>Fauna-Flora-Habitat-Gebiete (FFH-Richtlinie)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="b1aa6233-4029-4a4c-a2af-942c7ab4490d">
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="054872bf-cf55-42c9-8c6c-7b94554a75e1">
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords uuid="531af4e9-dfff-4746-8b60-b11871d2d2ce">
+                     <gmd:keyword>
+                        <gco:CharacterString>Naturschutz</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation uuid="2e2d04dc-1308-4aa5-923e-27c12fb6eda6">
+                           <gmd:title>
+                              <gco:CharacterString>GEMET - Concepts, version 2.4</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date uuid="f220c83b-22b0-4d51-b12b-81a965a66a1b">
+                                 <gmd:date>
+                                    <gco:Date>2010-01-13</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_Constraints uuid="664dc262-9f3b-4f7c-8193-0bf1b368063e">
+                     <gmd:useLimitation>
+                        <gco:CharacterString>Es gelten keine Bedingungen.</gco:CharacterString>
+                     </gmd:useLimitation>
+                  </gmd:MD_Constraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints uuid="bd5ce6fb-ef56-4c78-be7d-1a085aea4c4b">
+                     <gmd:useLimitation>
+                        <gco:CharacterString>Es gelten keine Bedingungen</gco:CharacterString>
+                     </gmd:useLimitation>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_SecurityConstraints uuid="52f7abce-9352-4446-9805-aef329d297ce">
+                     <gmd:useLimitation>
+                        <gco:CharacterString>Es gelten keine Bedingungen.</gco:CharacterString>
+                     </gmd:useLimitation>
+                     <gmd:classification>
+                        <gmd:MD_ClassificationCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</gmd:MD_ClassificationCode>
+                     </gmd:classification>
+                  </gmd:MD_SecurityConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints uuid="cc529292-dd1f-437b-99da-a1d81f76ff8b">
+                     <gmd:useLimitation>
+                        <gco:CharacterString>Es gelten keine Bedingungen</gco:CharacterString>
+                     </gmd:useLimitation>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Es gelten die Bedingungen der Nutzungsvereinbarung für Daten des UIS "https://www.lubw.baden-wuerttemberg.de/umweltinformationssystem/nutzungsvereinbarung"</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction uuid="0e892292-d868-4242-a701-fd9640370934">
+                           <gmd:denominator>
+                              <gco:Integer>1500</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction uuid="cc20aaee-a4de-4097-9a5a-3fc3324eb840">
+                           <gmd:denominator>
+                              <gco:Integer>25000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger">ger</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:characterSet>
+                  <gmd:MD_CharacterSetCode codeList="https://standards.iso.org/iso/19139/resources/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:environmentDescription>
+                  <gco:CharacterString>Naturschutzinformationssystem (NAIS)</gco:CharacterString>
+               </gmd:environmentDescription>
+               <gmd:extent>
+                  <gmd:EX_Extent uuid="07f663ef-824e-4a80-b540-8631c63d779d">
+                     <gmd:description>
+                        <gco:CharacterString>Baden-Württemberg</gco:CharacterString>
+                     </gmd:description>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox uuid="03a4bd08-e54b-4821-8d89-c517283ec5f5">
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>false</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>7.21</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>10.71</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>47.41</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>50.11</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicDescription uuid="b45591f0-b8e8-42dd-8ba5-4ecd7a3aafcf">
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:geographicIdentifier>
+                              <gmd:MD_Identifier uuid="3471688b-4696-4554-9099-7f6dd85ccec0">
+                                 <gmd:code>
+                                    <gco:CharacterString>DE1</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:geographicIdentifier>
+                        </gmd:EX_GeographicDescription>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution uuid="befb6c2f-87ea-4092-958b-6a3b2b0ba359">
+               <gmd:distributionFormat>
+                  <gmd:MD_Format uuid="6fbb5fed-7729-452b-be6f-272e8e2813c1">
+                     <gmd:name>
+                        <gco:CharacterString>GML</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>INSPIRE GML 4.0</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>keine Angabe</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributor>
+                  <gmd:MD_Distributor uuid="ab3df227-bc10-4dc4-8453-0eaae6ab9ce7">
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty uuid="a117f68d-a73c-48f4-9441-f2d2201e8b82">
+                           <gmd:individualName>
+                              <gco:CharacterString>UIS-Geodatenmanagement RIPS-Datenabgabe</gco:CharacterString>
+                           </gmd:individualName>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Landesanstalt für Umwelt Baden-Württemberg
+Abteilung 5 - Kompetenzzentrum Umweltinformatik</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact uuid="a9dd68a8-d6b6-462c-8901-bfa346b4f331">
+                                 <gmd:phone>
+                                    <gmd:CI_Telephone uuid="b2fb96b3-45d5-4217-af0f-2526416651f4">
+                                       <gmd:voice>
+                                          <gco:CharacterString>-</gco:CharacterString>
+                                       </gmd:voice>
+                                       <gmd:facsimile>
+                                          <gco:CharacterString>+49 (721) 5600 - 1515</gco:CharacterString>
+                                       </gmd:facsimile>
+                                    </gmd:CI_Telephone>
+                                 </gmd:phone>
+                                 <gmd:address>
+                                    <gmd:CI_Address uuid="f67f79b3-48e8-476e-93a6-1a0ad36e45ac">
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString>Postfach 10 01 63</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString>Karlsruhe</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString>Baden-Württemberg</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>76231</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString>Germany</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>rips@lubw.bwl.de</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource uuid="26d55bef-3842-42a0-8028-9ec7405e60a8">
+                                       <gmd:linkage>
+                                          <gmd:URL>http://udo.lubw.baden-wuerttemberg.de/public/index.xhtml</gmd:URL>
+                                       </gmd:linkage>
+                                       <gmd:function>
+                                          <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                                       </gmd:function>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                     <gmd:distributionOrderProcess>
+                        <gmd:MD_StandardOrderProcess uuid="37e42eb0-acad-454c-958f-0d6d9d6be96e">
+                           <gmd:fees>
+                              <gco:CharacterString>kostenlos bzw. nach Bereitstellungsaufwand</gco:CharacterString>
+                           </gmd:fees>
+                           <gmd:orderingInstructions>
+                              <gco:CharacterString>Download unter Umwelt-Daten und -Karten Baden-Württemberg http://udo.lubw.baden-wuerttemberg.de</gco:CharacterString>
+                           </gmd:orderingInstructions>
+                        </gmd:MD_StandardOrderProcess>
+                     </gmd:distributionOrderProcess>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions uuid="b0bcf5e1-93bc-419f-865e-6b35b14f262c">
+                     <gmd:unitsOfDistribution>
+                        <gco:CharacterString>landesweit</gco:CharacterString>
+                     </gmd:unitsOfDistribution>
+                     <gmd:transferSize>
+                        <gco:Real>65.0</gco:Real>
+                     </gmd:transferSize>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource uuid="524360cd-3243-4e16-b6f1-e2772f996651">
+                           <gmd:linkage>
+                              <gmd:URL>https://rips-gdi.lubw.baden-wuerttemberg.de/arcgis/services/GDI/INSPIRE_Schutzgebiete/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS&amp;VERSION=1.3.0</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource uuid="c8c1ca89-138c-45e4-94c3-e3b8294623c4">
+                           <gmd:linkage>
+                              <gmd:URL>https://rips-gdi.lubw.baden-wuerttemberg.de/Atom_feed/inspire_schutzgebiete_in_baden_wuerttemberg_download_dienst/inspire_schutzgebiete_in_baden_wuerttemberg_download_dienst.xml</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality uuid="f76a4438-e33f-43f4-a002-1c5e54fcb775">
+               <gmd:scope>
+                  <gmd:DQ_Scope uuid="4874f996-b12b-41d7-a2bb-565a700922eb">
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                     <gmd:levelDescription>
+                        <gmd:MD_ScopeDescription>
+                           <gmd:other>
+                              <gco:CharacterString>Geodaten</gco:CharacterString>
+                           </gmd:other>
+                        </gmd:MD_ScopeDescription>
+                     </gmd:levelDescription>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency uuid="419a89cd-2d9e-416a-9e86-23eaa28c84fd">
+                     <gmd:nameOfMeasure>
+                        <gco:CharacterString>Konformität zu INSPIRE Durchführungsbestimmung</gco:CharacterString>
+                     </gmd:nameOfMeasure>
+                     <gmd:measureIdentification>
+                        <gmd:MD_Identifier uuid="92e680c6-fd93-4765-9995-b39c3765041b">
+                           <gmd:code>
+                              <gco:CharacterString>-</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:measureIdentification>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult uuid="9e68d49f-d6c2-4e8d-ba23-9679acbfce5e">
+                           <gmd:specification>
+                              <gmd:CI_Citation uuid="e169c1c5-32c6-4bb6-89f6-0f6b8a546823">
+                                 <gmd:title>
+                                    <gco:CharacterString>VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:alternateTitle>
+                                    <gco:CharacterString>k.A.</gco:CharacterString>
+                                 </gmd:alternateTitle>
+                                 <gmd:date>
+                                    <gmd:CI_Date uuid="fe6000c2-3c83-4a2a-907f-24f8fe3af334">
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Die Daten wurden mit dem EU-Validator überprüft.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage uuid="62ab8dfe-da14-45cc-9c21-7c0907cfac7a">
+                     <gmd:statement>
+                        <gco:CharacterString>-</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+         <gmd:metadataMaintenance>
+            <gmd:MD_MaintenanceInformation uuid="15a4efeb-7727-4079-9691-1c407f4f0b37">
+               <gmd:maintenanceAndUpdateFrequency>
+                  <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="continual">continual</gmd:MD_MaintenanceFrequencyCode>
+               </gmd:maintenanceAndUpdateFrequency>
+            </gmd:MD_MaintenanceInformation>
+         </gmd:metadataMaintenance>
+      </gmd:MD_Metadata>

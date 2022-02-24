@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>5e3debf1-6cde-4ff2-8301-a86799231906</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="por">por</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString>Conjunto de dados geográficos</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>Direção-Geral do Território</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Direção-Geral do Território</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>(+351) 213819600</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile>
+                              <gco:CharacterString>(+351) 213819699</gco:CharacterString>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Rua Artilharia Um, 107</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Lisboa</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>1099-052 LISBOA</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>Portugal</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>caop@dgterritorio.pt</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2021-02-05</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO 19115 Sistema de Metadados dos Açores</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>5015</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>5013</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>4326</gco:CharacterString>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Carta Administrativa Oficial de Portugal - CAOP2020 (RAA - Grupo Oriental)</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>CAOP2020 - RAA Grupo Oriental</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2021-02-05</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:edition gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:edition>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>http://id.igeo.pt/cdg/5e3debf1-6cde-4ff2-8301-a86799231906</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                     <gmd:series>
+                        <gmd:CI_Series>
+                           <gmd:name gco:nilReason="missing">
+                              <gco:CharacterString/>
+                           </gmd:name>
+                        </gmd:CI_Series>
+                     </gmd:series>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>A CAOP regista o estado de delimitação e demarcação das circunscrições administrativas do País, ou seja, os limites oficiais de distrito, concelho e freguesia (estes limites têm igualmente correspondência com as NUTS I, NUTS II e NUTS III, de acordo com a Lei n.º 75/2013 de 12 de setembro). A sua elaboração e conservação é uma das atribuições da Direção-Geral do Território, nos termos do disposto na alínea l) do nº 2 do artigo 2º do Decreto Regulamentar nº 30/2012 de 13 de março, sendo que a atribuição do código unívoco de cada freguesia (DICOFRE) é da responsabilidade do Instituto Nacional de Estatística. A Assembleia da República é o organismo com competências reconhecidas por lei para alterar e fixar limites administrativos. A CAOP 2020 resultou das alterações de limites administrativos de freguesias/concelhos, bem como alterações de denominações de freguesias, decorrentes da publicação de vários diplomas, publicados entre a data de publicação da CAOP2019 e dezembro de 2020. Os guias de apoio à utilização de serviços WMS e WFS/ATOM podem ser acedidos na área de dados abertos do Portal da DGT.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:purpose>
+                  <gco:CharacterString>A Carta Administrativa Oficial de Portugal (CAOP), tem por objetivo representar fidedigna e rigorosamente as circunscrições administrativas. Anualmente são fornecidas pela DGT à Direção-Geral das Autarquias Locais (DGAL) as áreas das freguesias, concelhos e distritos e outros dados relevantes para o cálculo dos Fundos a financiar às Autarquias Locais em Portugal.</gco:CharacterString>
+               </gmd:purpose>
+               <gmd:credit>
+                  <gco:CharacterString>Direção-Geral do Território</gco:CharacterString>
+               </gmd:credit>
+               <gmd:credit>
+                  <gco:CharacterString>Centro de Informação Geospacial do Exército (CIGeoE)</gco:CharacterString>
+               </gmd:credit>
+               <gmd:credit>
+                  <gco:CharacterString>Instituto Nacional de Estatística</gco:CharacterString>
+               </gmd:credit>
+               <gmd:credit>
+                  <gco:CharacterString>Autarquias locais</gco:CharacterString>
+               </gmd:credit>
+               <gmd:credit>
+                  <gco:CharacterString>Direção Regional de Ambiente, Secretaria Regional dos Transportes e Obras Públicas</gco:CharacterString>
+               </gmd:credit>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Direção-Geral do Território</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Direção-Geral do Território</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>(+351) 213819600</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString>(+351) 213819699</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Rua Artilharia Um, 107</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Lisboa</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>1099-052 LISBOA</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>Portugal</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>loja@dgterritorio.pt</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="annually">annually</gmd:MD_MaintenanceFrequencyCode>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>INSPIRECORE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>DGT</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>infoMapAccessService</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>infoFeatureAccessService</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Cartografia Oficial</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Unidades Administrativas</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Região Autónoma dos Açores</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Grupo Oriental</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>RAA</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>CAOP</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>CAOP2020</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Freguesias</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Concelhos</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Distritos</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Limites Administrativos</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>NUTSI</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>NUTSII</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>NUTSIII</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>DICOFRE</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/au" xlink:type="simple">Unidades administrativas</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes" xlink:type="simple">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code/>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Agglomerations (Noise Directive)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Regional</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>Spatial scope</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations" xlink:type="simple">Acesso público sem restrições</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Sempre que o utilizador publique e/ou divulgue, por meio analógico ou digital, informação geográfica propriedade da Direção-Geral do Território, ainda que parcialmente adaptada, deverá atribuir créditos com inclusão do texto "Informação geográfica cedida pela Direção-Geral do Território"</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="textTable">textTable</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>25000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="por">por</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:description>
+                        <gco:CharacterString>Região Autónoma dos Açores - Grupo Oriental (RAA, Grupo Oriental)</gco:CharacterString>
+                     </gmd:description>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>-25.92</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>-24.96</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>36.89</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>37.98</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicDescription>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:geographicIdentifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gco:CharacterString>Local</gco:CharacterString>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:geographicIdentifier>
+                        </gmd:EX_GeographicDescription>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>não se aplica</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>PNG</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>não se aplica</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>GIF</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>não se aplica</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>JPEG</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>não se aplica</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>TIFF</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>não se aplica</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:unitsOfDistribution>
+                        <gco:CharacterString>Freguesias, concelhos, distritos.</gco:CharacterString>
+                     </gmd:unitsOfDistribution>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://mapas.dgterritorio.pt/wms-inspire/caop/acores/goriental?service=WMS&amp;REQUEST=GetCapabilities&amp;VERSION=1.3.0</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/OnLineDescriptionCode/accessPoint" xlink:type="simple">accessPoint</gmx:Anchor>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://mapas.dgterritorio.pt/inspire/atom/downloadservice.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/OnLineDescriptionCode/accessPoint" xlink:type="simple">accessPoint</gmx:Anchor>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://mapas.dgterritorio.pt/ATOM-download/CAOP-RAA/ArqAcores_GOriental_AAd_CAOP2020.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/OnLineDescriptionCode/accessPoint" xlink:type="simple">accessPoint</gmx:Anchor>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://mapas.dgterritorio.pt/ATOM-download/CAOP-RAA/ArqAcores_GOriental_Troco_CAOP2020.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/OnLineDescriptionCode/accessPoint" xlink:type="simple">accessPoint</gmx:Anchor>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://mapas.dgterritorio.pt/ATOM-download/CAOP-RAA/ArqAcores_GOriental_AAd_CAOP2020-GPKG.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol/>
+                           <gmd:name/>
+                           <gmd:description/>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://mapas.dgterritorio.pt/ATOM-download/CAOP-RAA/ArqAcores_GOriental_Troco_CAOP2020-GPKG.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol/>
+                           <gmd:name/>
+                           <gmd:description/>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>REGULAMENTO (UE) N. o 1089/2010 DA COMISSÃO de 23 de Novembro de 2010 que estabelece as disposições de execução da Directiva 2007/2/CE do Parlamento Europeu e do Conselho relativamente à interoperabilidade dos conjuntos e serviços de dados geográficos</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Ver a especificação citada.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>false</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Sobre a base de limites administrativos, recolhidos pelo CIGeoE e pelo INE, aquando dos trabalhos preparatórios dos Censos 2001 (a BGRI), foram gradualmente integrados limites administrativos mais precisos, nomeadamente limites descritos em diplomas oficiais de criação, extinção ou alteração de circunscrições administrativas, limites administrativos constantes nas secções de Cadastro Geométrico da Propriedade Rústica (CGPR), novos limites definidos pela realização de Procedimentos de Delimitação Administrativa (PDA) e limites fornecidos por organismos oficiais.
+A CAOP foi estruturada tendo por base o Catálogo de Entidades descrito de acordo com as normas ISO e segundo um modelo de dados com entidades do tipo área e linha, com atributos harmonizados de acordo com o projeto EuroBoundaryMap versão 3.0 da Eurogeographics (EBM V3.0), produzida e armazenada numa Geodatabase ESRI (Versão 9.3).</gco:CharacterString>
+                     </gmd:statement>
+                     <gmd:processStep>
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString>Alteração de delimitação administrativa entre as freguesias de "Fenais da Luz" e "São Vicente Ferreira", no município de Ponta Delgada. de acordo com o Dec. Leg. Regional nº 28/2019/A ,  de 26 de novembro de 2019</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:rationale>
+                              <gco:CharacterString/>
+                           </gmd:rationale>
+                           <gmd:dateTime>
+                              <gco:DateTime>2020-12-31T00:00:00</gco:DateTime>
+                           </gmd:dateTime>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Secções cadastrais.
+Limites vetorizados a partir das secções de Cadastro Geométrico da Propriedade Rústica (CGPR) à escala 1:1000.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>1000</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Secções cadastrais.
+Limites vetorizados a partir das secções de Cadastro Geométrico da Propriedade Rústica (CGPR) à escala 1:2000.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>2000</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Secções cadastrais.
+Limites vetorizados a partir das secções de Cadastro Geométrico da Propriedade Rústica (CGPR) à escala 1:2500.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>2500</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Secções cadastrais.
+Limites vetorizados a partir das secções de Cadastro Geométrico da Propriedade Rústica (CGPR) à escala 1:5000.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>5000</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Procedimentos de Delimitação Administrativa (PDA).
+Um PDA é composto por um conjunto de trabalhos técnicos conducentes ao estabelecimento de um determinado limite e é composto por várias fases. Alguns PDA foram efetuados simultaneamente com o Cadastro Geométrico da Propriedade Rústica, outros PDA foram requeridos e promovidos pelas Juntas de Freguesias e/ou Câmaras Municipais.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>0</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>INE/CIGeoE(Censos2001)
+Base Geográfica de Referenciação de Informação (BGRI), do Instituto Nacional de Estatística (INE) - limites administrativos obtidos aquando dos trabalhos realizados para os Censos 2001.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>25000</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Diplomas Legais
+Transcrição das descrições existentes em Decretos-Lei ou Leis relativos à criação, extinção ou alteração de uma ou mais freguesias.</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>0</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dados fornecidos por Institutos Oficiais na área da cartografia que contribuíram e contribuem com informação para a CAOP, como sejam o Instituto Nacional de Estatística (INE), Centro de Informação Geospacial do Exército (CIGeoE) e Instituto Hidrográfico (IH).</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:scaleDenominator>
+                              <gmd:MD_RepresentativeFraction>
+                                 <gmd:denominator>
+                                    <gco:Integer>0</gco:Integer>
+                                 </gmd:denominator>
+                              </gmd:MD_RepresentativeFraction>
+                           </gmd:scaleDenominator>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

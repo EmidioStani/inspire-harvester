@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20060504/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20060504/gmx/gmx.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>0aba3762-cabb-4d76-a644-ccc5b3c8ab33</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language xmlns:gmx="http://www.isotc211.org/2005/gmx">
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="hrv"/>
+         </gmd:language>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">skup</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:contact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>Branimir Pavlinec</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Ministarstvo gospodarstva i održivog razvoja</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:positionName>
+                  <gco:CharacterString>Rukovoditelj Sektora razvoja informatičkih sustava</gco:CharacterString>
+               </gmd:positionName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>01/4886-858</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile gco:nilReason="missing">
+                              <gco:CharacterString/>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Radnička cesta 80/7</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Zagreb</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea gco:nilReason="missing">
+                              <gco:CharacterString/>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>10 000</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country gco:nilReason="missing">
+                              <gco:CharacterString/>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>branimir.pavlinec@mzoe.hr</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp xmlns:gmx="http://www.isotc211.org/2005/gmx">
+            <gco:Date>2021-12-14</gco:Date>
+         </gmd:dateStamp>
+         <gmd:referenceSystemInfo xmlns:gmx="http://www.isotc211.org/2005/gmx">
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/3765">EPSG:3765</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:metadataExtensionInfo xmlns:gmx="http://www.isotc211.org/2005/gmx">
+            <gmd:MD_MetadataExtensionInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>JedinstveniOznacivacIzvora</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>P11/07</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>Akronim</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>ISKZ</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>TematskoPodrucje</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>air</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>TematskoPodpodrucje</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>air quality</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>KorisniciPodataka</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>Ministarstvo zaštite okoliša i energetike</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>KorisniciPodataka</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>Inspekcijske službe</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>KorisniciPodataka</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>Upravna i javna tijela</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>KorisniciPodataka</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>Znanstvena i stručna javnost</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+               <gmd:extendedElementInformation>
+                  <gmd:MD_ExtendedElementInformation>
+                     <gmd:name>
+                        <gco:CharacterString>NazivIzvjestaja</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:definition gco:nilReason="inapplicable"/>
+                     <gmd:obligation>
+                        <gmd:MD_ObligationCode>optional</gmd:MD_ObligationCode>
+                     </gmd:obligation>
+                     <gmd:dataType gco:nilReason="inapplicable"/>
+                     <gmd:maximumOccurrence>
+                        <gco:CharacterString>*</gco:CharacterString>
+                     </gmd:maximumOccurrence>
+                     <gmd:domainValue>
+                        <gco:CharacterString>Monthly ozone exceedances Summer ozone exceedances EoI exchange of information</gco:CharacterString>
+                     </gmd:domainValue>
+                     <gmd:parentEntity gco:nilReason="inapplicable"/>
+                     <gmd:rule gco:nilReason="inapplicable"/>
+                     <gmd:source gco:nilReason="inapplicable"/>
+                  </gmd:MD_ExtendedElementInformation>
+               </gmd:extendedElementInformation>
+            </gmd:MD_MetadataExtensionInformation>
+         </gmd:metadataExtensionInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gco:CharacterString>Kvaliteta zraka u Republici Hrvatskoj</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2008-01-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor xlink:href="http://envi-metapodaci.azo.hr/hr/envi/pp/P11/07">http://envi-metapodaci.azo.hr/hr/envi/pp/P11/07</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                     <gmd:identifier xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor xlink:href="http://geoportal.nipp.hr/hr/nipp/pp/0034">http://geoportal.nipp.hr/hr/nipp/pp/0034</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gco:CharacterString>Vlasnici/korisnici mjernih postaja, koji imaju uspostavljeno automatsko mjerenje imisija, dužni su osigurati kontinuirani prijenos podataka računalnom mrežom u Agenciju. Vlasnici/korisnici mjernih postaja koji nemaju uspostavljeno automatsko mjerenje dostavljaju Agenciji godišnja izvješća o kakvoći zraka. Baza se u skladu s tim kontinuirano ažurira.
+Unutar baze nalaze se dvije logičke cjeline podataka: 1) mjerni podaci, tj. pojedinačne satne "sirove" i validirane mjerne vrijednosti dobivene automatskim kontinuiranim mjerenjem kvalitete zraka, "meta" podaci o mrežama za praćenje kvalitete zraka (naziv, kratica, tip mreže, tijelo odgovorno za upravljanje te obavijest o vremenu), podaci o postajama (naziv, lokacija, ime stručne institucije odgovorno za postaju, tijelo kojemu se podaci dostavljaju, ciljevi mjerenja, geografske koordinate, onečišćujuće tvari koje se mjere, meteorološki parametri, tip područja, tip postaje u odnosu na izvor emisija, mjerna oprema, značajke uzorkovanja i dr.); 2) izvješća: godišnja izvješća o kvaliteti zraka.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Republika Hrvatska</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>info@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="owner"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Jedinice lokalne samouprave</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>info@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="owner"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Obveznici</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>info@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="owner"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Nina Zovko</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministarstvo gospodarstva i održivog razvoja</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Rukovoditelj u Odsjeku za kakvoću zraka</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>01/4886-867</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Radnička cesta 80/7</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Zagreb</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>10 000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>nina.zovko@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Nina Zovko</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministarstvo gospodarstva i održivog razvoja</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Rukovoditelj u Odsjeku za kakvoću zraka</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>01/4886-867</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Radnička cesta 80/7</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Zagreb</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>10 000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>nina.zovko@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="publisher"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Nina Zovko</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministarstvo gospodarstva i održivog razvoja</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Rukovoditelj u Odsjeku za kakvoću zraka</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>01/4886-867</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Radnička cesta 80/7</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Zagreb</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>10 000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>nina.zovko@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="user"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Nina Zovko</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministarstvo gospodarstva i održivog razvoja</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Rukovoditelj u Odsjeku za kakvoću zraka</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>01/4886-867</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Radnička cesta 80/7</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Zagreb</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>10 000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>nina.zovko@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="processor"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Nina Zovko</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministarstvo gospodarstva i održivog razvoja</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Rukovoditelj u Odsjeku za kakvoću zraka</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>01/4886-867</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Radnička cesta 80/7</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Zagreb</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>10 000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>nina.zovko@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Akreditirani ispitni laboratoriji</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:postalCode>
+                                 <gmd:country gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>info@mzoe.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="continual"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                     <gmd:maintenanceNote gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:maintenanceNote>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:descriptiveKeywords xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/hh">Human health and safety</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/ef">Environmental monitoring facilities</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="https://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://envi-metapodaci.azo.hr/geonetwork/srv/hrv/thesaurus.download?ref=external.theme.inspire-theme">geonetwork.thesaurus.external.theme.inspire-theme</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/245">zrak</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/265">onečišćenje zraka</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/270">kakvoća zraka</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/3763">staklenički plin</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/2668">predviđanja emisija</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/7760">upozorenje o onečišćenosti smogom</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/272">kontrola kakvoće zraka</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/4107">sumporovodik</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/8202">sumporni dioksid</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/631">monitoring atmosfere</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/633">lebdeće čestice</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/1168">ugljični dioksid</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/1173">ugljični monoksid</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/5991">ozon</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="https://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://geonetwork-opensource.org/gemet">GEMET - Concepts, version 2.4</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2010-01-13</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="https://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://envi-metapodaci.azo.hr/geonetwork/srv/hrv/thesaurus.download?ref=external.theme.gemet">geonetwork.thesaurus.external.theme.gemet</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>inspiregeoportal</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/ManagementZonesAndAgglomerations-dir-2008-50">Management zones and agglomerations (Air Quality Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/ManagementZones-dir-2008-50">Management zones (Air Quality Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MeasurementAndModellingData-dir-2008-50">Measurement and modelling data (Air Quality Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/MonitoringStations-dir-2008-50">Monitoring stations (Air Quality Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/ModelAreas-dir-2008-50">Model areas (Air Quality Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2008-50">Directive 2008/50/EC</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">objavljeno</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">objavljeno</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply">nema uvjeta za pristup i korištenje</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">nema ograničenja javnom pristupu</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialResolution xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gn="http://www.fao.org/geonetwork">
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>5000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:language xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="hrv"/>
+               </gmd:language>
+               <gmd:topicCategory xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_TopicCategoryCode>health</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>13.48</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>19.45</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>42.39</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>46.56</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo xmlns:date="http://exslt.org/dates-and-times" xmlns:gts="http://www.isotc211.org/2005/gts">
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>alfanumerička baza</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version gco:nilReason="unknown">
+                        <gco:CharacterString/>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gn="http://www.fao.org/geonetwork">
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>1.0</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://iszz.azo.hr/iskzl/</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:CSW</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>Kvaliteta zraka u Hrvatskoj</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Kvaliteta zraka u Hrvatskoj</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://envi.azo.hr/?topic=2</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:CSW</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>Atlas okoliša</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Atlas okoliša</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://servisi.azo.hr/zrak/wms?service=WMS&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://servisi.azo.hr/zrak/wfs?service=WFS&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://servisi.azo.hr/inspire/geos1/ef/wfs?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://servisi.azo.hr/inspire/geos1/hh/wfs?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://servisi.azo.hr/inspire/geos1/ef/wms?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://servisi.azo.hr/inspire/geos1/hh/wms?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">{{hierarchyLevel}}</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="">Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2008-05-21</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Usklađenost s navedenom specifikacijom.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="">Zakon o zaštiti zraka (NN 178/04, 153/09, 130/11, 47/14)</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2014-04-16</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Usklađenost s navedenom specifikacijom.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="">Uredba o graničnim vrijednostima emisija onečišćujućih tvari u zrak iz nepokretnih izvora (NN 117/12)</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2012-10-24</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Usklađenost s navedenom specifikacijom.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="">Pravilnik o praćenju kvalitete zraka (NN 3/13)</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2013-07-01</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Usklađenost s navedenom specifikacijom.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="">Pravilnik o uzajamnoj razmjeni informacija i izvješćivanju o kvaliteti zraka (NN 57/13)</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2013-05-15</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Usklađenost s navedenom specifikacijom.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://data.europa.eu/eli/reg/2010/1089">Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Podaci nisu u skladu s INSPIRE provedbenim pravilima za međuoperativnost skupova prostornih podataka i usluga.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="">INSPIRE Implementing rules</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2016-01-22</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Usklađenost s navedenom specifikacijom.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://data.europa.eu/eli/reg/2009/976">COMMISSION REGULATION (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2009-10-19</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Usklađenost s navedenom specifikacijom.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage xmlns:gmx="http://www.isotc211.org/2005/gmx">
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Podaci nastaju prikupljanjem informacija sa FTP servera na kojima mjerne stanica svakog sata pohranjuju mjerene podatke u standardiziranom DEM zapisu (CSV format).</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

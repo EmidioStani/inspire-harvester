@@ -1,0 +1,56 @@
+input:
+  folder: "data"
+  extension: ".xml"
+output:
+  folder: "output"
+  file: "inspire-dcat-ap.ttl"
+  format: "turtle"
+validation:
+  url: "https://www.itb.ec.europa.eu/shacl/dcat-ap/api/validate"
+  inputsyntax: "text/turtle"
+  version: "v2.0"
+  outputsyntax: "application/ld+json"
+  jsonconform: "sh:conforms"
+xml:
+  nsmap:
+    gmd: "http://www.isotc211.org/2005/gmd"
+    gco: "http://www.isotc211.org/2005/gco"
+    xlink: "http://www.w3.org/1999/xlink"
+    gmx: "http://www.isotc211.org/2005/gmx"
+  xpath:
+    identifier: "/gmd:MD_Metadata/gmd:fileIdentifier/gco:CharacterString"
+    title: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:title/gco:CharacterString"
+    keywords: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:keyword/gco:CharacterString"
+    datathemes: 
+      anchor: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:keyword/gmx:Anchor"
+      link: "@xlink:href"
+    date: "/gmd:MD_Metadata/gmd:dateStamp/gco:Date"
+    datetime: "/gmd:MD_Metadata/gmd:dateStamp/gco:DateTime"
+    abstract: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:abstract/gco:CharacterString"
+    contactpoints:
+      party: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:pointOfContact/gmd:CI_ResponsibleParty"
+      name: "./gmd:organisationName/gco:CharacterString"
+    contacts:
+      party: "/gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty"
+      name: "./gmd:organisationName/gco:CharacterString"
+    distributors:
+      party: "/gmd:MD_Metadata/gmd:distributionInfo/gmd:MD_Distribution/gmd:distributor/gmd:MD_Distributor/gmd:distributorContact/gmd:CI_ResponsibleParty"
+      name: "./gmd:organisationName/gco:CharacterString"
+rdf:
+  vcard:
+    namespace: "vcard"
+    uri: "http://www.w3.org/2006/vcard/ns#"
+  uri:
+    dataset: "http://inspire.ec.europa.eu/dataset/"
+    location: "http://inspire.ec.europa.eu/location/"
+    contactpoint: "http://inspire.ec.europa.eu/organization/"
+    publisher: "http://inspire.ec.europa.eu/organization/"
+bar:
+  description: "Files"
+  colour: "BLUE"
+  leave: True
+message:
+  export: "Exporting graph..."
+  validation: "Contacting validator..."
+  conform: "RDF conform \u2705"
+  notconform: "RDF not conform \u274C"

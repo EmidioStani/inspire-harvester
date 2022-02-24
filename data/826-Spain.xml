@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>aae202fb-ffd6-4acb-8c1b-3280578f7067</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="spa"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:positionName>
+                  <gco:CharacterString>Jefa de Área del Banco de Datos de la Naturaleza</gco:CharacterString>
+               </gmd:positionName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Plaza San Juan de la Cruz, s/n</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Madrid</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString>Madrid</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>28003</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>España</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>brfranco@miteco.es</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.miteco.gob.es/es/</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2010-12-20</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>Reglamento (CE) Nº 1205/2008 de Inspire + Perfil NEM v1.2</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>TG 2.0.1</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/4258">EPSG:4258 (ETRS89 coordenadas geográficas)</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Lugar de Importancia Comunitaria. LIC</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>LIC_ES</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>1997-04-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2020-12-14</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>ESMAGRAMAPSLIC20101220</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>MITECO</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                     <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:individualName>
+                              <gco:CharacterString>Hidalgo Martín, Rafael</gco:CharacterString>
+                           </gmd:individualName>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:positionName>
+                              <gco:CharacterString>Jefe de Área Espacios Naturales Protegidos</gco:CharacterString>
+                           </gmd:positionName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:phone>
+                                    <gmd:CI_Telephone>
+                                       <gmd:voice>
+                                          <gco:CharacterString>(+34) 91 597 67 11</gco:CharacterString>
+                                       </gmd:voice>
+                                    </gmd:CI_Telephone>
+                                 </gmd:phone>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString>Plaza San Juan de la Cruz, s/n-3ª planta</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>28003</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString>España</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>rhidalgom@miteco.es</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>https://www.miteco.gob.es/es/</gmd:URL>
+                                       </gmd:linkage>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:citedResponsibleParty>
+                     <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital"/>
+                     </gmd:presentationForm>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Los Lugares de Importancia Comunitaria (LIC) son propuestos por las distintas administraciones competentes, posteriormente deben ser designados como Zonas Especiales del Conservación (ZEC), éstas junto con las Zonas de Especial Protección para las Aves (ZEPA) componen la Red Natura 2000.  Las primeras declaraciones se iniciaron en en abril de 1997. 
+La información que se presenta corresponde a la actualización de 14 de diciembre de 2020, según la información de los espacios Red Natura 2000 remitida por el Ministerio a la Comisión Europea hasta esa fecha. Los datos de LIC adquieren carácter oficial sólo cuando la Comisión Europea aprueba las respectivas listas biogeográficas de LIC.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:purpose>
+                  <gco:CharacterString>Los lugares de la Lista Nacional deben representar una muestra suficiente de los hábitat y especies de flora y fauna considerados de interés comunitario en los anexos I y II de la Directiva de Hábitat 92/43/CEE, para garantizar un estado favorable de conservación de los mismos. Por tanto los lugares constituyen la expresión territorial del compromiso de las Comunidades Autónomas y el Estado Español en su conjunto para conseguir dicho objetivo. Las actuaciones o proyectos que se pretendan realizar en estos lugares están sujetos a un procedimiento regulado por el art.6 de la Directiva.</gco:CharacterString>
+               </gmd:purpose>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Hidalgo Martín, Rafael</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString>Jefe de Área de Espacios Naturales Protegidos</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Plaza San Juan de la Cruz, s/n</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Madrid</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString>Madrid</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>28003</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>España</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>rhidalgom@miteco.es</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>ESMAGRAMALIC20101220_vInspire_s.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString>thumbnail</gco:CharacterString>
+                     </gmd:fileDescription>
+                     <gmd:fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                     </gmd:fileType>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>ESMAGRAMALIC20101220_vInspire.png</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString>large_thumbnail</gco:CharacterString>
+                     </gmd:fileDescription>
+                     <gmd:fileType>
+                        <gco:CharacterString>png</gco:CharacterString>
+                     </gmd:fileType>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/ps">Lugares protegidos</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/ps">Protected sites</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">Nacional</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial Scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor>España</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor>EuropeanTerritorialUnits</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2009-09-16</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor>areas naturales, paisaje, ecosistemas</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor>Themes GEMET - Themes, version 2.4</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2010-01-13</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/Natura2000Sites-dir-1992-43">Natura 2000 sites (Habitats Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://creativecommons.org/licenses/by-sa/3.0/es/">CC BY-SA 3.0</gmx:Anchor>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Nombrar a la fuente: Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>La información perimetral es a título informativo y a efectos estadísticos. Para consultar la delimitación oficial de cada espacio debe consultarse la normativa de declaración correspondiente</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Sin limitaciones al acceso público</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:aggregationInfo>
+                  <gmd:MD_AggregateInformation>
+                     <gmd:aggregateDataSetName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>Base de datos CNTRYES.mdb</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2002-09-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:aggregateDataSetName>
+                     <gmd:associationType>
+                        <gmd:DS_AssociationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="crossReference"/>
+                     </gmd:associationType>
+                  </gmd:MD_AggregateInformation>
+               </gmd:aggregationInfo>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>50000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="spa"/>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>biota</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:description>
+                        <gco:CharacterString>Península Ibérica, Islas Baleares, Canarias, Ceuta y Melilla</gco:CharacterString>
+                     </gmd:description>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>-19.00</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>4.33</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>27.00</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>44.40</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+               <gmd:supplementalInformation>
+                  <gco:CharacterString>La información correspondiente a la Lista de Lugares de Importancia Comunitaria (LIC), al igual que las Zonas de Especial Protección de Aves (ZEPA) se recoge en un Formulario Normalizado de Datos de la Red Natura 2000. Dicho formulario se ha desarrollado como una base de datos en formato Access denominado CNTRYES. Se estructura en 20 tablas que contienen los datos relativos a lo siguientes capítulos de información: 
+              				1. Identificación de lugar (código, fechas, nombre, etc.). 
+              				2. Localización del lugar (coordenadas, altitud, región administrativa y biogeográfica). 
+              				3. Información ecológica (hábitat y especies Anexos I y II Directiva Hábitat, otras especies de interés). 
+              				4. Descripción del lugar (características generales, amenazas y presiones, régimen de propiedad, etc.).
+              				5. Figura de protección del lugar (relación del lugar con otras figuras de protección a nivel nacional y regional). 
+              				6. Gestión del lugar (institución responsable, planes de gestión, etc.).
+              				7. Mapa del lugar (ID Inspire, referencias al mapa original).</gco:CharacterString>
+               </gmd:supplementalInformation>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>SHP-ArcView ShapeFile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>Desconocido</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>Desconocido</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>application/gml+xml</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>3.2</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>D2.8.I.9 Data Specification on Protected Sites - Technical Guidelines</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:individualName>
+                              <gco:CharacterString>Ruiz Franco, Blanca</gco:CharacterString>
+                           </gmd:individualName>
+                           <gmd:organisationName>
+                              <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico</gco:CharacterString>
+                           </gmd:organisationName>
+                           <gmd:positionName>
+                              <gco:CharacterString>Jefa de Área del Banco de Datos de la Naturaleza</gco:CharacterString>
+                           </gmd:positionName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:phone>
+                                    <gmd:CI_Telephone>
+                                       <gmd:voice>
+                                          <gco:CharacterString>(+34) 91 597 61 55</gco:CharacterString>
+                                       </gmd:voice>
+                                    </gmd:CI_Telephone>
+                                 </gmd:phone>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint>
+                                          <gco:CharacterString>Plaza San Juan de la Cruz, s/n - 3ª planta</gco:CharacterString>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:city>
+                                       <gmd:administrativeArea>
+                                          <gco:CharacterString>Madrid</gco:CharacterString>
+                                       </gmd:administrativeArea>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>28003</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country>
+                                          <gco:CharacterString>España</gco:CharacterString>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>brfranco@miteco.es</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor"/>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wms.mapama.gob.es/sig/Biodiversidad/LICS/wms.aspx</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:WMS-1.1.1-http-get-map</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>PS.ProtectedSite</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Lugar de Importancia Comunitaria (LIC)</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wms.mapama.gob.es/sig/Biodiversidad/LICS/wms.aspx?Request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Descripción del Servicio WMS de Lugar de Importancia Comunitaria (LIC):</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.mapama.gob.es/ide/inspire/atom/downloadservice.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Enlace de descarga del servicio ATOM:</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.mapama.gob.es/ide/inspire/atom/CategBiodiversidad/downloadservice.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Enlace de descarga del servicio ATOM Categoría Biodiversidad:</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://sig.mapama.gob.es/bdn</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Visor del Banco de Datos de la Naturaleza (BDN):</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://www.mapama.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/rednatura_2000_lic_descargas.aspx</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:description>
+                              <gco:CharacterString>Enlace al servidor de cartografía temática del BDN:</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.miteco.gob.es/app/descargas/descargafichero.aspx?f=lic.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>application/vnd.shp</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Península Ibérica, Islas Baleares, Canarias, Ceuta y Melilla - EPSG:4258</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Descarga cartografía digital (shapefile):</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.miteco.gob.es/app/descargas/descargafichero.aspx?f=gml_natura2000.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:applicationProfile>
+                              <gco:CharacterString>application/x-gmz</gco:CharacterString>
+                           </gmd:applicationProfile>
+                           <gmd:name>
+                              <gco:CharacterString>Península Ibérica, Islas Baleares, Canarias, Ceuta y Melilla - EPSG:4258</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Descarga de cartografía digital (GML):</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">Reglamento (UE) n o 1089/2010 de la Comisión de 23 de noviembre de 2010 por el que se aplica la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a la interoperabilidad de los conjuntos y los servicios de datos espaciales</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Consultar el reglamento mencionado</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2008/1205">REGLAMENTO (CE) Nº 1205/2008 DE LA COMISIÓN de 3 de diciembre de 2008 por el que se ejecuta la Directiva 2007/2/CE del Parlamento Europeo y del Consejo en lo que se refiere a los metadatos</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2008-12-04</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Consultar el reglamento mencionado</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>La propuesta de la lista de Lugares de Importancia Comunitaria así como su delimitación geográfica ha sido realizada por los diferentes gobiernos autonómicos y el MITECO en el ámbito de sus competencias. El Banco de Datos armoniza la información de acuerdo a un modelo de datos estatal. Para conocer el proceso de elaboración de cada una, se deben consultar los metadatos de las autoridades competentes, donde se describe entre otros la escala, fechas y contactos propios. Este metadato se ha creado de acuerdo a lo aportado por cada uno de ellos.  La información correspondiente a la Lista de Lugares de Importancia Comunitaria (LIC), al igual que las Zonas de Especial Protección de Aves (ZEPA) se recoge en un Formulario Normalizado de Datos, aprobado mediante  Decisión de la Comisión del 11 de Julio del 2011 relativa a un formulario de información sobre un espacio Natura 2000. La información contenida en dicho formulario se recoge en una base de datos en formato Access denominada CNTRYES y se estructura en varias tablas que contienen los datos relativos a los siguientes capítulos de información del formulario normalizado de datos: 1. Identificación de lugar (código, fechas, nombre, etc.) 2. Localización del lugar (superficie, coordenadas, altitud, región administrativa y biogeográfica, etc) 3. Información ecológica (hábitat y especies de los Anexos I y II Directiva Hábitat y especies del Anexo I de la Directiva Aves además de otras especies de interés) 4. Descripción del lugar (características generales, amenazas y presiones, régimen de propiedad, etc.) 5. Figura de protección del lugar (relación del lugar con otras figuras de protección a nivel nacional y regional) 6. Gestión del lugar (institución responsable, planes de gestión, etc.) 7. Mapa del lugar (ID Inspire, referencias al mapa original). La Directiva de Hábitat 92/43/CEE tiene por objetivo principal el mantenimiento de la biodiversidad. Esta norma comunitaria obliga a todos los Estados Miembros de la Unión Europea a entregar una Lista Nacional de lugares (pLIC), la cual, en sucesivas fases, se transformará en Lista de Lugares de Importancia Comunitaria (LIC) y después en Zonas Especiales de Conservación (ZEC). Tales ZEC, junto con las Zonas de Especial Protección para las Aves (ZEPA), de la Directiva 2009/147/CE, conformarán la Red Natura 2000. La Lista Nacional de lugares está repartida en cuatro regiones biogeográficas (alpina, atlántica, mediterránea y macaronésica), las proponen las autoridades competentes en su ámbito territorial al Ministerio para la Transición Ecológica y el Reto Demográfico, quien actúa como coordinador general de todo el proceso y es responsable de su transmisión oficial a la Comisión Europea. La primera lista macaronésica fue aprobada por Decisión de la Comisión de 28 de Diciembre de 2001. La primera lista alpina fue aprobada por Decisión de la Comisión Europea con fecha de 22 de diciembre de 2003. La primera lista atlántica fue aprobada por Decisión de la Comisión Europea con fecha de 7 de diciembre de 2004. La primera lista mediterránea fue aprobada por Decisión de la Comisión Europea con fecha de 19 de Julio de 2006, y posteriormente han sido actualizadas en sucesivas ocasiones.</gco:CharacterString>
+                     </gmd:statement>
+                     <gmd:processStep>
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString>Fecha de referencia corresponde a su remisión a la Comisión Europea el 14 de diciembre de 2020. Se presenta la información para toda España tras un proceso de agregación y armonización de la información enviada por las fuentes citadas.</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dirección General de Sostenibilidad de la Costa y del Mar. Ministerio para la Transición Ecológica y el Reto Demográfico. Plaza San Juan de la Cruz, s/n. 28003 Madrid. bzn-biomarina@mapama.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Consejería de Fomento y Medio Ambiente. Junta de Castilla y León. C/ Rigoberto Cortejoso, 14 47014 Valladolid.   
+Valladolid.dgmn@jcyl.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Consejería de Medio Ambiente, Ordenación del Territorio y Sostenibilidad. Dirección General de Biodiversidad y Recursos Naturales. C/ Alcalá, 16. 28014 Madrid. 
+dgmedioambiente@madrid.org</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Consejería de Medio Ambiente, Servicios Comunitarios y Barriadas. Ciudad de Ceuta Viceconsejería de Patrimonio Cultural. Plaza de África, s/n. 51001 Ceuta. 
+FJMartinez@ceuta.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Consejeria Medio Ambiente. Ciudad Autónoma de Melilla. Plaza de España s/n. 52001 Melilla. clopez02@melilla.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Conselleria d’Infraestructures,Territori i Medi Ambient. Generalitat Valenciana. Ciutat Administrativa 9 D'Octubre-Torre 1. C/ Castán Cubeñas, 77. 46018 Valencia (España). 
+nebot_jos@gva.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Consejería de Desarrollo Sostenible. D.G. de Medio Natural y Biodiversidad. Plaza del Cardenal Silíceo, nº 2 - 45071 – TOLEDO (España)
+rednaturaclm@jccm.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Gobierno Vasco.Viceconsejería de Medio Ambiente.Dirección de Medio Natural y Planificación Ambiental. C/ Donostia-San Sebastián, 1. 01010 Vitoria.
+biodiversidad@euskadi.eus</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dirección General de Sostenibilidad. Departamento de Desarrollo Rural y Sostenibilidad. Gobierno de Aragón.San Pedro Nolasco, 7.50071 – ZARAGOZA.
+sostenibilidad@aragon.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dirección General de Gestión del Medio Natural y Espacios Protegidos. Consejería de Medio Amabiente y Ordenación del Territorio. Junta de Andalucia. Avda. de Manuel Siurot, 50. 41013 Sevilla, España. natura2000fnd.
+cmaot@juntadeandalucia.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dirección General de Medio Ambiente y Agua del Departamento de Desarrollo Rural, Medio Ambiente y Administración Local.c/ González Tablas, nº 9. 31005 Pamplona. 
+dgmaa@navarra.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Oficina de Impulso Socioeconómico del Medio Ambiente. Dirección General de Medio Natural. Consejería de Empleo, Universidades, Empresa y Medio Ambiente. Comunidad Autónoma de la Región de Murcia. Plaza Juan XXIII, 4. 30.008 MURCIA. Tfno. 968 228977 Fax. 968 228887.
+ planiambiental@carm.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dirección General de Medio Natural, Educación Ambiental Y Cambio Climático. Gobierno de las Islas Baleares. C/ Gremi de Corredors, 10. Poligon Son Rossinyol. 07009 Palma de Mallorca
+aflorit@dgmambie.caib.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Gobierno de La Rioja. Consejería de Sostenibilidad y Transición Ecológica.Dirección General de Biodiversidad. C/ Pradoviejo 62-bis. 26071 Logroño (La Rioja). 
+jesquisabel@larioja.org</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dirección General de Montes y Conservación de la Naturaleza. Consejería de Ganadería, Pesca y Desarrollo Rural. Gobierno de Cantabria. C/ Calderón de la Barca, 4 - 3º. 39071 Santander, Cantabria. 
+dgmontes@cantabria.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Dirección Xeral de Patrimonio Natural, Consellería de Medio Ambiente, Territorio e Vivenda. Xunta de Galicia.San Lázaro, s/n. 15781 Santiago de Compostela. 
+dxpn.cmatv@xunta.gal</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Generalitat de Catalunya Departament de Territori i Sostenibilitat. C/ Provença, 204-208, 08036 Barcelona.
+ambitinformacionatura.tes@gencat.cat</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Junta de Extremadura. Consejería de Medio Ambiente y Rural, Politicas Agrarias y Territorio. Dirección General de Medio Ambiente Avenida de Luis Ramallo s/n. CP: 06800 MÉRIDA (Badajoz) 
+dgma.marpat@gobex.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Gobierno del Principado de Asturias.Consejería de Infraestructuras, Ordenación del Territorio y Medio Ambiente. Dirección General de Biodiversidad.C/ Trece Rosas, 2. C.P.:33005 Oviedo - Asturias - España.
+espaciosnaturales_asturias@asturias.org</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Viceconsejería de Medio Ambiente. Gobierno de Canarias. Avda. de Anaga, 35. Edificio Servicios Múltiples I-4º 38071 Santa Cruz de Tenerife. 
+medioambiente@gobiernodecanarias.org</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Organismo Autónomo Parques Nacionales. C/ Hernani, 59 - Planta Baja 28020 MADRID. centrodocu@oapn.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                     <gmd:source>
+                        <gmd:LI_Source>
+                           <gmd:description>
+                              <gco:CharacterString>Ministerio para la Transición Ecológica y el Reto Demográfico. Plaza San Juan de la Cruz, s/n. 
+bzn-biomarina@miteco.es</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:LI_Source>
+                     </gmd:source>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

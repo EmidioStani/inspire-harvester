@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">3cc9aee4-25ee-473e-8139-f4ddfdcff7ba</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">fre</gco:CharacterString>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:parentIdentifier>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">8ddc0f01-6708-4b23-a79a-e9bac3beeee6</gco:CharacterString>
+         </gmd:parentIdentifier>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:hierarchyLevelName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">dataset</gco:CharacterString>
+         </gmd:hierarchyLevelName>
+         <gmd:contact xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SANDRE</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
+               </gmd:positionName>
+               <gmd:contactInfo xlink:type="simple">
+                  <gmd:CI_Contact>
+                     <gmd:phone xlink:type="simple">
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114790</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114748</gco:CharacterString>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address xlink:type="simple">
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Rue Edouard Chamberland</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIMOGES</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">HAUTE-VIENNE</gco:CharacterString>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">87000</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sandre@sandre.eaufrance.fr</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2020-12-11T14:24:36</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ISO 19115:2003/19139</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1.0</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier xlink:type="simple">
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">IGNF:LAMB93</gco:CharacterString>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_DataIdentification>
+               <gmd:citation xlink:type="simple">
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Zones vulnérables - Historique</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date xlink:type="simple">
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2020-12-02T00:00:00</gco:DateTime>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:edition>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">2020</gco:CharacterString>
+                     </gmd:edition>
+                     <gmd:identifier xlink:type="simple">
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.sandre.eaufrance.fr/?urn=urn:sandre:donnees:ZoneVuln_historique:FXX:::ressource::::html</gco:CharacterString>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                     <gmd:presentationForm>
+                        <gmd:CI_PresentationFormCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital"/>
+                     </gmd:presentationForm>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Les zones vulnérables sont les terres désignées conformément à l'article 3 paragraphe 2 de la Directive Européenne n°91-676 dont les objectifs consignés dans son premier article sont de réduire la pollution des eaux provoquées ou induites par les nitrates à partir de sources agricoles, et prévenir toute nouvelle pollution de ce type.
+
+Une zone vulnérable est une partie du territoire où la pollution des eaux par le rejet direct ou indirect de nitrates d’origine agricole ou d’autres composés azotés susceptibles de se transformer en nitrates, menace à court terme la qualité des milieux aquatiques et plus particulièrement l’alimentation en eau potable. 
+
+Sont considérées comme zones vulnérables, les zones où : 
+- Les eaux souterraines et les eaux douces superficielles, notamment celles servant ou destinées aux captages d'eau pour la consommation humaine, dont la teneur en nitrate est supérieure à 50 milligrammes par litre   ,
+- Les eaux des estuaires, les eaux côtières et marines et les eaux douces superficielles qui subissent une eutrophisation à laquelle l'enrichissement de l'eau en composés azotés provenant de sources agricoles contribue.
+
+Un programme d'action est mis en œuvre dans chaque département concerné, arrêtant les prescriptions que doivent respecter l'ensemble des agriculteurs de la zone vulnérable correspondante. Ils sont construits en concertation avec tous les acteurs concernés, sur la base d'un diagnostic local. Ils visent à corriger les pratiques les plus génératrices de pollution. 
+En dehors des zones vulnérables, un code des bonnes pratiques agricoles, établi au niveau national est d'application volontaire.
+
+Chaque zone vulnérable correspond à un arrêté préfectoral (préfet coordonnateur de bassin) après avis du conseil départemental d’Hygiène, du conseil général et régional et du comité de bassin. Les zones vulnérables sont réexaminées au moins tous les 4 ans.
+Cet arrêté est le texte réglementaire fondateur de la zone vulnérable.
+
+Le périmètre des zones vulnérables est défini par  circonscription administrative de bassin selon 2 modalités: 
+1) Limites communales : Il s'étend sur la limite de l'ensemble de communes désignées en zones vulnérables. 
+2) Limites cadastrales (infra-communale): Il s'étend  sur les sections cadastrales retenues pour les communes désignées en zones vulnérables.
+
+Dans le cas où un arrêté ultérieur viendrait compléter l’arrêté précédent, seule la date du dernier arrêté serait conservée.
+	
+La liste des zones vulnérables est établie sous la responsabilité des DREAL de bassin.
+Les multipolygones et polygones à trou sont autorisés.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:purpose xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
+               </gmd:purpose>
+               <gmd:status>
+                  <gmd:MD_ProgressCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed"/>
+               </gmd:status>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33320405454</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33320134878</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">44, rue de Tournai</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LILLE</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">59019</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">dreal-nord-pdc@developpement-durable.gouv.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33144594747</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33144594700</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">10 Rue Crillon</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">PARIS</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">75194</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">driee-if@developpement-durable.gouv.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33236174141</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33236174101</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">5, avenue Buffon</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ORLEANS</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">45064</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">dreal-centre@developpement-durable.gouv.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33387564200</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33387769719</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">11 place Saint Martin</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">METZ</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">57071</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">dreal-lorraine@developpement-durable.gouv.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33478625050</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">165, rue de Garibaldi</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LYON</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">69401</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Webmestre.dreal-ra@developpement-durable.gouv.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:voice>
+                                 <gmd:facsimile xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Bd Armand Duportal</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">TOULOUSE</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">31074</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">courrier.dreal-midi-pyrenees@developpement-durable.gouv.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114790</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114748</gco:CharacterString>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIMOGES</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">87000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sandre@sandre.eaufrance.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="processor"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact xlink:type="simple">
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">AFB</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Direction Régionale de l'Environnement de l'Aménagement et du Logement des Hauts-de-France (DREAL Hauts-de-France)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">En métropole et en outre-mer, l’Agence française pour la biodiversité a pour mission d’améliorer la connaissance, de protéger, de gérer, et de sensibiliser à la biodiversité terrestre, aquatique et marine.</gco:CharacterString>
+                     </gmd:positionName>
+                     <gmd:contactInfo xlink:type="simple">
+                        <gmd:CI_Contact>
+                           <gmd:phone xlink:type="simple">
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">01 45 14 36 00</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address xlink:type="simple">
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Le Nadar Hall C 5 square Félix-Nadar</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Vincennes</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Agence Française de la Biodiversitée</gco:CharacterString>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">94300</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">geomatique@afbiodiversite.fr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance xlink:type="simple">
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded"/>
+                     </gmd:maintenanceAndUpdateFrequency>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:graphicOverview xlink:type="simple">
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">http://www.sandre.eaufrance.fr/atlas/srv/api/records/8ddc0f01-6708-4b23-a79a-e9bac3beeee6/attachments/12.PNG</gco:CharacterString>
+                     </gmd:fileName>
+                     <gmd:fileDescription>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Zones vulnérables</gco:CharacterString>
+                     </gmd:fileDescription>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">politique de l'environnement</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">external.theme.gemet-theme</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown" xlink:type="simple"/>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ZONE PROTEGEE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ZONE VULNERABLE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ZONAGE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">NITRATE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Zones de gestion, de restriction ou de réglementation et unités de déclaration</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier xlink:type="simple">
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://www.sandre.eaufrance.fr/atlas/srv/fre/thesaurus.download?ref=external.theme.httpinspireeceuropaeutheme-theme" xlink:type="simple">geonetwork.thesaurus.external.theme.httpinspireeceuropaeutheme-theme</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FRANCE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">METROPOLE</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Données de références (référentiels, vocabulaire contrôlé)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">external.theme.sie.typologie.nature</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown" xlink:type="simple"/>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Zonages techniques et réglementaires (zones protégées, réglementées)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">external.theme.sie.typologie.missions</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown" xlink:type="simple"/>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Actions sur l’eau (réponses, zonage réglementaire, redevance, actions volontaires)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">external.theme.sie.typologie.nature</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="unknown" xlink:type="simple"/>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">données ouvertes</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords xlink:type="simple">
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Directive 2000/60/EC</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Protected areas (Water Framework Directive)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Nitrate vulnerable zones - nutrient sensitive areas (Water Framework Directive)</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName xlink:type="simple">
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date xlink:type="simple">
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date xmlns:gco="http://www.isotc211.org/2005/gco">2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier xlink:type="simple">
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xmlns:gmx="http://www.isotc211.org/2005/gmx" xlink:href="http://www.sandre.eaufrance.fr/atlas/srv/fre/thesaurus.download?ref=external.theme.PriorityDataset" xlink:type="simple">geonetwork.thesaurus.external.theme.PriorityDataset</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints xlink:type="simple">
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useLimitation>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Licence Ouverte Etalab, https://www.etalab.gouv.fr/licence-ouverte-open-licence</gco:CharacterString>
+                     </gmd:useLimitation>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Pas de restriction d'accès public</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale xlink:type="simple">
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator/>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">fre</gco:CharacterString>
+               </gmd:language>
+               <gmd:characterSet>
+                  <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+               </gmd:characterSet>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>inlandWaters</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent xlink:type="simple">
+                  <gmd:EX_Extent>
+                     <gmd:temporalElement xlink:type="simple">
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent xlink:type="simple">
+                              <ns13:TimePeriod xmlns:ns13="http://www.opengis.net/gml/3.2" ns13:id="d27e435a1049886">
+                                 <ns13:beginPosition/>
+                                 <ns13:endPosition/>
+                              </ns13:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+               <gmd:extent xlink:type="simple">
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement xlink:type="simple">
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">-5.79028</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">9.56222</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">41.3649</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal xmlns:gco="http://www.isotc211.org/2005/gco">51.0911</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+               <gmd:supplementalInformation xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                  <gco:CharacterString/>
+               </gmd:supplementalInformation>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat xlink:type="simple">
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ESRI Shapefile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">1998</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat xlink:type="simple">
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Geopackage (GPKG)</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">2</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://id.eaufrance.fr/ddd/zrpe/1</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Dictionnaire «Zone de régulations pour l'environnement»</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://www.sandre.eaufrance.fr/urn.php?urn=urn:sandre:scenario-d-echanges-geographique:ZoneVuln::::ressource:latest:::pdf</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Scénario d’échange géographique</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/telechargement/geo/ZRPE/ZoneVuln/RegleGestionReférentiel_ZoneVuln_v2.1.pdf</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Descriptif de gestion du référentiel</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://mdm.sandre.eaufrance.fr/geo/rapports/public/ZoneVuln</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Rapport de contrôles de conformité Sandre</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/telechargement/geo/ZON/ZoneVuln/généalogie_ZoneVuln.csv</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Généalogie des zones vulnérables</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/telechargement/geo/ZON/ZoneVuln/Reglementaire</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Arrêtés de désignation / délimitation et liste des communes intégralement ou partiellement en Zone Vulnérable</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_historique&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=SHAPEZIP</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FILE:GEO</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables / bassin DCE - Historique: Arrêtés préfectoraux de délimitation et désignation depuis 2007 - limites communales et sections cadastrales - au format ESRI Shapefile</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_historique&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=GPKG</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FILE:GEO</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables / bassin DCE - Historique: Arrêtés préfectoraux de délimitation et désignation depuis 2007 - limites communales et sections cadastrales - au format Geopackage (GPKG)</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_com_historique&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=SHAPEZIP</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FILE:GEO</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables / bassin DCE - Historique: Arrêtés préfectoraux de désignation depuis 2007 - limites communales - au format ESRI Shapefile</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_com_historique&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=GPKG</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FILE:GEO</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables / bassin DCE - Historique: Arrêtés préfectoraux de désignation depuis 2007 - limites communales - au format Geopackage (GPKG)</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_cad_historique&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=SHAPEZIP</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FILE:GEO</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables / bassin DCE - Historique: Arrêtés préfectoraux de délimitation depuis 2016 - Limites communales et périmètres de sections cadastrales - au format ESRI Shapefile</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_cad_historique&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=GPKG</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">FILE:GEO</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables / bassin DCE - Historique: Arrêtés préfectoraux de délimitation depuis 2016 - Limites communales et périmètres de sections cadastrales - au format Geopackage (GPKG)</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/telechargement/geo/ZON/ZoneVuln/liste_communes/Historique/2007_Communes_zv.csv</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Liste des communes en zone vulnérable 2007</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/telechargement/geo/ZON/ZoneVuln/liste_communes/Historique/2013_Communes_zv.csv</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Liste des communes en zone vulnérable 2013</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/telechargement/geo/ZON/ZoneVuln/liste_communes/Historique/20015_Communes_zv.csv</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-ftp--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Liste des communes en zone vulnérable 2015</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_Commune&amp;SRSNAME=EPSG:4326&amp;OUTPUTFORMAT=CSV</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Communes / Zone Vulnérable de désignation</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Communes / Zone Vulnérable de désignation au format CSV</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=SectionCadastrale_Commune&amp;SRSNAME=EPSG:4326&amp;OUTPUTFORMAT=CSV</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sections cadastrales / Zone Vulnérable de délimitation</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Sections cadastrales / Zone Vulnérable de désignation au format CSV</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions/>
+               </gmd:transferOptions>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_com_FXX_2008&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=SHAPEZIP</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables - publiées en 2008 - limites Communales - au format ESRI shape</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_com_FXX_2003&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=SHAPEZIP</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables - publiées en 2003 - limites Communales - au format ESRI shape</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe?SERVICE=WFS&amp;VERSION=2.0.0&amp;REQUEST=GetFeature&amp;typename=ZoneVuln_com_FXX_2000&amp;SRSNAME=EPSG:2154&amp;OUTPUTFORMAT=SHAPEZIP</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Téléchargement des Zones vulnérables - publiées en 2000 - limites Communales - au format ESRI shape</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions/>
+               </gmd:transferOptions>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions/>
+               </gmd:transferOptions>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://services.sandre.eaufrance.fr/geo/zrpe</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">OGC:WMS</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ZoneVuln_historique</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Service WMS Zones vulnérables historiques de désignation et délimitation</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xlink:type="simple">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://services.sandre.eaufrance.fr/geo/zrpe</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">OGC:WFS</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">ZoneVuln_historique</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Service WFS Zones vulnérables historiques de désignation et délimitation</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+               <gmd:transferOptions xlink:type="simple">
+                  <gmd:MD_DigitalTransferOptions/>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <gmd:DQ_DataQuality>
+               <gmd:scope xlink:type="simple">
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:lineage xlink:type="simple">
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Mise à jour sur la base des informations transmises par les services de l'Etat</gco:CharacterString>
+                     </gmd:statement>
+                     <gmd:processStep xlink:type="simple">
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Couche des Zones Vulnérables issue du Rapportage Directive Nitrates 2012, restructurée conformément au dictionnaire Zonages 2.0 et reprojetée en RGF93/Lambert93</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:dateTime>
+                              <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2013-09-06T20:00:00</gco:DateTime>
+                           </gmd:dateTime>
+                           <gmd:processor xlink:type="simple">
+                              <gmd:CI_ResponsibleParty>
+                                 <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:individualName>
+                                 <gmd:organisationName>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SANDRE</gco:CharacterString>
+                                 </gmd:organisationName>
+                                 <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:positionName>
+                                 <gmd:contactInfo xlink:type="simple">
+                                    <gmd:CI_Contact>
+                                       <gmd:phone xlink:type="simple">
+                                          <gmd:CI_Telephone>
+                                             <gmd:voice>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114790</gco:CharacterString>
+                                             </gmd:voice>
+                                             <gmd:facsimile>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114748</gco:CharacterString>
+                                             </gmd:facsimile>
+                                          </gmd:CI_Telephone>
+                                       </gmd:phone>
+                                       <gmd:address xlink:type="simple">
+                                          <gmd:CI_Address>
+                                             <gmd:deliveryPoint xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                                <gco:CharacterString/>
+                                             </gmd:deliveryPoint>
+                                             <gmd:city>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIMOGES</gco:CharacterString>
+                                             </gmd:city>
+                                             <gmd:administrativeArea>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">HAUTE-VIENNE</gco:CharacterString>
+                                             </gmd:administrativeArea>
+                                             <gmd:postalCode>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">87000</gco:CharacterString>
+                                             </gmd:postalCode>
+                                             <gmd:country>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                             </gmd:country>
+                                             <gmd:electronicMailAddress>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sandre@sandre.eaufrance.fr</gco:CharacterString>
+                                             </gmd:electronicMailAddress>
+                                          </gmd:CI_Address>
+                                       </gmd:address>
+                                    </gmd:CI_Contact>
+                                 </gmd:contactInfo>
+                                 <gmd:role>
+                                    <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="processor"/>
+                                 </gmd:role>
+                              </gmd:CI_ResponsibleParty>
+                           </gmd:processor>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                     <gmd:processStep xlink:type="simple">
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Restructuration conformément au dictionnaire Zonages 1.0</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:dateTime>
+                              <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2012-07-12T18:20:00</gco:DateTime>
+                           </gmd:dateTime>
+                           <gmd:processor xlink:type="simple">
+                              <gmd:CI_ResponsibleParty>
+                                 <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:individualName>
+                                 <gmd:organisationName>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SANDRE</gco:CharacterString>
+                                 </gmd:organisationName>
+                                 <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:positionName>
+                                 <gmd:contactInfo xlink:type="simple">
+                                    <gmd:CI_Contact>
+                                       <gmd:phone xlink:type="simple">
+                                          <gmd:CI_Telephone>
+                                             <gmd:voice>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114790</gco:CharacterString>
+                                             </gmd:voice>
+                                             <gmd:facsimile>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114748</gco:CharacterString>
+                                             </gmd:facsimile>
+                                          </gmd:CI_Telephone>
+                                       </gmd:phone>
+                                       <gmd:address xlink:type="simple">
+                                          <gmd:CI_Address>
+                                             <gmd:deliveryPoint xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                                <gco:CharacterString/>
+                                             </gmd:deliveryPoint>
+                                             <gmd:city>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIMOGES</gco:CharacterString>
+                                             </gmd:city>
+                                             <gmd:administrativeArea>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">HAUTE-VIENNE</gco:CharacterString>
+                                             </gmd:administrativeArea>
+                                             <gmd:postalCode>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">87000</gco:CharacterString>
+                                             </gmd:postalCode>
+                                             <gmd:country>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                             </gmd:country>
+                                             <gmd:electronicMailAddress>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sandre@sandre.eaufrance.fr</gco:CharacterString>
+                                             </gmd:electronicMailAddress>
+                                          </gmd:CI_Address>
+                                       </gmd:address>
+                                    </gmd:CI_Contact>
+                                 </gmd:contactInfo>
+                                 <gmd:role>
+                                    <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="processor"/>
+                                 </gmd:role>
+                              </gmd:CI_ResponsibleParty>
+                           </gmd:processor>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                     <gmd:processStep xlink:type="simple">
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Reprojection en RGF93/Lambert93</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:dateTime>
+                              <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2009-03-09T14:48:00</gco:DateTime>
+                           </gmd:dateTime>
+                           <gmd:processor xlink:type="simple">
+                              <gmd:CI_ResponsibleParty>
+                                 <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:individualName>
+                                 <gmd:organisationName>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SANDRE</gco:CharacterString>
+                                 </gmd:organisationName>
+                                 <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:positionName>
+                                 <gmd:contactInfo xlink:type="simple">
+                                    <gmd:CI_Contact>
+                                       <gmd:phone xlink:type="simple">
+                                          <gmd:CI_Telephone>
+                                             <gmd:voice>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114790</gco:CharacterString>
+                                             </gmd:voice>
+                                             <gmd:facsimile>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114748</gco:CharacterString>
+                                             </gmd:facsimile>
+                                          </gmd:CI_Telephone>
+                                       </gmd:phone>
+                                       <gmd:address xlink:type="simple">
+                                          <gmd:CI_Address>
+                                             <gmd:deliveryPoint xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                                <gco:CharacterString/>
+                                             </gmd:deliveryPoint>
+                                             <gmd:city>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIMOGES</gco:CharacterString>
+                                             </gmd:city>
+                                             <gmd:administrativeArea>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">HAUTE-VIENNE</gco:CharacterString>
+                                             </gmd:administrativeArea>
+                                             <gmd:postalCode>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">87000</gco:CharacterString>
+                                             </gmd:postalCode>
+                                             <gmd:country>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                             </gmd:country>
+                                             <gmd:electronicMailAddress>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sandre@sandre.eaufrance.fr</gco:CharacterString>
+                                             </gmd:electronicMailAddress>
+                                          </gmd:CI_Address>
+                                       </gmd:address>
+                                    </gmd:CI_Contact>
+                                 </gmd:contactInfo>
+                                 <gmd:role>
+                                    <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="processor"/>
+                                 </gmd:role>
+                              </gmd:CI_ResponsibleParty>
+                           </gmd:processor>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                     <gmd:processStep xlink:type="simple">
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Couche 2007</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:dateTime>
+                              <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2008-08-20T01:00:00</gco:DateTime>
+                           </gmd:dateTime>
+                           <gmd:processor xlink:type="simple">
+                              <gmd:CI_ResponsibleParty>
+                                 <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:individualName>
+                                 <gmd:organisationName>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SANDRE</gco:CharacterString>
+                                 </gmd:organisationName>
+                                 <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:positionName>
+                                 <gmd:contactInfo xlink:type="simple">
+                                    <gmd:CI_Contact>
+                                       <gmd:phone xlink:type="simple">
+                                          <gmd:CI_Telephone>
+                                             <gmd:voice>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114790</gco:CharacterString>
+                                             </gmd:voice>
+                                             <gmd:facsimile>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114748</gco:CharacterString>
+                                             </gmd:facsimile>
+                                          </gmd:CI_Telephone>
+                                       </gmd:phone>
+                                       <gmd:address xlink:type="simple">
+                                          <gmd:CI_Address>
+                                             <gmd:deliveryPoint xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                                <gco:CharacterString/>
+                                             </gmd:deliveryPoint>
+                                             <gmd:city>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIMOGES</gco:CharacterString>
+                                             </gmd:city>
+                                             <gmd:administrativeArea>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">HAUTE-VIENNE</gco:CharacterString>
+                                             </gmd:administrativeArea>
+                                             <gmd:postalCode>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">87000</gco:CharacterString>
+                                             </gmd:postalCode>
+                                             <gmd:country>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                             </gmd:country>
+                                             <gmd:electronicMailAddress>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sandre@sandre.eaufrance.fr</gco:CharacterString>
+                                             </gmd:electronicMailAddress>
+                                          </gmd:CI_Address>
+                                       </gmd:address>
+                                    </gmd:CI_Contact>
+                                 </gmd:contactInfo>
+                                 <gmd:role>
+                                    <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="processor"/>
+                                 </gmd:role>
+                              </gmd:CI_ResponsibleParty>
+                           </gmd:processor>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                     <gmd:processStep xlink:type="simple">
+                        <gmd:LI_ProcessStep>
+                           <gmd:description>
+                              <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">Couche 2003 et 2000</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:dateTime>
+                              <gco:DateTime xmlns:gco="http://www.isotc211.org/2005/gco">2006-06-09T00:00:00</gco:DateTime>
+                           </gmd:dateTime>
+                           <gmd:processor xlink:type="simple">
+                              <gmd:CI_ResponsibleParty>
+                                 <gmd:individualName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:individualName>
+                                 <gmd:organisationName>
+                                    <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">SANDRE</gco:CharacterString>
+                                 </gmd:organisationName>
+                                 <gmd:positionName xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:positionName>
+                                 <gmd:contactInfo xlink:type="simple">
+                                    <gmd:CI_Contact>
+                                       <gmd:phone xlink:type="simple">
+                                          <gmd:CI_Telephone>
+                                             <gmd:voice>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114790</gco:CharacterString>
+                                             </gmd:voice>
+                                             <gmd:facsimile>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">+33555114748</gco:CharacterString>
+                                             </gmd:facsimile>
+                                          </gmd:CI_Telephone>
+                                       </gmd:phone>
+                                       <gmd:address xlink:type="simple">
+                                          <gmd:CI_Address>
+                                             <gmd:deliveryPoint xmlns:gco="http://www.isotc211.org/2005/gco" gco:nilReason="missing">
+                                                <gco:CharacterString/>
+                                             </gmd:deliveryPoint>
+                                             <gmd:city>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">LIMOGES</gco:CharacterString>
+                                             </gmd:city>
+                                             <gmd:administrativeArea>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">HAUTE-VIENNE</gco:CharacterString>
+                                             </gmd:administrativeArea>
+                                             <gmd:postalCode>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">87000</gco:CharacterString>
+                                             </gmd:postalCode>
+                                             <gmd:country>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">France</gco:CharacterString>
+                                             </gmd:country>
+                                             <gmd:electronicMailAddress>
+                                                <gco:CharacterString xmlns:gco="http://www.isotc211.org/2005/gco">sandre@sandre.eaufrance.fr</gco:CharacterString>
+                                             </gmd:electronicMailAddress>
+                                          </gmd:CI_Address>
+                                       </gmd:address>
+                                    </gmd:CI_Contact>
+                                 </gmd:contactInfo>
+                                 <gmd:role>
+                                    <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="processor"/>
+                                 </gmd:role>
+                              </gmd:CI_ResponsibleParty>
+                           </gmd:processor>
+                        </gmd:LI_ProcessStep>
+                     </gmd:processStep>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

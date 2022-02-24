@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/csw/2.0.2/profiles/apiso/1.0.0/apiso.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>42b6dcb3-2ee7-44e2-84a9-70f14c8e9f7e</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="gre"/>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8"/>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString>Υπουργείο Περιβάλλοντος και Ενέργειας</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>eygep.support@prv.ypeka.gr</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime>2019-11-15T12:03:11</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/2100">EPSG:2100</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Περιοχές Δυνητικά Υψηλού Κινδύνου Πλημμύρας (APSFR) Οδηγίας 2007/60 - Areas of Potential Significant Flood Risk (APSFR) for Directive 2007/60</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2017-01-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:code>
+                              <gco:CharacterString>NZ.RiskZone_FLD</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>http://www.ypeka.gr/nz</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Ζώνες (πολύγωνα) Δυνητικά Υψηλού Κινδύνου Πλημμύρας που προσδιορίστηκαν σε επίπεδο χώρας, στο πλαίσιο υλοποίησης της Προκαταρκτικής Αξιολόγησης Κινδύνων Πλημμύρας το 2012 και στο πλαίσιο της Προκαταρκτικής Αξιολόγησης Κινδύνων Πλημμύρας ΛΑΠ Έβρου το 2013, σε εφαρμογή της Οδηγίας 2007/60/ΕΚ. Polygon dataset with the APSFR zones for Directive 2007/60</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Υπουργείο Περιβάλλοντος και Ενέργειας</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>eygep.support@prv.ypeka.gr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Υπουργείο Περιβάλλοντος και Ενέργειας, Γενική Γραμματεία Φυσικού Περιβάλλοντος και Υδάτων, Διεύθυνση Προστασίας και Διαχείρισης Υδάτινου Περιβάλλοντος</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>info.egy@prv.ypeka.gr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>grggper@prv.ypeka.gr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="owner"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>http://geoportal.ypen.gr/geonetwork/srv/api/records/42b6dcb3-2ee7-44e2-84a9-70f14c8e9f7e/attachments/NZ.RiskZone_FLD.PNG</gco:CharacterString>
+                     </gmd:fileName>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/nz">Ζώνες φυσικών κινδύνων</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/AreasOfPotentialSignificantFloodRisk-dir-2007-60">Areas of Potential significant flood risk (Floods Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">Εθνικό</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">no limitations to public access</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Δεν έχουν προσδιοριστεί οι όροι πρόσβασης και χρήσης. Η χρήση των συνόλων γεωχωρικών δεδομένων της  Γεωπύλης του ΥΠΕΝ διέπεται από τους όρους της Άδειας Creative Commons Αναφορά Δημιουργού - Παρόμοια Διανομή 4.0 Διεθνές (CC BY-SA 4.0) (https://creativecommons.org/licenses/by-sa/4.0/deed.el). Η συγκεκριμένη άδεια χρήσης δεν έχει εγκριθεί επίσημα με κάποια διοικητική πράξη.</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>50000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="gre"/>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>geoscientificInformation</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>20.10046</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>28.5648</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>34.93275</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>41.67097</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gmx:Anchor xlink:href="https://www.iana.org/assignments/media-types/application/gml+xml">gml+xml</gmx:Anchor>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>3.2.1</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:transferSize>
+                        <gco:Real>0</gco:Real>
+                     </gmd:transferSize>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://geoportal.ypen.gr/geoserver/nz/ows?service=wms&amp;version=1.3.0&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:WMS-1.3.0-http-get-map</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>NZ.RiskZone_FLD</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Περιοχές Δυνητικά Υψηλού Κινδύνου Πλημμύρας (APSFR) Οδηγίας 2007/60 - Areas of Potential Significant Flood Risk (APSFR) for Directive 2007/60</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://geoportal.ypen.gr/geoserver/nz/ows?SERVICE=WFS&amp;request=GetCapabilities&amp;version=2.0.0&amp;service=WFS</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>OGC:WFS</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>nz:NZ.RiskZone_FLD</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Περιοχές Δυνητικά Υψηλού Κινδύνου Πλημμύρας (APSFR) Οδηγίας 2007/60 - Areas of Potential Significant Flood Risk (APSFR) for Directive 2007/60</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset"/>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult xsi:type="gmd:DQ_ConformanceResult_Type">
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">ΚΑΝΟΝΙΣΜΟΣ (ΕΕ) αριθ. 1089/2010 ΤΗΣ ΕΠΙΤΡΟΠΗΣ της 23ης Νοεμβρίου 2010 σχετικά με την εφαρμογή της οδηγίας 2007/2/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου όσον αφορά τη διαλειτουργικότητα των συνόλων και των υπηρεσιών χωρικών δεδομένων</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>See the referenced specification</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass gco:nilReason="unknown"/>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Για τον προσδιορισμό των Περιοχών Δυνητικά Υψηλού Κινδύνου Πλημμύρας, στο άρθρο 5 (παράγραφος 1) της Οδηγίας ορίζεται ότι: «Βάσει της προκαταρκτικής αξιολόγησης των κινδύνων πλημμύρας κατά το άρθρο 4, για κάθε περιοχή λεκάνης απορροής ποταμού ή μονάδα διαχείρισης του άρθρου 3 παράγραφος 2 (β) ή τμήμα διεθνούς περιοχής λεκάνης απορροής ποταμού που βρίσκεται εντός του εδάφους τους, τα κράτη μέλη προσδιορίζουν τις περιοχές για τις οποίες συμπεραίνουν ότι υπάρχουν δυνητικοί σοβαροί κίνδυνοι πλημμύρας ή ότι είναι πιθανόν να σημειωθεί πλημμύρα». Οι περιοχές Δυνητικά Υψηλού Κινδύνου Πλημμύρας (APSFR) ορίστηκαν συνδυάζοντας τα αποτελέσματα από την αξιολόγηση των σημαντικών ιστορικών πλημμυρών, τον προσδιορισμό των περιοχών όπου είναι πιθανόν να σημειωθεί πλημμύρα και των περιοχών με δυνητικά σημαντικές συνέπειες από μελλοντικές πλημμύρες. :Σαν περιοχές όπου είναι πιθανόν να σημειωθεί πλημμύρα ορίστηκαν αυτές που ικανοποιούν έναν από τους δύο παρακάτω περιορισμούς: α) Βρίσκονται σε θέσεις προσχωματικών αποθέσεων, β) Βρίσκονται σε έδαφος με κλίση μικρότερη από 2%. Η ένωση των δύο αυτών επιπέδων ορίζει τις περιοχές όπου είναι πιθανόν να σημειωθεί πλημμύρα. Οι περιοχές αυτές προσδιορίζονται ανεξάρτητα από τη θέση των Επιφανειακών Υδάτινων Σωμάτων και εκτιμάται ότι αποτυπώνουν τη δυσμενέστερη συνθήκη δυνητικού πλημμυρισμού. Για την επιλογή των προσχωματικών περιοχών χρησιμοποιήθηκαν οι υδρολιθολογικοί χάρτες από τα Σχέδια Διαχείρισης του ΥΠΑΝ (Ανάπτυξη συστημάτων και εργαλείων διαχείρισης υδατικών πόρων σε 13 Υδατικά Διαμερίσματα της χώρας, ΥΠΑΝ, 2008). Για την επιλογή των περιοχών με κλίσεις μικρότερες από 2% χρησιμοποιήθηκαν τα ψηφιακά μοντέλα εδάφους (DEM) της ΕΤΥΜΠ. Η κλίμακα και των δύο αυτών πρωτογενών πηγών είναι της τάξης του 1:50000. Για να οριστούν οι δυνητικές αρνητικές συνέπειες (στην ανθρώπινη υγεία, το περιβάλλον, την πολιτιστική κληρονομιά και την οικονομική δραστηριότητα) των μελλοντικών πλημμυρών, ακολουθήθηκαν οι κατευθυντήριες αρχές του εδαφίου 4.2.δ της Οδηγίας. Θεωρήθηκε ότι οι περιοχές όπου είναι πιθανόν να υπάρξουν αρνητικές συνέπειες είναι αυτές που περιέχουν: α) Πόλεις και οικισμούς, β) Βιομηχανικές και εμπορικές ζώνες, γ) Γεωργικές εκτάσεις με σημαντική οικονομική αξία, δ) Παραγωγικές μονάδες που ενδέχεται να προκαλέσουν ρύπανση, ε) Προστατευόμενες περιοχές, στ) Μνημεία πολιτιστικής κληρονομιάς, ζ) Υποδομές (οδικό, σιδηροδρομικό δίκτυο, λιμάνια, αεροδρόμια, νοσοκομεία, μεγάλα φράγματα). Τα σχετικά επίπεδα δεδομένων που αναζητήθηκαν και συλλέχτηκαν και οι πηγές τους περιγράφονται στη συνέχεια ανά κατηγορία: α) Ανθρώπινη υγεία. Θέση πόλεων και οικισμών σε κάθε Υδατικό Διαμέρισμα. Χρησιμοποιήθηκαν δεδομένα της ΕΓΥ από τα Σχέδια Διαχείρισης για την εφαρμογή της Οδηγίας 2000/60/ΕΚ και την ΕΤΥΜΠ (Εθνική Τράπεζα Υδρομετεωρολογικής Πληροφορίας), β) Περιβάλλον. Θέση εγκαταστάσεων οι οποίες ενδέχεται να προκαλέσουν τυχαία ρύπανση σε περίπτωση πλημμύρας (IPPC, κατά τα αναφερόμενα στο παράρτημα Ι της Οδηγίας 96/61/ΕΚ του Συμβουλίου, της 24ης Σεπτεμβρίου 1996). Χρησιμοποιήθηκαν δεδομένα της ΕΓΥ από τα Σχέδια Διαχείρισης για την εφαρμογή της Οδηγίας 2000/60/ΕΚ. Προστατευόμενες περιοχές (όπως ορίζονται στο παράρτημα IV, σημείο 1, σημεία i), iii) και v) της οδηγίας 2000/60/ΕΚ που ενδέχεται να πληγούν. Χρησιμοποιήθηκαν δεδομένα της ΕΓΥ από τα Σχέδια Διαχείρισης για την εφαρμογή της Οδηγίας 2000/60/ΕΚ και από την υποβολή του σχετικού άρθρου 13, γ) Πολιτιστική κληρονομιά. Αρχαία μνημεία και μνημεία παγκόσμιας κληρονομιάς της UNESCO. Χρησιμοποιήθηκαν δεδομένα από το υπουργείο Πολιτισμού (http://odysseus.culture.gr). δ) Οικονομική δραστηριότητα. Θέσεις βιομηχανικών και εμπορικών κέντρων. Χρησιμοποιήθηκαν δεδομένα από την κάλυψη γης του Corine 2000. Θέσεις γεωργικών εκτάσεων με σημαντική οικονομική αξία παραγωγής. Χρησιμοποιήθηκαν δεδομένα από την κάλυψη γης του Corine 2000. Θεωρήθηκαν σαν εκτάσεις με σημαντική οικονομική αξία οι κατηγορίες: αρδευόμενες εκτάσεις, μη αρδευόμενη αρόσιμη γη, αμπελώνες, σύνθετες καλλιέργειες και ετήσιες καλλιέργειες). Υποδομές. Θέση αεροδρομίων, οδικού και σιδηροδρομικού δικτύου, νοσοκομείων και μεγάλων φραγμάτων. Χρησιμοποιήθηκαν δεδομένα από την κάλυψη γης του Corine 2000, δεδομένα της ΕΓΥ από τα Σχέδια Διαχείρισης για την εφαρμογή της Οδηγίας 2000/60/ΕΚ και δεδομένα από την ΕΤΥΜΠ. Τελικά ορίστηκαν οι περιοχές Δυνητικά Υψηλού Κινδύνου Πλημμύρας (APSFR) από την τομή των περιοχών όπου είναι πιθανόν να σημειωθεί πλημμύρα και των περιοχών με δυνητικές αρνητικές συνέπειες. Μετά την τομή περιοχές με κοινό όριο ενώθηκαν ενώ για αυτές που έμειναν χωρίς όμορες τέθηκε ένα κατώφλι έκτασης 25 km2 κάτω από το οποίο οι περιοχές δεν εξετάζονται περισσότερο. Εξαιρέσεις υπήρξαν για περιοχές που έχουν έκταση μικρότερη από 25 km2, για τις οποίες όμως είτε γίνεται έντονη αναφορά για πλημμυρικά προβλήματα από τους περιφερειακούς φορείς είτε έχει σημειωθεί σημαντική ιστορική πλημμύρα. Θέσεις με σημαντικές πλημμύρες και με πάνω από τέσσερα (4) συμβάντα πλημμύρας έξω από τις επιλεγείσες Ζώνες Δυνητικά Υψηλού Κινδύνου Πλημμύρας, θα αποτελέσουν αντικείμενο μεμονωμένης διερεύνησης στο πλαίσιο των Σχεδίων Διαχείρισης Πλημμυρικού Κινδύνου (πρόκειται κυρίως για ορεινούς οικισμούς που τα προβλήματα οφείλονταν σε αστοχίες του δικτύου ομβρίων και των σχετικών τεχνικών έργων).</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

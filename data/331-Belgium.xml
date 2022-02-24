@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://schemas.opengis.net/iso/19139/20070417/gmx/gmx.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>bmdc.be:dataset:2100</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng">English</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">UTF-8</gmd:MD_CharacterSetCode>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">Dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Vautierstraat 29</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Rue Vautier 29</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:deliveryPoint>
+                           <gmd:city xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Brussel</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Brussels</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Brussel</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Bruxelles</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Brüssel</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:city>
+                           <gmd:postalCode>
+                              <gco:CharacterString>1000</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C32/current/BE">Belgium</gmx:Anchor>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>bmdc@naturalsciences.be</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                     <gmd:onlineResource>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://www.bmdc.be</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>http</gco:CharacterString>
+                           </gmd:protocol>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onlineResource>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">Point of contact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime>2021-12-08T13:27:52.335Z</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>Geographic information -- Metadata</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>ISO 19115:2003/19139</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:locale>
+            <gmd:PT_Locale id="NL">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="dut"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding/>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale>
+            <gmd:PT_Locale id="FR">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding/>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale>
+            <gmd:PT_Locale id="EN">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding/>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:locale>
+            <gmd:PT_Locale id="DE">
+               <gmd:languageCode>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger"/>
+               </gmd:languageCode>
+               <gmd:characterEncoding/>
+            </gmd:PT_Locale>
+         </gmd:locale>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gco:CharacterString>http://www.opengis.net/def/crs/EPSG/0/3035</gco:CharacterString>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Contaminants in biota and bird eggs dataset in support of the Marine Strategy Framework Directive (MSFD) Descriptor 8 (D08C01, 2018 Reporting)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Dataset i.v.m. verontreinigingen in biota en vogeleieren voor de Kaderrichtlijn Mariene Strategie (KRMS) Descriptor 8 (D08C01, Rapportage 2018)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Jeu de données sur les contaminants dans biota et les oeufs d'oiseaux en support de la Directive-cadre stratégie pour le milieu marin (DCSMM) Descripteur 8 (D08C01, Rapport 2018)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Contaminants in biota and bird eggs dataset in support of the Marine Strategy Framework Directive (MSFD) Descriptor 8 (D08C01, 2018 Reporting)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Datensatz über Kontaminanten in Biota und Vogeleier zur Unterstützung der Meeresstrategie-Rahmenrichtlinie Descriptor 8 (D08C01, Bericht 2018)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2018-10-10</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">Creation</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2019-11-20</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">Revision</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:authority>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>DataCite Digital Object Identifier</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2016-05-19</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:authority>
+                           <gmd:code>
+                              <gmx:Anchor xlink:href="https://doi.org/10.24417/bmdc.be:dataset:2100">10.24417/bmdc.be:dataset:2100</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                     <gmd:identifier>
+                        <gmd:RS_Identifier>
+                           <gmd:authority>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gco:CharacterString>Belgian Marine Data Centre</gco:CharacterString>
+                                 </gmd:title>
+                                 <gmd:date gco:nilReason="inapplicable"/>
+                              </gmd:CI_Citation>
+                           </gmd:authority>
+                           <gmd:code>
+                              <gco:CharacterString>bmdc.be:dataset:2100</gco:CharacterString>
+                           </gmd:code>
+                           <gmd:codeSpace>
+                              <gco:CharacterString>http://metadata.naturalsciences.be</gco:CharacterString>
+                           </gmd:codeSpace>
+                        </gmd:RS_Identifier>
+                     </gmd:identifier>
+                     <gmd:otherCitationDetails>
+                        <gco:CharacterString>Dataset composed of the following sources: Eric Stienen, Marc Van de walle (2018). Concentrations of Hg, PCB, DDT, HCB and HCH in bird eggs.Contaminants and prioriy substances in biota (INSPIRE-compliant GML).De Witte Bavo, De Cauwer Karien (2018). Contaminants in biota.GIS featuretype for bmdc_be_dataset_2100 (MSFD WFMS).De Cauwer Karien, De Witte Bavo (2018). Priority substances: biota.</gco:CharacterString>
+                     </gmd:otherCitationDetails>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+                  <gco:CharacterString>This dataset is part of the 2018 Belgian submission for the Marine Strategy Framework Directive (MSFD) linked to descriptor 8, criterion 1. This dataset describes the contaminant concentrations in biota. The priority substances mercury, hexachlorobutadiene and hexachlorobenzene are measured in mussels and flounder in the Belgian Part of the North Sea (BPNS). Results for other parameters that are part of the OSPAR (Convention for the Protection of the Marine Environment of the North-East Atlantic) Coordinated Environmental Monitoring Program are also included: polychlorinated biphenyls (PCBs), polycyclic aromatic hydrocarbons (PAHs), heavy metals, organotin compounds and polybrominated diphenyl ethers (PBDEs) for the period 2011-2016. The analyses are performed by Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO) and RBINS-OD Nature that both participate in the Quasimeme ring tests for additional quality control. Bird eggs of 2008, 2010 and 2015 are measured for mercury (Hg), dichlorodiphenyltrichloroethane (DDT), hexachlorobenzene (HCB) and hexachlorocyclohexane (HCH). Eggs from the are measured and compared with OSPAR norms Common Tern (Sterna hirundo) are gathered in Zeebrugge and are analyzed by the Insitut für vogelforschung in Wilhelmshaven according to a standard protocol.</gco:CharacterString>
+                  <gmd:PT_FreeText>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#NL">Deze dataset maakt deel uit van de Belgische inzending voor de Kaderrichtlijn Mariene Strategie (KRMS) 2018, gekoppeld aan descriptor 8, criterium 1. Deze dataset beschrijft de contaminantconcentraties in biota. De prioritaire stoffen kwik, hexachloorbutadieen en hexachloorbenzeen worden gemeten in mosselen en bot in het Belgisch deel van de Noordzee (BDNS). Resultaten voor andere parameters die deel uitmaken van het OSPAR (Verdrag voor de Bescherming van het Mariene Milieu van het Noordoost-Atlantische Oceaan) Gecoördineerd Milieuprogramma zijn ook inbegrepen: polychloorbifenylen (PCB's), polycyclische aromatische koolwaterstoffen (PAK's), zware metalen, organotinverbindingen en polygebromeerde difenylethers (PBDE's) voor de periode 2011-2016. De analyses worden uitgevoerd door Instituut voor Landbouw-, Visserij- en Voedingsonderzoek (ILVO) en KBIN-OD Nature die beide deelnemen aan de Quasimeme ringtesten voor extra kwaliteitscontrole.  Vogeleieren van 2008, 2010 en 2015 worden gemeten voor kwik (Hg), dichloordifenyltrichloorethaan (DDT), hexachloorbenzeen (HCB) en hexachloorcyclohexaan (HCH). Eieren van de dieren worden gemeten en vergeleken met OSPAR-normen. Gemeenschappelijke Stern (Sterna hirundo) wordt verzameld in Zeebrugge en wordt geanalyseerd door de Insitut für vogelforschung in Wilhelmshaven volgens een standaardprotocol.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#FR">Cet ensemble de données fait partie de la soumission belge de 2018 relative à la directive-cadre «stratégie pour le milieu marin» (DCSMM) associée au descripteur 8, critère 1. Cet ensemble de données décrit les concentrations de contaminants dans le biote. Les substances prioritaires mercure, hexachlorobutadiène et hexachlorobenzène sont mesurées dans les moules et la limande à queue dans la partie belge de la mer du Nord (BPNS). Les résultats pour d¿autres paramètres qui font partie du programme coordonné de surveillance de l¿environnement OSPAR (Convention pour la protection du milieu marin de l¿Atlantique Nord-Est) sont également inclus: biphényles polychlorés (BPC), hydrocarbures aromatiques polycycliques (HAP), métaux lourds, composés organostanniques et polybromodiphényléthers (PBDE) pour la période 2011-2016. Les analyses sont effectuées par Instituut voor Landbouw-, Visserijen-en-Voedingsonderzoek (ILVO) et RBINS-OD Nature, qui participent tous deux aux essais en anneau Quasimeme pour un contrôle de qualité supplémentaire.  Les œufs des oiseaux de 2008, 2010 et 2015 sont mesurés pour le mercure (Hg), le dichlorodiphényltrichloroéthane (DDT), l'hexachlorobenzène (HCB) et l'hexachlorocyclohexane (HCH). Les œufs de la sont mesurés et comparés aux normes OSPAR. La Sterne pierregarin (Sterna hirundo) est recueillie à Zeebrugge et analysée par l¿Insitut für vogelforschung de Wilhelmshaven selon un protocole standard.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#EN">This dataset is part of the 2018 Belgian submission for the Marine Strategy Framework Directive (MSFD) linked to descriptor 8, criterion 1. This dataset describes the contaminant concentrations in biota. The priority substances mercury, hexachlorobutadiene and hexachlorobenzene are measured in mussels and flounder in the BPNS. Results for other parameters that are part of the OSPAR Coordinated Environmental Monitoring Program are also included: polychlorinated biphenyls (PCBs), polycyclic aromatic hydrocarbons (PAHs), heavy metals, organotin-compounds and polybrominated diphenyl ethers (PBDEs) for the period 2011-2016. The analyses are performed by ILVO and KBIN-OD Nature that both participate in the Quasimeme ring tests for additional quality control. 
+Bird eggs of 2008, 2010 and 2015 are measured for mercury (Hg), dichlorodiphenyltrichloroethane (DDT), hexachlorobenzene (HCB) and hexachlorocyclohexane (HCH). Eggs from the are measured and compared with OSPAR norms Common Tern (Sterna hirundo) are gathered in Zeebrugge and are analyzed by the Insitut für vogelforschung in Wilhelmshaven according to a standard protocol.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                     <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#DE">Dieser Datensatz ist Teil der belgischen Vorlage für die Meeresstrategie-Rahmenrichtlinie (MSSR) aus dem Jahr 2018, die an Deskriptor 8, Kriterium 1, gebunden ist. Dieser Datensatz beschreibt die Schadstoffkonzentrationen in Biota. Die prioritären Substanzen Quecksilber, Hexachlorbutadien und Hexachlorbenzol werden in Muscheln und Flunder im belgischen Teil der Nordsee (BPNS) gemessen. Ergebnisse für andere Parameter, die Bestandteil des koordinierten Umweltüberwachungsprogramms von OSPAR (Übereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks) sind, sind ebenfalls enthalten: polychlorierte Biphenyle (PCB), polyzyklische aromatische Kohlenwasserstoffe (PAK), Schwermetalle, Organozinnverbindungen und polybromierte Diphenylether (PBDE) für den Zeitraum 2011-2016. Die Analysen werden von Instituut voor Landbouw-, Visserij- und Voedingsonderzoek (ILVO) und RBINS-OD Nature durchgeführt, die beide an den Quasimem-Ringtests zur zusätzlichen Qualitätskontrolle teilnehmen.  Vogeleier von 2008, 2010 und 2015 werden auf Quecksilber (Hg), Dichlordiphenyltrichlorethan (DDT), Hexachlorbenzol (HCB) und Hexachlorcyclohexan (HCH) gemessen. Eier aus dem ESS werden gemessen und mit den OSPAR-Normen Gewöhnliche Seeschwalbe (Sterna hirundo) verglichen, die in Zeebrugge gesammelt und vom Insitut für Vogelforschung in Wilhelmshaven nach einem Standardprotokoll analysiert werden.</gmd:LocalisedCharacterString>
+                     </gmd:textGroup>
+                  </gmd:PT_FreeText>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Vautierstraat 29</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Rue Vautier 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Brussel</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Brussels</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">Brussel</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Bruxelles</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Brüssel</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>1000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C32/current/BE">Belgium</gmx:Anchor>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>odnature@naturalsciences.be</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://odnature.naturalsciences.be/</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>http</gco:CharacterString>
+                                 </gmd:protocol>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="author">Author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Ecosystems Physico-Chemistry (ECOCHEM)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Ecosystems Physico-Chemistry (ECOCHEM)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature), Ecosystems Physico-Chemistry (ECOCHEM)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur), Ecosystems Physico-Chemistry (ECOCHEM)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur), Ecosystems Physico-Chemistry (ECOCHEM)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>3e en 23e Linieregimentsplein, Block S, 1st floor, 8400 OOSTENDE, Belgium</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>ecochem@naturalsciences.be</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://www.naturalsciences.be/nl/content/ecosystems-physico-chemistry-ecochem</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>http</gco:CharacterString>
+                                 </gmd:protocol>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="author">Author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Instituut voor Natuur- en Bosonderzoek / Research Institute for Nature and Forest (INBO)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Herman Teirlinckgebouw, Havenlaan 88 bus 73, 1000 Brussel, Belgium</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>info@inbo.be</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.inbo.be</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>http</gco:CharacterString>
+                                 </gmd:protocol>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="author">Author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Vautierstraat 29</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Rue Vautier 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gco:CharacterString>Brussel</gco:CharacterString>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Brussels</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">Brussel</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Bruxelles</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Brüssel</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:city>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>1000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C32/current/BE">Belgium</gmx:Anchor>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>bmdc@naturalsciences.be</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.bmdc.be</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>http</gco:CharacterString>
+                                 </gmd:protocol>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian">Custodian</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Instituut voor Landbouw- en Visserijonderzoek - Visserij (ILVO)</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Ankerstraat 1, 8400 Oostende</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>info@ilvo.be</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                           <gmd:onlineResource>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.ilvo.vlaanderen.be/</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>http</gco:CharacterString>
+                                 </gmd:protocol>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onlineResource>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="author">Author</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/of">Oceanographic geographical features</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Ozeanografisch-geografische Kennwerte</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Oceanographic geographical features</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Caractéristiques géographiques océanographiques</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Oceanografische geografische kenmerken</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>1.0</gco:CharacterString>
+                           </gmd:edition>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Reporting INSPIRE</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Reporting INSPIRE</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Federal government</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Federal government</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Federale Overheid</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Gouvernement Fédéral</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Bundesregierung</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/5044">marine pollution</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Meeresverunreinigung</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">marine pollution</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">pollution de la mer</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">zeevervuiling</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/5042">marine monitoring</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Meeresüberwachung</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">marine monitoring</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">surveillance du milieu marin</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">controle van de zee</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/6469">pollution monitoring</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Umweltmonitoring</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">pollution monitoring</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">surveillance de la pollution</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">bemonstering milieuverontreiniging</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/15228">Marine Strategy Framework Directive</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Meeresstrategie-Rahmenrichtlinie</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Marine Strategy Framework Directive</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">directive-cadre «stratégie pour le milieu marin»</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">kaderrichtlijn mariene strategie</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/en/themes">GEMET - Concepts, version 4.2.1</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2021-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>4.2.1</gco:CharacterString>
+                           </gmd:edition>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2008-56">Directive 2008/56/EC</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE Registry: Priority Datasets</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C45/current/D8">Contaminants do not produce pollution effects</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C45/current/">NERC Vocabulary Server - C45 Vocabulary version 3.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2017-02-25</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:edition>
+                              <gco:CharacterString>3.0</gco:CharacterString>
+                           </gmd:edition>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/featureconcept/OceanographicGeographicalFeatures">Oceanographic Geographical Features</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/featureconcept/">INSPIRE Registry: feature concepts</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2013-03-25</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">National</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">National</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Nationales</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Nationaal</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">National</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">INSPIRE Registry: Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://cdr.eionet.europa.eu/help/msfd/Schemas/MSFDCommon_2018.xsd#D8C1">(Criteria) D8C1 - Contaminant in environment</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">Theme</gmd:MD_KeywordTypeCode>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://cdr.eionet.europa.eu/help/msfd/Schemas/MSFDCommon_2018.xsd">Eionet Central Data Repository</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-06-15</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">Other restrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="https://creativecommons.org/licenses/by/2.0/">https://creativecommons.org/licenses/by/2.0/</gmx:Anchor>
+                     </gmd:otherConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply">No conditions apply to access and use</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">Other restrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">No limitations on public access.</gmx:Anchor>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">No limitations on public access.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Geen beperkingen op openbare toegang.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Pas de restrictions concernant l'accès public.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Öffentliche Zugang nicht beschränkt.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useLimitation xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>No conditions apply to use.</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">No conditions apply to use.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Geen voorwaarden in verband met gebruik.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Aucune condition ne s’applique à l'utilisation.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Es gelten keine Bedingungen zum Nutzung.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:useLimitation>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_SecurityConstraints>
+                     <gmd:classification>
+                        <gmd:MD_ClassificationCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ClassificationCode" codeListValue="unclassified">Unclassified</gmd:MD_ClassificationCode>
+                     </gmd:classification>
+                  </gmd:MD_SecurityConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">Vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng">English</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>2.24642</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>3.36315</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>51.0941</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>51.83082</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:temporalElement xmlns:gml32="http://www.opengis.net/gml/3.2">
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml32:TimePeriod gml32:id="IDcc1e2d9e-4a81-4dba-ba34-537ed506932a" xsi:type="gml32:TimePeriodType">
+                                 <gml32:beginPosition>2012-01-01</gml32:beginPosition>
+                                 <gml32:endPosition>2016-12-31</gml32:endPosition>
+                              </gml32:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>application/vnd.ms-excel</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>Unknown</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>application/gml+xml</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>Unknown</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>application/xml</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>Unknown</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Vautierstraat 29</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Rue Vautier 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Brussel</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Brussels</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Brussel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Bruxelles</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Brüssel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:city>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>1000</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C32/current/BE">Belgium</gmx:Anchor>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>bmdc@naturalsciences.be</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>http://www.bmdc.be</gmd:URL>
+                                       </gmd:linkage>
+                                       <gmd:protocol>
+                                          <gco:CharacterString>http</gco:CharacterString>
+                                       </gmd:protocol>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian">Custodian</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                     <gmd:distributorFormat>
+                        <gmd:MD_Format>
+                           <gmd:name>
+                              <gco:CharacterString>application/vnd.ms-excel</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:version>
+                              <gco:CharacterString>Unknown</gco:CharacterString>
+                           </gmd:version>
+                        </gmd:MD_Format>
+                     </gmd:distributorFormat>
+                     <gmd:distributorTransferOptions>
+                        <gmd:MD_DigitalTransferOptions>
+                           <gmd:transferSize>
+                              <gco:Real>0.034754</gco:Real>
+                           </gmd:transferSize>
+                           <gmd:onLine>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.bmdc.be/NODC/ditsAttach/datasource/6063/20190114_121810Contam_eggs_BE_2008-2015.xlsx</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                                 </gmd:protocol>
+                                 <gmd:description>
+                                    <gco:CharacterString>An HTTP link to download the dataset in Excel: Concentrations of Hg, PCB, DDT, HCB and HCH in bird eggs. Eric Stienen, Marc Van de walle</gco:CharacterString>
+                                 </gmd:description>
+                                 <gmd:function>
+                                    <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">Download</gmd:CI_OnLineFunctionCode>
+                                 </gmd:function>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onLine>
+                        </gmd:MD_DigitalTransferOptions>
+                     </gmd:distributorTransferOptions>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Vautierstraat 29</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Rue Vautier 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Brussel</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Brussels</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Brussel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Bruxelles</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Brüssel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:city>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>1000</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C32/current/BE">Belgium</gmx:Anchor>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>bmdc@naturalsciences.be</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>http://www.bmdc.be</gmd:URL>
+                                       </gmd:linkage>
+                                       <gmd:protocol>
+                                          <gco:CharacterString>http</gco:CharacterString>
+                                       </gmd:protocol>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian">Custodian</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                     <gmd:distributorFormat>
+                        <gmd:MD_Format>
+                           <gmd:name>
+                              <gco:CharacterString>application/gml+xml</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:version>
+                              <gco:CharacterString>Unknown</gco:CharacterString>
+                           </gmd:version>
+                        </gmd:MD_Format>
+                     </gmd:distributorFormat>
+                     <gmd:distributorTransferOptions>
+                        <gmd:MD_DigitalTransferOptions>
+                           <gmd:transferSize>
+                              <gco:Real>6.223507</gco:Real>
+                           </gmd:transferSize>
+                           <gmd:onLine>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>http://www.bmdc.be/NODC/ditsAttach/datasource/6418/20191030_105005IDOD_dataset2100.gml</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>WWW:DOWNLOAD-1.0-http--download</gco:CharacterString>
+                                 </gmd:protocol>
+                                 <gmd:description>
+                                    <gco:CharacterString>An HTTP link to download the dataset in INSPIRE-compliant GML: Contaminants and prioriy substances in biota (INSPIRE-compliant GML)</gco:CharacterString>
+                                 </gmd:description>
+                                 <gmd:function>
+                                    <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">Download</gmd:CI_OnLineFunctionCode>
+                                 </gmd:function>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onLine>
+                        </gmd:MD_DigitalTransferOptions>
+                     </gmd:distributorTransferOptions>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Vautierstraat 29</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Rue Vautier 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Brussel</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Brussels</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Brussel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Bruxelles</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Brüssel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:city>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>1000</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C32/current/BE">Belgium</gmx:Anchor>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>bmdc@naturalsciences.be</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>http://www.bmdc.be</gmd:URL>
+                                       </gmd:linkage>
+                                       <gmd:protocol>
+                                          <gco:CharacterString>http</gco:CharacterString>
+                                       </gmd:protocol>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian">Custodian</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                     <gmd:distributorFormat>
+                        <gmd:MD_Format>
+                           <gmd:name>
+                              <gco:CharacterString>application/xml</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:version>
+                              <gco:CharacterString>Unknown</gco:CharacterString>
+                           </gmd:version>
+                        </gmd:MD_Format>
+                     </gmd:distributorFormat>
+                     <gmd:distributorTransferOptions>
+                        <gmd:MD_DigitalTransferOptions>
+                           <gmd:transferSize>
+                              <gco:Real>0.105619</gco:Real>
+                           </gmd:transferSize>
+                           <gmd:onLine>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://spatial.naturalsciences.be/geoserver/idod/ows?version=2.0.0&amp;service=WFS&amp;request=GetCapabilities</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>OGC:WFS</gco:CharacterString>
+                                 </gmd:protocol>
+                                 <gmd:name>
+                                    <gco:CharacterString>idod:bmdc_be_dataset_2100</gco:CharacterString>
+                                 </gmd:name>
+                                 <gmd:description>
+                                    <gco:CharacterString>A WFS service to download: GIS featuretype for bmdc_be_dataset_2100 (MSFD WFMS)</gco:CharacterString>
+                                 </gmd:description>
+                                 <gmd:function>
+                                    <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">Download</gmd:CI_OnLineFunctionCode>
+                                 </gmd:function>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onLine>
+                        </gmd:MD_DigitalTransferOptions>
+                     </gmd:distributorTransferOptions>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+               <gmd:distributor>
+                  <gmd:MD_Distributor>
+                     <gmd:distributorContact>
+                        <gmd:CI_ResponsibleParty>
+                           <gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">Royal Belgian Institute for Natural Sciences (RBINS), Directorate Natural Environment (OD Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Institut royal des Sciences naturelles de Belgique (IRSNB), Direction opérationnelle Milieux naturels (DO Nature), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Operationele Directie Natuurlijk Milieu (OD Natuur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Königliches Belgisches Institut für Naturwissenschaften (KBIN), Operationelle Direktion Natürliche Umwelt (OD Natur), Belgian Marine Data Centre (BMDC)</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:organisationName>
+                           <gmd:contactInfo>
+                              <gmd:CI_Contact>
+                                 <gmd:address>
+                                    <gmd:CI_Address>
+                                       <gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Vautierstraat 29</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Rue Vautier 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Vautierstraat 29</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:deliveryPoint>
+                                       <gmd:city xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gco:CharacterString>Brussel</gco:CharacterString>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Brussels</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">Brussel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Bruxelles</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Brüssel</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:city>
+                                       <gmd:postalCode>
+                                          <gco:CharacterString>1000</gco:CharacterString>
+                                       </gmd:postalCode>
+                                       <gmd:country xsi:type="gmd:PT_FreeText_PropertyType">
+                                          <gmx:Anchor xlink:href="http://vocab.nerc.ac.uk/collection/C32/current/BE">Belgium</gmx:Anchor>
+                                          <gmd:PT_FreeText>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#EN">Belgium</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#FR">Belgique</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#NL">België</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                             <gmd:textGroup>
+                                                <gmd:LocalisedCharacterString locale="#DE">Belgien</gmd:LocalisedCharacterString>
+                                             </gmd:textGroup>
+                                          </gmd:PT_FreeText>
+                                       </gmd:country>
+                                       <gmd:electronicMailAddress>
+                                          <gco:CharacterString>bmdc@naturalsciences.be</gco:CharacterString>
+                                       </gmd:electronicMailAddress>
+                                    </gmd:CI_Address>
+                                 </gmd:address>
+                                 <gmd:onlineResource>
+                                    <gmd:CI_OnlineResource>
+                                       <gmd:linkage>
+                                          <gmd:URL>http://www.bmdc.be</gmd:URL>
+                                       </gmd:linkage>
+                                       <gmd:protocol>
+                                          <gco:CharacterString>http</gco:CharacterString>
+                                       </gmd:protocol>
+                                    </gmd:CI_OnlineResource>
+                                 </gmd:onlineResource>
+                              </gmd:CI_Contact>
+                           </gmd:contactInfo>
+                           <gmd:role>
+                              <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="custodian">Custodian</gmd:CI_RoleCode>
+                           </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                     </gmd:distributorContact>
+                     <gmd:distributorFormat>
+                        <gmd:MD_Format>
+                           <gmd:name>
+                              <gco:CharacterString>application/xml</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:version>
+                              <gco:CharacterString>Unknown</gco:CharacterString>
+                           </gmd:version>
+                        </gmd:MD_Format>
+                     </gmd:distributorFormat>
+                     <gmd:distributorTransferOptions>
+                        <gmd:MD_DigitalTransferOptions>
+                           <gmd:transferSize>
+                              <gco:Real>0.212657</gco:Real>
+                           </gmd:transferSize>
+                           <gmd:onLine>
+                              <gmd:CI_OnlineResource>
+                                 <gmd:linkage>
+                                    <gmd:URL>https://spatial.naturalsciences.be/geoserver/idod/ows?version=1.3.0&amp;service=WMS&amp;request=GetCapabilities</gmd:URL>
+                                 </gmd:linkage>
+                                 <gmd:protocol>
+                                    <gco:CharacterString>OGC:WMS</gco:CharacterString>
+                                 </gmd:protocol>
+                                 <gmd:name>
+                                    <gco:CharacterString>idod:bmdc_be_dataset_2100</gco:CharacterString>
+                                 </gmd:name>
+                                 <gmd:description>
+                                    <gco:CharacterString>A WMS service to view a map of: GIS featuretype for bmdc_be_dataset_2100 (MSFD WFMS)</gco:CharacterString>
+                                 </gmd:description>
+                              </gmd:CI_OnlineResource>
+                           </gmd:onLine>
+                        </gmd:MD_DigitalTransferOptions>
+                     </gmd:distributorTransferOptions>
+                  </gmd:MD_Distributor>
+               </gmd:distributor>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">Dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+                                    <gmx:Anchor xlink:href="https://eur-lex.europa.eu/eli/reg/2010/1089">COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmx:Anchor>
+                                    <gmd:PT_FreeText>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#EN">COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#NL">Verordening (EU) n r. 1089/2010 van de Commissie van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#FR">Règlement (UE) N° 1089/2010 de la Commission du 23 novembre 2010 portant modalités d'application de la directive 2007/2/CE du Parlement européen et du Conseil en ce qui concerne l'interopérabilité des séries et des services de données géographiques</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                       <gmd:textGroup>
+                                          <gmd:LocalisedCharacterString locale="#DE">Verordnung (EG) Nr. 1089/2010 der Kommission vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten</gmd:LocalisedCharacterString>
+                                       </gmd:textGroup>
+                                    </gmd:PT_FreeText>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation xsi:type="gmd:PT_FreeText_PropertyType">
+                              <gco:CharacterString>See the referenced specification</gco:CharacterString>
+                              <gmd:PT_FreeText>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#EN">See the referenced specification</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#NL">Zie de gerefereerde specificatie</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#FR">Voir la spécification référencée</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                                 <gmd:textGroup>
+                                    <gmd:LocalisedCharacterString locale="#DE">Siehe die angegebene Spezifikation</gmd:LocalisedCharacterString>
+                                 </gmd:textGroup>
+                              </gmd:PT_FreeText>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement xsi:type="gmd:PT_FreeText_PropertyType">
+                        <gco:CharacterString>Marine environmental pollutants measured in marine species and bird eggs are analysed by ECOCHEM (the laboratory of RBINS-OD Nature accredited for these analyses according to ISO 17025) and imported into the IDOD database of the Belgian Marine Data Centre, following the BMDC Quality Management System. Multiple consistency checks are performed at this point, on information harmonisation, international standards mapping and value QC (units, analysis methods and outliers). The data is then dynamically made available through WFS and statically converted to an INSPIRE-compliant GML file.</gco:CharacterString>
+                        <gmd:PT_FreeText>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#NL">Mariene milieuverontreinigende stoffen gemeten in mariene soorten en vogeleieren worden geanalyseerd door ECOCHEM (het laboratorium van KBIN-OD Natuur geaccrediteerd voor deze analyses volgens ISO 17025) en geïmporteerd in de IDOD-database van het Belgian Marine Data Centre, volgens het BMDC Quality Management System. Meerdere consistentiecontroles worden uitgevoerd op dit punt, op informatieharmonisatie, internationale standaardtoewijzing en waarde-QC (eenheden, analysemethoden en uitschieters). De gegevens worden vervolgens dynamisch beschikbaar gemaakt via WFS en statisch geconverteerd naar een INSPIRE-compliant GML-bestand.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#FR">Les polluants de l'environnement marin mesurés dans les espèces marines et les œufs d'oiseaux sont analysés par ECOCHEM (le laboratoroire de l'IRSNB-DO Nature accredité pour ces analyses selon ISO 17025) et importés dans la base de données IDOD du Belgian Marine Data Centre, conformément au système de gestion de la qualité BMDC. Plusieurs vérifications de cohérence sont alors effectuées sur l'harmonisation des informations, la cartographie des normes internationales et le contrôle de la valeur (unités, méthodes d'analyse et valeurs aberrantes). Les données sont ensuite rendues disponibles de manière dynamique via WFS et converties de manière statique en un fichier GML compatible INSPIRE.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#EN">Marine environmental pollutants measured in marine species and bird eggs are analysed by ECOCHEM (the laboratory of RBINS-OD Nature accredited for these analyses according to ISO 17025) and imported into the IDOD database of the Belgian Marine Data Centre, following the BMDC Quality Management System. Multiple consistency checks are performed at this point, on information harmonisation, international standards mapping and value QC (units, analysis methods and outliers). The data is then dynamically made available through WFS and statically converted to an INSPIRE-compliant GML file.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                           <gmd:textGroup>
+                              <gmd:LocalisedCharacterString locale="#DE">Die in Meeresarten und Vogeleier gemessenen Meeresumweltschadstoffe werden von ECOCHEM (das für diese Analysen akkreditierte Labor von KBIN-OD Natur gemäß ISO 17025) analysiert und nach dem BMDC-Qualitätsmanagementsystem in die IDOD-Datenbank des Belgian Marine Data Centre importiert. An dieser Stelle werden mehrere Konsistenzprüfungen durchgeführt, in Bezug auf die Harmonisierung von Informationen, die Abbildung internationaler Standards und die Qualitätskontrolle (Einheiten, Analysemethoden und Ausreißer). Die Daten werden dann dynamisch über WFS verfügbar gemacht und statisch in eine INSPIRE-kompatible GML-Datei konvertiert.</gmd:LocalisedCharacterString>
+                           </gmd:textGroup>
+                        </gmd:PT_FreeText>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

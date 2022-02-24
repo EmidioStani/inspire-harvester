@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/gmx http://www.isotc211.org/2005/gmx/gmx.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>d9da7199-57cd-40e7-ab37-cee79cd9e109</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="hrv">hrvatski</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">skup</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:individualName>
+                  <gco:CharacterString>Sandra Šturlan Popović</gco:CharacterString>
+               </gmd:individualName>
+               <gmd:organisationName>
+                  <gco:CharacterString>Hrvatske vode</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:positionName gco:nilReason="missing">
+                  <gco:CharacterString/>
+               </gmd:positionName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:phone>
+                        <gmd:CI_Telephone>
+                           <gmd:voice>
+                              <gco:CharacterString>01/6307-668</gco:CharacterString>
+                           </gmd:voice>
+                           <gmd:facsimile gco:nilReason="missing">
+                              <gco:CharacterString/>
+                           </gmd:facsimile>
+                        </gmd:CI_Telephone>
+                     </gmd:phone>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:deliveryPoint>
+                              <gco:CharacterString>Ulica grada Vukovara 220</gco:CharacterString>
+                           </gmd:deliveryPoint>
+                           <gmd:city>
+                              <gco:CharacterString>Zagreb</gco:CharacterString>
+                           </gmd:city>
+                           <gmd:administrativeArea gco:nilReason="missing">
+                              <gco:CharacterString/>
+                           </gmd:administrativeArea>
+                           <gmd:postalCode>
+                              <gco:CharacterString>10000</gco:CharacterString>
+                           </gmd:postalCode>
+                           <gmd:country>
+                              <gco:CharacterString>Hrvatska</gco:CharacterString>
+                           </gmd:country>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>sandra.sturlanpopovic@voda.hr</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:DateTime>2021-12-08T12:35:48</gco:DateTime>
+         </gmd:dateStamp>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/3765">EPSG:3765</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Registar zaštićenih područja - područja posebne zaštite voda</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>Registar zaštićenih područja</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:alternateTitle>
+                        <gco:CharacterString>RZP</gco:CharacterString>
+                     </gmd:alternateTitle>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2017-07-01</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revidirano</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor xlink:href="http://geoportal.nipp.hr/hr/nipp/pp/0166">http://geoportal.nipp.hr/hr/nipp/pp/0166</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Zaštićena područja - područja posebne zaštite vode su ona područja gdje je radi zaštite voda i vodnoga okoliša potrebno provesti dodatne mjere zaštite, određuju se na temelju Zakona o vodama (NN 153/09, 63/11, 130/11, 56/13, 14/14) i posebnih propisa.
+Zaštićena područja - područja posebne zaštite vode obuhvaćaju:
+A - područja zaštite vode namijenjene ljudskoj potrošnji (zaštićena područja površinskih voda, zaštićena područja podzemnih voda, zone sanitarne zaštite izvorišta, područja namijenjena zahvaćanju vode za ljudsku potrošnju),
+B - područja pogodna za zaštitu gospodarski značajnih vodenih organizama (područja voda pogodnih za život slatkovodnih riba, područja voda pogodnih za život i rast školjkaša),
+C - područja za kupanje i rekreaciju (na kopnenim površinskim vodama - kupališta, na moru - morske plaže),
+D - područja podložna eutrofikaciji i područja ranjiva na nitrate (eutrofna područja, sliv osjetljivog područja, područja ranjiva na nitrate poljoprivrednog porijekla),
+E - područja namijenjena zaštiti staništa ili vrsta gdje je održavanje ili poboljšanje stanja voda bitan element njihove zaštite sukladno Zakonu o vodama i/ili propisima o zaštiti prirode (ekološka mreža Natura 2000, zaštićene prirodne vrijednosti, zaštićena područja prirode),
+F - područja loše izmjene voda priobalnim vodama, osjetljivost kojih se ocjenjuje u odnosu na ispuštanje komunalnih otpadnih voda.
+Prema Zakonu o vodama Hrvatske vode izradile su Registar zaštićenih područja - područja posebne zaštite voda, te ga redovito obnavljaju i dopunjavaju sukladno Zakonom propisanoj proceduri.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:individualName>
+                        <gco:CharacterString>Sandra Šturlan Popović</gco:CharacterString>
+                     </gmd:individualName>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Hrvatske vode</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:positionName gco:nilReason="missing">
+                        <gco:CharacterString/>
+                     </gmd:positionName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:phone>
+                              <gmd:CI_Telephone>
+                                 <gmd:voice>
+                                    <gco:CharacterString>01/6307-668</gco:CharacterString>
+                                 </gmd:voice>
+                                 <gmd:facsimile gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:facsimile>
+                              </gmd:CI_Telephone>
+                           </gmd:phone>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:deliveryPoint>
+                                    <gco:CharacterString>Ulica grada Vukovara 220</gco:CharacterString>
+                                 </gmd:deliveryPoint>
+                                 <gmd:city>
+                                    <gco:CharacterString>Zagreb</gco:CharacterString>
+                                 </gmd:city>
+                                 <gmd:administrativeArea gco:nilReason="missing">
+                                    <gco:CharacterString/>
+                                 </gmd:administrativeArea>
+                                 <gmd:postalCode>
+                                    <gco:CharacterString>10000</gco:CharacterString>
+                                 </gmd:postalCode>
+                                 <gmd:country>
+                                    <gco:CharacterString>Hrvatska</gco:CharacterString>
+                                 </gmd:country>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>sandra.sturlanpopovic@voda.hr</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:resourceMaintenance>
+                  <gmd:MD_MaintenanceInformation>
+                     <gmd:maintenanceAndUpdateFrequency>
+                        <gmd:MD_MaintenanceFrequencyCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">prema potrebi</gmd:MD_MaintenanceFrequencyCode>
+                     </gmd:maintenanceAndUpdateFrequency>
+                     <gmd:maintenanceNote>
+                        <gco:CharacterString>Ažurira se prema potrebi</gco:CharacterString>
+                     </gmd:maintenanceNote>
+                  </gmd:MD_MaintenanceInformation>
+               </gmd:resourceMaintenance>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Hrvatske vode</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>zaštićena područja</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>područja posebne zaštite voda</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Područja upravljanja/zaštićena područja/uređena područja i jedinice za izvješćivanje</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>inspiregeoportal</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/am">Area management/restriction/regulation zones and reporting units</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-05-23</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="https://geoportal.nipp.hr:443/geonetwork/srv/eng/thesaurus.download?ref=external.theme.inspire-theme">geonetwork.thesaurus.external.theme.inspire-theme</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2000-60">Direktiva 2000/60/EK</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset">INSPIRE priority data set</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="https://geoportal.nipp.hr:443/geonetwork/srv/eng/thesaurus.download?ref=external.theme.PriorityDataset2018">geonetwork.thesaurus.external.theme.PriorityDataset2018</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="https://geoportal.nipp.hr:443/geonetwork/srv/eng/thesaurus.download?ref=external.theme.SpatialScope">geonetwork.thesaurus.external.theme.SpatialScope</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="">Prikazane geografske informacije, podaci i servisi informativne su prirode te se ne smiju koristiti u komercijalne svrhe i ne mogu služiti kao javna isprava. Korisnik podataka prihvaća sve rizike koji nastaju njegovim korištenjem te prihvaća koristiti podatke isključivo na vlastitu odgovornost. Ukoliko se podaci žele koristiti za druge svrhe osim navedene potrebno je, prema Zakonu o pravu na pristup informacijama, podnijeti Zahtjev za pristup informacijama u skladu sa procedurom detaljnije opisanom na mrežnoj stranici Hrvatskih voda http://www.voda.hr/hr/pristup-informacijama</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">nema ograničenja javnom pristupu</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector"/>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>100000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="hrv">hrvatski</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>inlandWaters</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:extentTypeCode>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:extentTypeCode>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>13.01</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>19.45</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>41.62</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>46.55</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml:TimePeriod gml:id="IDcd3b1c4f-b5f7-439a-afc4-3317a4cd89be">
+                                 <gml:beginPosition>2013-01-01</gml:beginPosition>
+                                 <gml:endPosition indeterminatePosition="unknown"/>
+                              </gml:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo xmlns:che="http://www.geocat.ch/2008/che">
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>1.0</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://www.voda.hr/hr/zakoni</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://servisi.voda.hr/zasticena_podrucja/wms?SERVICE=WMS&amp;REQUEST=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine uuidref="89c554d1-3f12-4302-9d57-3969d84059b8">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://servisi.voda.hr/am2/wms?service=WMS&amp;request=getcapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:protocol>
+                              <gco:CharacterString>WWW:LINK-1.0-http--link</gco:CharacterString>
+                           </gmd:protocol>
+                           <gmd:name>
+                              <gco:CharacterString>Područja upravljanja - Registar aglomeracija - WMS - INSPIRE</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Područja upravljanja - Registar aglomeracija - WMS - INSPIRE</gco:CharacterString>
+                           </gmd:description>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine xmlns:gn="http://www.fao.org/geonetwork" xmlns:srv="http://www.isotc211.org/2005/srv">
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://servisi.voda.hr/am3/wfs?service=wfs&amp;request=GetCapabilities</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>Područja upravljanja - Registar aglomeracija - WFS - INSPIRE</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:description>
+                              <gco:CharacterString>Područja upravljanja - Registar aglomeracija - WFS - INSPIRE</gco:CharacterString>
+                           </gmd:description>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">skup</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult xsi:type="gmd:DQ_ConformanceResult_Type">
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="">WISE GIS Guidance, version 6.0.6</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2016-04-29</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>struktura podataka usklađena je sa zahtjevima navedenog priručnika</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:srv="http://www.isotc211.org/2005/srv">
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="">INSPIRE Implementing rules</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2018-05-24</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>See the referenced specification</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:report xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:srv="http://www.isotc211.org/2005/srv">
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="https://standards.iso.org/iso/19139/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Podaci nisu u skladu s INSPIRE provedbenim pravilima za međuoperativnost skupova prostornih podataka i usluga.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>A - područja zaštite vode namijenjene za ljudsku potrošnju ili rezervirane za te namjene u budućnosti (Zaštićena područja površinskih voda namijenjenih za ljudsku potrošnju određena su Planom upravljanja vodnim područjima 2016.-2021. (NN 66/16). Prostorni podaci zaštićenih područja površinskih voda nastali su koristeći prostorne podatke površinskih voda (digitalizirane s topografskih karata mjerila 1:25000/1:100000 i ažurirane u skladu s poznatim promjenama na terenu). Zaštićena područja podzemnih voda namijenjenih za ljudsku potrošnju ili rezerviranih za te namjene u budućnosti određena su Planom upravljanja vodnim područjima 2016.-2021. (NN 66/16). Prostorni podaci zaštićenih područja podzemnih voda nastali su koristeći prostorne podatke tijela podzemnih voda (podloga DGU RPJ 2013.). Zone sanitarne zaštite izvorišta uspostavljaju se radi zaštite područja izvorišta ili drugog ležišta vode koja se koristi ili je rezervirana za javnu vodoopskrbu. Zone se utvrđuju prema uvjetima propisanima u Pravilniku o uvjetima za utvrđivanje zona sanitarne zaštite izvorišta (NN 66/11 i 47/13) koji propisuje i obvezu izrade elaborata zona sanitarne zaštite. Elaborat sadrži grafički prikaz zona, te pripadajuće prostorne podatke u digitalnom obliku pogodnom za daljnju obradu u GIS aplikacijama. Predstavničko tijelo jedinice lokalne ili regionalne samouprave donosi i objavljuje Odluku o zaštiti izvorišta po zonama sanitarne zaštite. Prostorni podaci zona sanitarne zaštite izvorišta nastali su na osnovu dostavljenih podataka. Područja namijenjena zahvaćanju vode za ljudsku potrošnju na kojima je zbog postizanja ciljeva kakvoće voda potrebno provesti višu razinu ili viši stupanj pročišćavanja komunalnih otpadnih voda određena su prema Odluci o određivanju osjetljivih područja (NN 81/10, 141/15). Prostorni podaci područja namijenjenih zahvaćanju vode za ljudsku potrošnju nastali su prema kriterijima određivanja osjetljivih područja koristeći podloge DGU-a TK25 i RPJ 2013.)  B - područja pogodna za zaštitu gospodarski značajnih vodenih organizama (Zaštićena područja voda pogodnih za život slatkovodnih riba proglašena su na dijelovima kopnenih površinskih voda Odlukom o određivanju područja voda pogodnih za život slatkovodnih riba (NN 33/11). Granice područja određene su početnom i krajnjom koordinatnom točkom na površini voda. Prostorni podaci zaštićenih područja voda pogodnih za život slatkovodnih riba nastali su koristeći prostorne podatke površinskih voda (digitalizirane s topografskih karata mjerila 1:25000/1:100000 i ažurirane u skladu s poznatim promjenama na terenu) i koordinate granica područja iz Odluke. Zaštićena područja voda pogodnih za život i rast školjkaša proglašena su na dijelovima Jadranskog mora Odlukom o određivanju voda pogodnih za život i rast školjkaša (NN 78/11). Granice područja određene su na području prijelaznih i priobalnih voda koordinatnim točkama. Prostorni podaci zaštićenih područja voda pogodnih za život i rast školjkaša nastali su koristeći prostorne podatke prijelaznih i priobalnih voda (podloga DGU RPJ 2013.) i koordinate granica područja iz Odluke.) C - područja za kupanje i rekreaciju (Zaštićena područja za kupanje i rekreaciju na kopnenim površinskim vodama (kupališta) proglašavaju se svake godine prije početka sezone kupanja odlukom jedinica lokalne samouprave. Podatke propisane Uredbom o kakvoći vode za kupanje (NN 51/14) uključivo i koordinate točaka monitoringa jedinice lokalne samouprave dostavljaju Hrvatskim vodama. Prostorni podaci kupališta nastali su iz dostavljenih podataka za 2017. godinu. Zaštićena područja za kupanje i rekreaciju na moru (morske plaže) određuje i proglašava odlukom predstavničko tijelo regionalne samouprave prije početka svake sezone kupanja. Hrvatska agencija za okoliš i prirodu dostavlja Europskoj komisiji, svake godine prije početka sezone kupanja, popis morskih plaža kroz sustav EIONET mreže. Prostorni podaci morskih plaža nastali su na osnovu podataka dostavljenih Europskoj komisiji 2017. godine.) D - područja podložna eutrofikaciji i područja ranjiva na nitrate (Eutrofna područja i pripadajući sliv osjetljivog područja, na kojima je zbog postizanja ciljeva kakvoće voda potrebno provesti višu razinu ili viši stupanj pročišćavanja komunalnih otpadnih voda, određena su prema Odluci o određivanju osjetljivih područja (NN 81/10, 141/15). Prostorni podaci eutrofnih područja i sliva osjetljivog područja nastali su prema kriterijima određivanja osjetljivih područja koristeći podloge DGU-a TK25 i RPJ 2013. Područja ranjiva na nitrate poljoprivrednog porijekla, na kojima je potrebno provesti pojačane mjere zaštite voda od onečišćenja nitratima poljoprivrednog porijekla, određena su Odlukom o određivanju ranjivih područja u Republici Hrvatskoj (NN 130/12) sukladno kriterijima utvrđenim Uredbom o standardu kakvoće voda (NN 73/13, 151/14, 78/15, 61/16). Prostorni podaci ranjivih područja nastali su prema kriterijima određivanja ranjivih područja koristeći podlogu DGU-a RPJ 2013.) E - područja namijenjena zaštiti staništa ili vrsta gdje je održavanje ili poboljšanje stanja voda bitan element njihove zaštite sukladno Zakonu o vodama i/ili propisima o zaštiti prirode(Dijelovi Ekološke mreže Natura 2000 gdje je održavanje ili poboljšanje stanja voda bitan element njihove zaštite izdvojeni su u suradnji s Hrvatskom agencijom za okoliš i prirodu i samo ta područja su evidentirana u Registru zaštićenih područja - područja posebne zaštite voda. Prostorni podaci za navedena područja nastali su iz prostornih podataka područja Ekološke mreže Natura 2000 u RH dostavljenih u centralno spremište podataka (CDR) Europske komisije prema zahtjevima izvješćivanja Direktive o očuvanju divljih ptica (2009/147/EK) i Direktive o očuvanju prirodnih staništa i divlje faune i flore (92/43/EK) - GIS_Natura2000_HR_2015. Zaštićene prirodne vrijednosti kod kojih je održavanje ili poboljšanje stanja voda bitan element njihove zaštite izdvojena su u suradnji s Hrvatskom agencijom za okoliš i prirodu iz Zaštićenih područja RH prema Zakonu o zaštiti prirode (NN 80/13) i samo ta područja su evidentirana u Registru zaštićenih područja - područja posebne zaštite voda. Prostorni podaci  za navedena područja nastali su preuzimanjem podataka iz WFS servisa Zaštićena područja RH 2016. godine. Zaštićena područja prirode na kojima je zbog postizanja ciljeva kakvoće voda potrebno provesti višu razinu ili viši stupanj pročišćavanja komunalnih otpadnih voda određena su prema Odluci o određivanju osjetljivih područja (NN 81/10, 141/15). Prostorni podaci zaštićenih područja prirode nastali su prema kriterijima određivanja osjetljivih područja koristeći preuzete podatake iz WFS servisa Zaštićena područja RH 2015. godine.) F - područja loše izmjene voda priobalnim vodama, osjetljivost kojih se ocjenjuje u odnosu na ispuštanje komunalnih otpadnih voda. (Područja estuarija i priobalnih voda koja su eutrofna ili bi mogla postati eutrofna zbog loše izmjene voda ili unosa veće količine hranjivih tvari i pripadajući slivovi osjetljivih područja, na kojima je zbog postizanja ciljeva kakvoće voda potrebno provesti višu razinu ili viši stupanj pročišćavanja komunalnih otpadnih voda, određena su prema Odluci o određivanju osjetljivih područja (NN 81/10, 141/15). Prostorni podaci nastali su prema kriterijima određivanja osjetljivih područja koristeći podloge DGU-a TK25 i RPJ 2013.)</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>

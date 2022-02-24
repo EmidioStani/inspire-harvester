@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:gml="http://www.opengis.net/gml" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd https://inspire.ec.europa.eu/draft-schemas/inspire-md-schemas-temp/apiso-inspire/apiso-inspire.xsd">
+         <gmd:fileIdentifier>
+            <gco:CharacterString>{ED80465E-135B-4391-AA8A-FE2038FB224D}</gco:CharacterString>
+         </gmd:fileIdentifier>
+         <gmd:language>
+            <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fin">fin</gmd:LanguageCode>
+         </gmd:language>
+         <gmd:characterSet>
+            <gmd:MD_CharacterSetCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+         </gmd:characterSet>
+         <gmd:hierarchyLevel>
+            <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+         </gmd:hierarchyLevel>
+         <gmd:contact>
+            <gmd:CI_ResponsibleParty>
+               <gmd:organisationName>
+                  <gco:CharacterString>Suomen ympäristökeskus</gco:CharacterString>
+               </gmd:organisationName>
+               <gmd:contactInfo>
+                  <gmd:CI_Contact>
+                     <gmd:address>
+                        <gmd:CI_Address>
+                           <gmd:electronicMailAddress>
+                              <gco:CharacterString>gistuki@syke.fi</gco:CharacterString>
+                           </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                     </gmd:address>
+                  </gmd:CI_Contact>
+               </gmd:contactInfo>
+               <gmd:role>
+                  <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+               </gmd:role>
+            </gmd:CI_ResponsibleParty>
+         </gmd:contact>
+         <gmd:dateStamp>
+            <gco:Date>2021-11-10</gco:Date>
+         </gmd:dateStamp>
+         <gmd:metadataStandardName>
+            <gco:CharacterString>ISO 19115</gco:CharacterString>
+         </gmd:metadataStandardName>
+         <gmd:metadataStandardVersion>
+            <gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+         </gmd:metadataStandardVersion>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/3067">EPSG:3067</gmx:Anchor>
+                     </gmd:code>
+                     <gmd:codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                     </gmd:codeSpace>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:referenceSystemInfo>
+            <gmd:MD_ReferenceSystem>
+               <gmd:referenceSystemIdentifier>
+                  <gmd:RS_Identifier>
+                     <gmd:code>
+                        <gmx:Anchor xlink:href="http://www.opengis.net/def/crs/EPSG/0/3035">EPSG:3035</gmx:Anchor>
+                     </gmd:code>
+                  </gmd:RS_Identifier>
+               </gmd:referenceSystemIdentifier>
+            </gmd:MD_ReferenceSystem>
+         </gmd:referenceSystemInfo>
+         <gmd:identificationInfo>
+            <gmd:MD_DataIdentification>
+               <gmd:citation>
+                  <gmd:CI_Citation>
+                     <gmd:title>
+                        <gco:CharacterString>Natura2000 alueet</gco:CharacterString>
+                     </gmd:title>
+                     <gmd:date>
+                        <gmd:CI_Date>
+                           <gmd:date>
+                              <gco:Date>2021-11-16</gco:Date>
+                           </gmd:date>
+                           <gmd:dateType>
+                              <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+                           </gmd:dateType>
+                        </gmd:CI_Date>
+                     </gmd:date>
+                     <gmd:identifier>
+                        <gmd:MD_Identifier>
+                           <gmd:code>
+                              <gmx:Anchor xlink:href="http://paikkatiedot.fi/so/1002201/ps/ProtectedSite">http://paikkatiedot.fi/so/1002201/ps/ProtectedSite</gmx:Anchor>
+                           </gmd:code>
+                        </gmd:MD_Identifier>
+                     </gmd:identifier>
+                  </gmd:CI_Citation>
+               </gmd:citation>
+               <gmd:abstract>
+                  <gco:CharacterString>Euroopan unioni pyrkii pysäyttämään luonnon monimuotoisuuden kadon alueellaan. Yksi tärkeimmistä keinoista päästä tavoitteeseen on Natura 2000 -verkosto. Verkosto turvaa luontodirektiivissä määriteltyjen luontotyyppien ja lajien elinympäristöjä. Tällaisia luontotyyppejä on Euroopassa noin 200 ja lajeja noin 700.
+
+EU:n jäsenmaat ehdottavat alueitaan Natura 2000 -verkostoon. Näitä luontodirektiivin (direktiivi 92/43/ETY) mukaisia alueita kutsutaan SCI-alueiksi. Lopullisen päätöksen verkostosta tekee Euroopan komissio. Päätöksen jälkeen jäsenmaa määrittelee verkostoon otetut alueet erityisten suojelutoimien alueiksi (SAC-alueiksi). Niillä toteutetaan kyseisten luontotyyppien ja lajien kannalta tärkeitä suojelutoimenpiteitä.
+
+Lisäksi verkostoon kuuluu lintudirektiivin (direktiivi 2009/147/EY) mukaisia erityisiä suojelualueita (SPA-alueet), jotka jäsenmaat valitsevat itse ja ilmoittavat komissiolle. Kohteiden suojelu perustuu Euroopan yhteisön luonto- ja lintudirektiiveihin, kohteiden suojeluperusteista käytetään seuraavia lyhenteitä: 
+SPA = Special Protection Areas, Lintudirektiivin mukaiset erityiset suojelualueet 
+SAC= Special Areas of Conservation, Erityisen suojelutoimien alue luontodirektiivin mukaisesti 
+SCI = Sites of Community Importance, Jäsenvaltion ehdotus luontodirektiivin perusteella suojeltavaksi alueeksi. 
+
+Natura2000- paikkatietokanta sisältää Suomen Natura2000-verkoston kohteet sekä lisäksi syyskuussa 2016 kuultavana olleet täydennyskohteet (Ehdotus Suomen Natura 2000-verkostoehdotuksen täydentämisestä).  Nämä täydennyskohteet on hyväksytty osaksi Suomen Natura2000 verkostoa Valtioneuvoston päätöksellä 5.12.2018.
+
+Paikkatietoaineistossa on omana tasonaan SPA- kohteet, SAC-kohteet ja SCI-kohteet. SAC-kohteet ovat geometrialtaan joko aluemaisia, viivamaisia tai molempia (ns. jokikohteet). 
+
+Aineisto muodostaa myös vesipuitedirektiivin (2000/60/EY) mukaisen suojelualuerekisterin, kullekin Natura-kohteelle on lisätty tieto siitä, onko kohde vesipuitedirektiivin mukainen suojelualue. 
+
+Aineiston kohdeluokat: 
+Natura 2000 - SCI Manner-Suomi - Ehdotus erityisten suojelutoimien alueeksi
+Natura 2000 - SAC Manner-Suomi aluemaiset - Erityisten suojelutoimien alue, aluemainen
+Natura 2000 - SAC Manner-Suomi viivamaiset - Erityisten suojelutoimien alue, viivamainen 
+Natura 2000 - SPA Manner-Suomi - Erityinen suojelualue
+
+
+
+Natura 2000 -verkostoon kuuluvien alueiden suojelua on tarkoitus toteuttaa mm. luonnonsuojelulain, erämaalain, ulkoilulain, maa-aineslain, koskiensuojelulain, vesilain ja ympäristönsuojelulain mukaisessa menettelyssä. 
+
+Aineisto kuuluu SYKEn avoimiin aineistoihin (CC BY 4.0).
+Aineistosta on julkaistu INSPIRE-tietotuote.
+
+Käyttötarkoitus: 
+Aineisto kuvaa Suomen Natura2000 verkoston alueet. Aineiston avulla on tuotettu virallisten päätösasiakirjojen kartat.
+
+Lisätietoja: 
+https://geoportal.ymparisto.fi/meta/julkinen/dokumentit/natura.pdf
+http://www.ym.fi/fi-FI/Luonto/Luonnon_monimuotoisuus/Luonnonsuojelualueet/Naturaalueet
+
+Natura 2000 areas
+
+The European Union (EU) is seeking to ensure biodiversity by conserving natural habitats and wild fauna and flora in the territory of the Member States. One of the most important means towards this goal is the establishment of the Natura 2000 protected area network under the Habitats Directive. Natura 2000 network ensures the conservation of biotopes and habitats of species requiring designation of Special Areas of Conservation listed in the Annexes of the Habitat's Directive. 
+
+Each EU Member State prepares a national list of proposed Sites of Community Importance (SCIs) for the European Commission. Criteria for the selection of these sites are included in the Annex III of the Habitat Directive. European Commission screens the proposed lists with help from the European Topic Centre for Biological Diversity (ETC-BD) of the EEA and Member States, to assess the quality and completeness of the information. The final decision of the proposed areas is done by the Council of the European Union or by the European Commission. Besides the SCIs the Natura 2000 network includes Special Areas of Conservation (SPAs) listed in the Birds Directive. The SPA areas are selected and announced to the Commission by the Member States.
+
+The conservation of protection sites belonging to the Natura 2000 network is implemented in accordance to the Nature Conservation Act, Outdoor Recreation Act, Land Extraction Act, Rapid Protection Act, Water Act and Environmental Protection Act.
+
+The protection of the sites is based on the EU Nature and Birds Directives. The following acronyms are used for the sites: 
+SPA = Special Areas of Conservation, areas protected accordance to the Bird Directive 
+SAC = Special Areas of Conservation, areas protected accordance to the Nature Directive
+SCI = Sites of Community Importance, areas protected accordance to the Nature Directive.
+
+Dataset covers all Natura areas included in the Reclamation of the Government. Natura areas located in Ahvenanmaa are not included.
+
+This SYKE’s dataset can be used according to open data license (CC BY 4.0).
+INSPIRE compatible dataset has been published.</gco:CharacterString>
+               </gmd:abstract>
+               <gmd:pointOfContact>
+                  <gmd:CI_ResponsibleParty>
+                     <gmd:organisationName>
+                        <gco:CharacterString>Suomen ympäristökeskus</gco:CharacterString>
+                     </gmd:organisationName>
+                     <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                           <gmd:address>
+                              <gmd:CI_Address>
+                                 <gmd:electronicMailAddress>
+                                    <gco:CharacterString>gistuki@syke.fi</gco:CharacterString>
+                                 </gmd:electronicMailAddress>
+                              </gmd:CI_Address>
+                           </gmd:address>
+                        </gmd:CI_Contact>
+                     </gmd:contactInfo>
+                     <gmd:role>
+                        <gmd:CI_RoleCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_RoleCode" codeListValue="owner">owner</gmd:CI_RoleCode>
+                     </gmd:role>
+                  </gmd:CI_ResponsibleParty>
+               </gmd:pointOfContact>
+               <gmd:graphicOverview>
+                  <gmd:MD_BrowseGraphic>
+                     <gmd:fileName>
+                        <gco:CharacterString>https://geoportal.ymparisto.fi/meta/julkinen/kuvat/natura.gif</gco:CharacterString>
+                     </gmd:fileName>
+                  </gmd:MD_BrowseGraphic>
+               </gmd:graphicOverview>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/theme/ps">Protected sites</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/inspire_themes">GEMET - INSPIRE themes, version 1.0</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2008-06-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://www.eionet.europa.eu/gemet/concept/5544">nature protection</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet/en/concept/6740">protected area</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="https://www.eionet.europa.eu/gemet">GEMET - Concepts, version 4.1.3</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-01-28</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/Natura2000Sites-dir-2009-147">Natura 2000 sites (Birds Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/Natura2000Sites-dir-1992-43">Natura 2000 sites (Habitats Directive)</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-1992-43">Directive 92/43/EEC</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/PriorityDataset/dir-2009-147">Directive 2009/147/EC</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme"/>
+                     </gmd:type>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>INSPIRE priority data set</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2018-04-04</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                           <gmd:identifier>
+                              <gmd:MD_Identifier>
+                                 <gmd:code>
+                                    <gmx:Anchor xlink:href="http://www.paikkatietohakemisto.fi/geonetwork/srv/eng/thesaurus.download?ref=external.theme.priority_datasets_kielistetty">geonetwork.thesaurus.external.theme.priority_datasets_kielistetty</gmx:Anchor>
+                                 </gmd:code>
+                              </gmd:MD_Identifier>
+                           </gmd:identifier>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope/national">National</gmx:Anchor>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/SpatialScope">Spatial scope</gmx:Anchor>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2019-05-22</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Paikkatietoaineisto</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:thesaurusName>
+                        <gmd:CI_Citation>
+                           <gmd:title>
+                              <gco:CharacterString>SYKE resource classification</gco:CharacterString>
+                           </gmd:title>
+                           <gmd:date>
+                              <gmd:CI_Date>
+                                 <gmd:date>
+                                    <gco:Date>2020-04-01</gco:Date>
+                                 </gmd:date>
+                                 <gmd:dateType>
+                                    <gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">Publication</gmd:CI_DateTypeCode>
+                                 </gmd:dateType>
+                              </gmd:CI_Date>
+                           </gmd:date>
+                        </gmd:CI_Citation>
+                     </gmd:thesaurusName>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>INSPIRE-tietotuote</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:descriptiveKeywords>
+                  <gmd:MD_Keywords>
+                     <gmd:keyword>
+                        <gco:CharacterString>Suojellut alueet</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>Natura2000</gco:CharacterString>
+                     </gmd:keyword>
+                     <gmd:keyword>
+                        <gco:CharacterString>luonnonsuojelu</gco:CharacterString>
+                     </gmd:keyword>
+                  </gmd:MD_Keywords>
+               </gmd:descriptiveKeywords>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:useConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:useConstraints>
+                     <gmd:otherConstraints>
+                        <gco:CharacterString>Creative Commons Nimeä 4.0 Kansainvälinen http://www.syke.fi/fi-FI/Avoin_tieto/Kayttolupa_ja_vastuut
+
+Lähde: SYKE</gco:CharacterString>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:resourceConstraints>
+                  <gmd:MD_LegalConstraints>
+                     <gmd:accessConstraints>
+                        <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+                     </gmd:accessConstraints>
+                     <gmd:otherConstraints>
+                        <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">no limitations</gmx:Anchor>
+                     </gmd:otherConstraints>
+                  </gmd:MD_LegalConstraints>
+               </gmd:resourceConstraints>
+               <gmd:spatialRepresentationType>
+                  <gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+               </gmd:spatialRepresentationType>
+               <gmd:spatialResolution>
+                  <gmd:MD_Resolution>
+                     <gmd:equivalentScale>
+                        <gmd:MD_RepresentativeFraction>
+                           <gmd:denominator>
+                              <gco:Integer>20000</gco:Integer>
+                           </gmd:denominator>
+                        </gmd:MD_RepresentativeFraction>
+                     </gmd:equivalentScale>
+                  </gmd:MD_Resolution>
+               </gmd:spatialResolution>
+               <gmd:language>
+                  <gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fin">fin</gmd:LanguageCode>
+               </gmd:language>
+               <gmd:topicCategory>
+                  <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+               </gmd:topicCategory>
+               <gmd:extent>
+                  <gmd:EX_Extent>
+                     <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                           <gmd:westBoundLongitude>
+                              <gco:Decimal>18.072817</gco:Decimal>
+                           </gmd:westBoundLongitude>
+                           <gmd:eastBoundLongitude>
+                              <gco:Decimal>33.052627</gco:Decimal>
+                           </gmd:eastBoundLongitude>
+                           <gmd:southBoundLatitude>
+                              <gco:Decimal>59.542092</gco:Decimal>
+                           </gmd:southBoundLatitude>
+                           <gmd:northBoundLatitude>
+                              <gco:Decimal>70.027135</gco:Decimal>
+                           </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                     </gmd:geographicElement>
+                     <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                           <gmd:extent>
+                              <gml:TimePeriod gml:id="Temporal">
+                                 <gml:beginPosition indeterminatePosition="unknown"/>
+                                 <gml:endPosition indeterminatePosition="unknown"/>
+                              </gml:TimePeriod>
+                           </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                     </gmd:temporalElement>
+                  </gmd:EX_Extent>
+               </gmd:extent>
+            </gmd:MD_DataIdentification>
+         </gmd:identificationInfo>
+         <gmd:distributionInfo>
+            <gmd:MD_Distribution>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>ESRI shapefile</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>3.x</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>GML</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>3.2.1</gco:CharacterString>
+                     </gmd:version>
+                     <gmd:specification>
+                        <gco:CharacterString>D2.8.I.9Data Specification on Protected SitesProtected Sites – Technical Guidelines</gco:CharacterString>
+                     </gmd:specification>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:distributionFormat>
+                  <gmd:MD_Format>
+                     <gmd:name>
+                        <gco:CharacterString>OGC WMS</gco:CharacterString>
+                     </gmd:name>
+                     <gmd:version>
+                        <gco:CharacterString>1.3.0</gco:CharacterString>
+                     </gmd:version>
+                  </gmd:MD_Format>
+               </gmd:distributionFormat>
+               <gmd:transferOptions>
+                  <gmd:MD_DigitalTransferOptions>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://wwwd3.ymparisto.fi/d3/gis_data/spesific/natura.zip</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn Avoin tieto -palvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>http://wwwd3.ymparisto.fi/d3/INSPIREAtom/PS_natura2000.xml</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SYKEn INSPIRE ATOM-syöte</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                     <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                           <gmd:linkage>
+                              <gmd:URL>https://paikkatieto.ymparisto.fi/arcgis/services/INSPIRE/SYKE_SuojellutAlueet/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS</gmd:URL>
+                           </gmd:linkage>
+                           <gmd:name>
+                              <gco:CharacterString>SuojellutAlueet INSPIRE WMS -katselupalvelu</gco:CharacterString>
+                           </gmd:name>
+                           <gmd:function>
+                              <gmd:CI_OnLineFunctionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
+                           </gmd:function>
+                        </gmd:CI_OnlineResource>
+                     </gmd:onLine>
+                  </gmd:MD_DigitalTransferOptions>
+               </gmd:transferOptions>
+            </gmd:MD_Distribution>
+         </gmd:distributionInfo>
+         <gmd:dataQualityInfo>
+            <gmd:DQ_DataQuality>
+               <gmd:scope>
+                  <gmd:DQ_Scope>
+                     <gmd:level>
+                        <gmd:MD_ScopeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+                     </gmd:level>
+                  </gmd:DQ_Scope>
+               </gmd:scope>
+               <gmd:report>
+                  <gmd:DQ_DomainConsistency>
+                     <gmd:result>
+                        <gmd:DQ_ConformanceResult>
+                           <gmd:specification>
+                              <gmd:CI_Citation>
+                                 <gmd:title>
+                                    <gmx:Anchor xlink:href="http://data.europa.eu/eli/reg/2010/1089">KOMISSION ASETUS (EU) N:o 1089/2010, annettu 23 päivänä marraskuuta 2010, Euroopan parlamentin ja neuvoston direktiivin 2007/2/EY täytäntöönpanosta paikkatietoaineistojen ja -palvelujen yhteentoimivuuden osalta</gmx:Anchor>
+                                 </gmd:title>
+                                 <gmd:date>
+                                    <gmd:CI_Date>
+                                       <gmd:date>
+                                          <gco:Date>2010-12-08</gco:Date>
+                                       </gmd:date>
+                                       <gmd:dateType>
+                                          <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+                                       </gmd:dateType>
+                                    </gmd:CI_Date>
+                                 </gmd:date>
+                              </gmd:CI_Citation>
+                           </gmd:specification>
+                           <gmd:explanation>
+                              <gco:CharacterString>Tietotuotemäärittelyt Inspire-direktiivin mukaisten paikkatietotuotteiden osalta.</gco:CharacterString>
+                           </gmd:explanation>
+                           <gmd:pass>
+                              <gco:Boolean>true</gco:Boolean>
+                           </gmd:pass>
+                        </gmd:DQ_ConformanceResult>
+                     </gmd:result>
+                  </gmd:DQ_DomainConsistency>
+               </gmd:report>
+               <gmd:lineage>
+                  <gmd:LI_Lineage>
+                     <gmd:statement>
+                        <gco:CharacterString>Ensimmäinen Natura2000-paikkatietoaineisto julkaistiin vuonna 1998 ja se sisälsi 20.8.1998 tehdyn valtioneuvoston päätöksen mukaiset kohteet. Aineistoa on sen jälkeen muokattu ja täydennetty uusien päätösten mukaiseksi.   Valtioneuvosto päätti Suomen ehdotukseen sisältyvistä alueista 20.8.1998 ja täydensi päätöstä 25.3.1999 Espoon kohteiden osalta. EU-komission pyynnöstä ehdotusta täydennettiin myös valtioneuvoston päätöksellä 8.5.2002. Korkeimman hallinto-oikeuden valtioneuvostolle uudelleen käsiteltäväksi palauttamista alueista valtioneuvosto teki päätöksen 22.1.2004. Lisäksi valtioneuvosto päätti Natura-verkoston täydentämisestä 2.6.2005. Valtioneuvosto tarkisti 23.11.2006 Kesonsuon-Syväysjoen Natura-alueen suojeluperusteita. Natura-verkoston täydentämisestä valtioneuvosto teki päätöksen 1.3.2012.    Ympäristöministeriön asetuksella (354/2015) Natura 2000 –verkostoon kuuluvien alueiden luettelosta on nimetty Euroopan komission hyväksymät verkostoon kuuluvat alueet erityisten suojelutoimien alueiksi (SAC-alueiksi).    Aineistossa on mukana myös kohteita, joita Suomi ehdottaa uusiksi täydennyskohteiksi Natura2000verkostoon. Nämä täydennyskohteita koskeva kuuleminen järjestettiin syyskuussa 2016. Ja ne hyväksyttiin osaksi Suomen Natura2000 verkostoa valtioneuvoston päätöksellä 5.12.2018. Täydennyskohteet voivat olla joko SCI tai SPA-alueissa ja kohteiden lisätietokentässä on maininta tästä.     Natura-alueet paikkatietoaineisto on alunperin tuotettu alueellisissa ympäristökeskuksissa digitoimalla alueiden rajaukset kuvaruudulla. Tausta-aineistona on pääasiassa käytetty kulloinkin saatavilla olevia peruskarttoja. Ensimmäiset rajaukset tehtiin vuosina 1996-1997. Tämän jälkeen aineistoja on täydennetty vuosina 1999, 2002, 2004, 2006 ja 2012. Aineiston avulla on tuotettu mm. ns. kuulemiskartat (mittakaavassa 1: 20 000 – 1: 50 000) kuntien ilmoitustauluille sekä valtioneuvoston päätösasiakirjoihin liitetyt ns. A4- kohdekartat. Nämä alueiden rajauskartat on toimitettu paperisina myös EUlle. Paperiset kartat ovat lainvoimaiset ja sitovat, kun taas digitaalisella aineistolla ei ole vastaavaa statusta. Digitaalista aineistoa ei ole päivitetty vastaamaan uudempia peruskarttoja. Rajauksia ei ole myöskään täsmennetty kiinteistörajoihin kokonaisuudessaan, mutta muutamia korjauksia on tehty.
+
+Natura 2000 dataset has been digitized from the screen based on the available topographic base maps. Digitization has been done by Regional Environment Centres. First delineations were done during 1996-1997. After this the Natura 2000 network has been amended on 1999, 2002, 2004, 2006, 2012 and 2018.
+The dataset was used for production of maps for administrative hearing (in scales 1:20000 – 1:50000) for the counties notice boards as well as decision documents for the Council of Ministers.
+These decision maps with area delineations were delivered to the EU in a paper form, since the paper map document is legally binding unlike the digital map. Digital dataset has not been updated to match recent base maps and the protection area boundaries are not aligned with the property boundaries of the cadastral maps.</gco:CharacterString>
+                     </gmd:statement>
+                  </gmd:LI_Lineage>
+               </gmd:lineage>
+            </gmd:DQ_DataQuality>
+         </gmd:dataQualityInfo>
+      </gmd:MD_Metadata>
