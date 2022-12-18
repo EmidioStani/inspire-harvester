@@ -1,13 +1,16 @@
 input:
-  folder: "data"
+  folder: "data-3"
   extension: ".xml"
 output:
-  folder: "output"
-  file: "inspire-dcat-ap.ttl"
-  format: "turtle"
+  folder: "output-ml2"
+  outputfile: "inspire-dcat-ap.nt"
+  format: "ntriples"
+log:
+  folder: "logs"
+  extension: ".log"
 validation:
   url: "https://www.itb.ec.europa.eu/shacl/dcat-ap/api/validate"
-  inputsyntax: "text/turtle"
+  inputsyntax: "application/n-triples"
   version: "v2.0"
   outputsyntax: "application/ld+json"
   jsonconform: "sh:conforms"
@@ -20,37 +23,138 @@ xml:
   xpath:
     identifier: "/gmd:MD_Metadata/gmd:fileIdentifier/gco:CharacterString"
     title: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:title/gco:CharacterString"
+    titlefreetext: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:title/gmd:PT_FreeText/gmd:textGroup/gmd:LocalisedCharacterString"
+    titlefreetextlanguage: "@locale"
     keywords: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:keyword/gco:CharacterString"
     datathemes: 
       anchor: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:descriptiveKeywords/gmd:MD_Keywords/gmd:keyword/gmx:Anchor"
       link: "@xlink:href"
+    topic: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:topicCategory/gmd:MD_TopicCategoryCode"
     date: "/gmd:MD_Metadata/gmd:dateStamp/gco:Date"
     datetime: "/gmd:MD_Metadata/gmd:dateStamp/gco:DateTime"
     abstract: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:abstract/gco:CharacterString"
+    abstractfreetext: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:abstract/gmd:PT_FreeText/gmd:textGroup/gmd:LocalisedCharacterString"
     contactpoints:
       party: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:pointOfContact/gmd:CI_ResponsibleParty"
       name: "./gmd:organisationName/gco:CharacterString"
+      contactinfo: 
+        path: "./gmd:contactInfo/gmd:CI_Contact"
+        phone:
+          path: "./gmd:phone/gmd:CI_Telephone"
+          telephone: "./gmd:voice/gco:CharacterString"
+          fax: "./gmd:facsimile/gco:CharacterString"
+        address:
+          path: "./gmd:address/gmd:CI_Address"
+          deliverypoint: "./gmd:deliveryPoint/gco:CharacterString"
+          city: "./gmd:city/gco:CharacterString"
+          postalcode: "./gmd:postalCode/gco:CharacterString"
+          country: "./gmd:country/gco:CharacterString"
+          email: "./gmd:electronicMailAddress/gco:CharacterString"
     contacts:
       party: "/gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty"
       name: "./gmd:organisationName/gco:CharacterString"
+      contactinfo: 
+        path: "./gmd:contactInfo/gmd:CI_Contact"
+        phone:
+          path: "./gmd:phone/gmd:CI_Telephone"
+          telephone: "./gmd:voice/gco:CharacterString"
+          fax: "./gmd:facsimile/gco:CharacterString"
+        address:
+          path: "./gmd:address/gmd:CI_Address"
+          deliverypoint: "./gmd:deliveryPoint/gco:CharacterString"
+          city: "./gmd:city/gco:CharacterString"
+          postalcode: "./gmd:postalCode/gco:CharacterString"
+          country: "./gmd:country/gco:CharacterString"
+          email: "./gmd:electronicMailAddress/gco:CharacterString"
     distributors:
       party: "/gmd:MD_Metadata/gmd:distributionInfo/gmd:MD_Distribution/gmd:distributor/gmd:MD_Distributor/gmd:distributorContact/gmd:CI_ResponsibleParty"
       name: "./gmd:organisationName/gco:CharacterString"
+    distributions:
+      path: "/gmd:MD_Metadata/gmd:distributionInfo/gmd:MD_Distribution"
+      format: "./gmd:distributionFormat/gmd:MD_Format/gmd:name/gco:CharacterString"
+      formatanchor: "./gmd:distributionFormat/gmd:MD_Format/gmd:name/gmx:Anchor"
+      transfer:
+        path: "./gmd:transferOptions"
+        accessURL: "./gmd:MD_DigitalTransferOptions/gmd:onLine/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"
+    license:
+      legalconstraint: "/gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:resourceConstraints/gmd:MD_LegalConstraints/gmd:useConstraints"
+      name: "./following-sibling::gmd:otherConstraints/gco:CharacterString"
+      type:
+        path: "./gmd:MD_RestrictionCode"
+        name: "@codeListValue"
+        code: "@codeList"
+    language: 
+      code: "/gmd:MD_Metadata/gmd:language/gmd:LanguageCode"
+      value: "@codeListValue"
+    language2: "/gmd:MD_Metadata/gmd:language/gco:CharacterString"
+map:
+  languages:
+    bul: "bg"
+    cze: "cs"
+    dan: "da"
+    dut: "nl"
+    dutch: "nl"
+    eng: "en"
+    est: "et"
+    fin: "fi"
+    fre: "fr"
+    ger: "de"
+    gre: "el"
+    hrv: "hr"
+    hun: "hu"
+    ice: "is"
+    ita: "it"
+    lav: "lv"
+    nor: "no"
+    pol: "pl"
+    por: "pt"
+    ru: "ru"
+    rum: "ro"
+    slo: "sk"
+    slv: "sl"
+    spa: "es"
+    swe: "sv"
+
 rdf:
   vcard:
     namespace: "vcard"
     uri: "http://www.w3.org/2006/vcard/ns#"
+  hvd:
+    namespace: "hvd"
+    uri: "http://www.hvd.org/ns#"
   uri:
     dataset: "http://inspire.ec.europa.eu/dataset/"
     location: "http://inspire.ec.europa.eu/location/"
-    contactpoint: "http://inspire.ec.europa.eu/organization/"
+    contactpoint: "http://inspire.ec.europa.eu/contactpoint/"
     publisher: "http://inspire.ec.europa.eu/organization/"
+    license: "http://inspire.ec.europa.eu/license/"
+    language: "http://publications.europa.eu/resource/authority/language/"
+    telephone: "http://inspire.ec.europa.eu/telephone/"
+    fax: "http://inspire.ec.europa.eu/fax/"
+    address: "http://inspire.ec.europa.eu/address/"
+    distribution: "http://inspire.ec.europa.eu/distribution/"
+    format: "http://inspire.ec.europa.eu/format/"
+    topic: "http://inspire.ec.europa.eu/topic/"
 bar:
-  description: "Files"
-  colour: "BLUE"
-  leave: True
+  files:
+    description: "Files"
+    colour: "BLUE"
+    leave: True
+  merge:
+    description: "Merging"
+    colour: "Yellow"
+    leave: True
 message:
   export: "Exporting graph..."
   validation: "Contacting validator..."
   conform: "RDF conform \u2705"
   notconform: "RDF not conform \u274C"
+labels:
+  - administration
+  - health
+  - climate loss
+  - agriculture
+  - food
+  - fisheries
+  - energy
+  - tourism

@@ -1,9 +1,10 @@
 portal: https://inspire-geoportal.ec.europa.eu/results.html?country=eu&view=details&legislation=all
+portalall: https://inspire-geoportal.ec.europa.eu/results.html?country=eu&view=details&theme=none
 selenium:
   timeoutmessage: "Timed out waiting for page to load"
   timeouttable: 10
   timeoutrefresh: 5
-  timeoutnextpage: 5
+  timeoutnextpage: 3
   timeoutwaitfordownload: 3
   timeoutnextrequest: 2
   selectors:
@@ -12,16 +13,26 @@ selenium:
     metadatapage:  "td:nth-child(2) > div > a:nth-child(1)"
     tablerow: "tr"
     metadatapagehref: "href"
+    total: "//li[@id='resultsDataTable_next']/preceding-sibling::li[1]/a"
     nextpagebutton: "#resultsDataTable_next:not(.disabled)"
     metadatadownload: "#data-metadata-download"
     metadatacountry: "#dataCountry"
     metadatapagedownloadhref: "href"
-  datasetperpage: 100
+  datasetperpage: "100"
 output:
-  folder: "data"
+  list: "list2.json"
+  folder: "data-3"
 request:
   header:
     user_agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3
     x_mashape_key: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     connection: keep-alive
   timeout: 30
+listbar:
+  description: "Get list"
+  colour: "BLUE"
+  leave: True
+bar:
+  description: "Files"
+  colour: "YELLOW"
+  leave: True
